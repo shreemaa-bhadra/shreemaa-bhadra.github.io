@@ -15,15 +15,11 @@ tags:
 - vada
 - yellow-peas
 image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
-listing_summary: The rain in the evening almost pulled me back to the childhood memories
-  when guests arrived at home. I could recollect, every turn on the street of Bhubaneswar
-  had amazing roadside food stalls, frying Aloo chop, Bara Ghuguni (Bara, Shingada
-  (a.k.a Samosa) with the complementary Ghuguni (Yellow peas curry)). <!--more-->
-  The guest who came down were treated with those mouth-watering delicacies. As a
-  kid, I eagerly waited for the guests to come, so that I could get an evening without
-  studies and my taste buds got…
-listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-21.jpg"
+listing_summary: Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups.
+listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
+
+![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
 
 
