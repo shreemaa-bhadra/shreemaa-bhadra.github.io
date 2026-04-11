@@ -6,9 +6,7 @@ categories:
 - bread
 - breakfast
 image: "/assets/uploads/2018/10/IMG_3293.jpg"
-listing_summary: "Puran Poli is the traditional Maharashtrian flat bread. It\\u2019s whole wheat flat bread stuffed with jaggery and lentil filling. This is cherished during Indian festivals. Let's Get CookingPuran Poli"
-  wheat flat bread stuffed with jaggery and lentil filling. This is cherished during
-  Indian festivals.
+listing_summary: "Puran Poli is the traditional Maharashtrian flat bread. It's whole wheat flat bread stuffed with jaggery and lentil filling. This is cherished during Indian festivals."
 listing_image: "/assets/uploads/2018/10/IMG_3293.jpg"
 ---
 ![puran-poli image](/assets/uploads/2018/10/IMG_3293.jpg)
