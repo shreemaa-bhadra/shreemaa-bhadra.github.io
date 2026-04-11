@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <div class="home-intro">
+    {{ content }}
+  </div>
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Latest recipes" }}</h2>
+    <div class="post-previews" role="feed" aria-label="Recipe posts">
+      {%- for post in site.posts -%}
+        <article class="post-preview">
+          <a class="post-preview__card" href="{{ post.url | relative_url }}">
+            {%- if post.listing_image -%}
+            <div class="post-preview__thumb">
+              <img
+                src="{{ post.listing_image | relative_url }}"
+                alt="{{ post.title | escape }}"
+                loading="lazy"
+                decoding="async"
+                width="640"
+                height="427"
+              />
+            </div>
+            {%- endif -%}
+            <div class="post-preview__body">
+              {%- assign _df = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: _df }}</time>
+              <h3 class="post-preview__title">{{ post.title | escape }}</h3>
+              {%- if post.listing_summary -%}
+              <p class="post-preview__summary">{{ post.listing_summary | escape }}</p>
+              {%- endif -%}
+            </div>
+          </a>
+        </article>
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+</div>

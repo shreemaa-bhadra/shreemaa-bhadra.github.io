@@ -1,0 +1,26 @@
+title: Cook's Pan
+description: >-
+  Recipes, notes, and stories from the Shreemaa's Kitchen.
+baseurl: ""
+url: "https://cookspan.github.io/cookspan"
+
+author:
+  name: Shreemaa Bhadra
+
+theme: minima
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+  - scripts
