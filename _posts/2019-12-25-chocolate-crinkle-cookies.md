@@ -6,12 +6,11 @@ categories:
 - baking
 - cookies
 image: "/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg"
-listing_summary: Baking is one of my favorite hobby, and with the holiday season,
-  baking is all in the air. The little man all geared for holidays is helping me mould
-  those beautiful Christmas cookies. Though I baked a few of them, something I absolutely
-  loved is this fudgey and gooey Chocolate Crinkle Cookies.
-listing_image: "/assets/uploads/2019/12/IMG_4018.jpg"
+listing_summary: "Chocolate Crinkle cookies are shiny crinkle cookies which has the texture of chocolate fudge and is coated with sugar for the shine visuals. Let's Get CookingChocolate Crinkle Cookies"
+listing_image: "/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg"
 ---
+![chocolate-crinkle-cookies image](/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg)
+
 
 
 

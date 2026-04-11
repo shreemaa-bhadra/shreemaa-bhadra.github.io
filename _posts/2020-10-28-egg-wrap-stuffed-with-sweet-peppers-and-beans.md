@@ -14,10 +14,11 @@ tags:
 - prep-less-60-mins
 - sweet-peppers
 image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
-listing_summary: Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-based wrap
-  stuffed with an easy salad made up Sweet Peppers and boiled beans.
+listing_summary: "Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-based wrap stuffed with an easy salad made up of Sweet Peppers and boiled beans. The wrap has an amazing combination of texture and flavors and is wholesome and easy to make. Let's Get CookingEgg Wrap stuffed with Sweet peppers and Beans"
 listing_image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
 ---
+![egg-wrap-stuffed-with-sweet-peppers-and-beans image](/assets/uploads/2020/10/IMG_9236-scaled.jpg)
+
 
 
 

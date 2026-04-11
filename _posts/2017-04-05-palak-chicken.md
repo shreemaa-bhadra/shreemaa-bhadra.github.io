@@ -12,11 +12,11 @@ tags:
 - prep-less-60-mins
 - spinach
 image: "/assets/uploads/2017/04/DSC_0924.jpg"
-listing_summary: Palak Chicken or Chicken cooked in Spinach Gravy is an Indian curry
-  served as a main course with flattened bread and is generally subtle in its flavors
-  with a high index of nutrition and health.
+listing_summary: "Palak Chicken or Chicken cooked in Spinach Gravy is an Indian curry served as a main course with flattened bread and is generally subtle in its flavors with a high index of nutrition and health. Let's Get CookingPalak Chicken or Chicken Cooked in Spinach Gravy"
 listing_image: "/assets/uploads/2017/04/DSC_0924.jpg"
 ---
+![palak-chicken image](/assets/uploads/2017/04/DSC_0924.jpg)
+
 
 
 

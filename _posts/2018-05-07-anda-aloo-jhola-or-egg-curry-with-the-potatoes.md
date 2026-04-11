@@ -7,11 +7,11 @@ categories:
 - non-vegeterian
 - odia
 image: "/assets/uploads/2018/05/DSC_4550.jpg"
-listing_summary: Anda Aloo Jhola is a thin gravy of Eggs and Potatoes cooked with
-  Onions and Tomatoes gravy where the subtle spices play the role to add the flavors.
-  The dish is served with Rice or Indian Flatbread Roti for meals.
+listing_summary: "Anda Aloo Jhola is a thin gravy of Eggs and Potatoes cooked with Onions and Tomatoes gravy where the subtle spices play the role to add the flavors. The dish is served with Rice or Indian Flatbread Roti for meals. Let's Get CookingAnda Aloo Jhola or Egg Curry with the Potatoes"
 listing_image: "/assets/uploads/2018/05/DSC_4550.jpg"
 ---
+![anda-aloo-jhola-or-egg-curry-with-the-potatoes image](/assets/uploads/2018/05/DSC_4550.jpg)
+
 
 
 

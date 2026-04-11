@@ -10,11 +10,11 @@ tags:
 - mushroom
 - pepper
 image: "/assets/uploads/2017/10/DSC_2064.jpg"
-listing_summary: Mushroom pepper fry is a subtle mushroom recipe cooked with onions
-  and bell peppers, spiced with crushed black pepper. Perfect side dish to an Indian
-  plate.
+listing_summary: "Mushroom pepper fry is a subtle mushroom recipe cooked with onions and bell peppers, spiced with crushed black pepper. Perfect side dish to an Indian plate. Let's Get CookingMushroom Pepper Fry"
 listing_image: "/assets/uploads/2017/10/DSC_2064.jpg"
 ---
+![mushroom-pepper-fry image](/assets/uploads/2017/10/DSC_2064.jpg)
+
 
 
 

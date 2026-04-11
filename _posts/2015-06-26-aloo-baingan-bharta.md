@@ -10,13 +10,11 @@ tags:
 - eggplant
 - prep-less-60-mins
 image: "/assets/uploads/2015/06/DSC_3537.jpg"
-listing_summary: Aloo Baingan Bharta/Mashed Potato - Brinjal Office is taking its
-  Toll on me. Every day, it's turning to be a long, long day till 9 pm or more. While
-  returning today I felt like eating something simple. Aloo-Baingan Bharta is one
-  of those every day comfort food, which is a healthy option for your hunger and it's
-  easy and quick to make.
-listing_image: "/assets/uploads/2015/06/DSC_3551.jpg"
+listing_summary: "Aloo Baingan Bharta is lightly spiced comfort food which is made out of limited spices and healthy Eggplant. It's a great accomplishment to Chapatis. Let's Get CookingAloo Baingan Bharta"
+listing_image: "/assets/uploads/2015/06/DSC_3537.jpg"
 ---
+![aloo-baingan-bharta image](/assets/uploads/2015/06/DSC_3537.jpg)
+
 
 
 

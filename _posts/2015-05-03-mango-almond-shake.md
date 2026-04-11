@@ -14,11 +14,11 @@ tags:
 - refresher
 - summer
 image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
-listing_summary: Mango Shake is a refreshing drink for the summer. It's seasonal and
-  the creamy pulpy texture is like a light bite and fills your stomach and loads you
-  with nutrients.
+listing_summary: "Mango Shake is a refreshing drink for the summer. It's seasonal and the creamy pulpy texture is like a light bite and fills your stomach and loads you with nutrients. Let's Get CookingMango Almond Shake"
 listing_image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
 ---
+![mango-almond-shake image](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
+
 
 
 

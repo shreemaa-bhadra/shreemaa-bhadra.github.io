@@ -16,10 +16,11 @@ tags:
 - sweet-dish
 - wheat
 image: "/assets/uploads/2016/10/DSC_9386.jpg"
-listing_summary: Eggless whole wheat banana bread is a light tea time snack, made
-  from overripe mashed bananas and is a moist cake-like quick bread made without leavening.
-listing_image: "/assets/uploads/2016/10/DSC_9373.jpg"
+listing_summary: "Eggless whole wheat banana bread is a light tea time snack, made from overripe mashed bananas and is a moist cake-like quick bread made without leavening. Let's Get CookingEggless Whole Wheat Banana Bread \\\\u2013 a perfect toast to my friendship over chai shai"
+listing_image: "/assets/uploads/2016/10/DSC_9386.jpg"
 ---
+![eggless-whole-wheat-banana-bread-a-perfect-toast-to-my-friendship-over-chai-shai image](/assets/uploads/2016/10/DSC_9386.jpg)
+
 
 
 

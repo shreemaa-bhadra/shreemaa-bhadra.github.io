@@ -15,15 +15,11 @@ tags:
 - festival
 - potato
 image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
-listing_summary: Smashed potato chaat was something unconventional, but it was a hit
-  in our family. Chaats are absolute love for me. It's a perfect amalgamation of the
-  flavor, taste, and texture. A single bite of chaat gives a platter full of tastes.
-  A perfect chaat is one with a filling base, a pea or chickpea topping, with amazing
-  chutneys which is the heart and soul of chaat (one sour n spicy and the other sweet
-  and sour), and some chickpea crips (namkeens or sev) and veggies (cucumber, tomatoes,
-  and onions) for toppings.
-listing_image: "/assets/uploads/2020/11/DSC0010-scaled.jpg"
+listing_summary: "Smashed potato Chaat is an Indo \u2013 American fusion recipe. It's a perfect platter or starter for any celebration times. This is loaded with sweet, savory flavors with multiple textures with a potato base. This chat an inspiration drawn from Aloo Tikki Chaat. Let's Get CookingSmashed Potato Chaat"
+listing_image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
 ---
+![smashed-potato-chaat image](/assets/uploads/2020/11/DSC0003-scaled.jpg)
+
 
 
 

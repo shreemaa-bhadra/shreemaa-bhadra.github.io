@@ -14,10 +14,11 @@ tags:
 - festival
 - prep-less-60-mins
 image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
-listing_summary: Gajar ka Halwa or Carrot halwa is a sweet pudding made of carrots,
-  clarified butter and sugar. It's seasoned with cardamom and nuts.
+listing_summary: "Gajar ka Halwa or Carrot halwa is a sweet pudding made of carrots, clarified butter, and sugar. It's seasoned with cardamom and topped with cashew nuts and almonds. Let's Get CookingGajar ka Halwa"
 listing_image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
 ---
+![gajar-ka-halwa image](/assets/uploads/2020/11/IMG_9707-1-scaled.jpg)
+
 
 
 

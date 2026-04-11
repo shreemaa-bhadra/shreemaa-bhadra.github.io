@@ -15,11 +15,11 @@ tags:
 - prep-less-60-mins
 - vada
 image: "/assets/uploads/2017/04/DSC_1550.jpg"
-listing_summary: Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made
-  up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time
-  snack.
-listing_image: "/assets/uploads/2017/04/DSC_1559.jpg"
+listing_summary: "Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time snack. Let's Get CookingButa Daali Bara or Channa Dal Vada"
+listing_image: "/assets/uploads/2017/04/DSC_1550.jpg"
 ---
+![buta-daali-bara-or-channa-dal-vada image](/assets/uploads/2017/04/DSC_1550.jpg)
+
 
 
 

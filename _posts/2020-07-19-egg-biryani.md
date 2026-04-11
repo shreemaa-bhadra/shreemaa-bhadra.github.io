@@ -6,15 +6,11 @@ categories:
 - egg
 - rice
 image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
-listing_summary: Biryani is an Epic, I dare not say it's the traditional recipe. Biryani
-  has evolved a lot, it's evolved over places across. The local spices play a crucial
-  role in the recipe. Neither this Biryani is traditional to core nor egg is the traditional
-  hero of the dish. Meat plays an important role in biryani, but somehow the spices
-  have taken the front seat to define this one-pot rice dish. The meat is replaced
-  by a variety choice of proteins and veggies according to a choice of the palate.
-  And, this Egg Biryani recipe…
-listing_image: "/assets/uploads/2020/07/DSC_9824-scaled.jpg"
+listing_summary: "Egg biryani is a wholesome one-pot meal cooked with a wide range of spices. This biryani recipe is a wholesome, enriched, flavorful, and a great source of protein. This main course is generally served with coolants like cucumber raita or boondi raita. Let's Get CookingEgg Biryani"
+listing_image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
 ---
+![egg-biryani image](/assets/uploads/2020/07/DSC_9825-scaled.jpg)
+
 
 
 

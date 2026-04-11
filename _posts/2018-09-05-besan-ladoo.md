@@ -10,10 +10,11 @@ tags:
 - festival
 - healthy-home-recipes
 image: "/assets/uploads/2018/09/DSC0041-scaled.jpg"
-listing_summary: Besan Ladoo is small bites made from chickpea flour and a variety
-  of dry fruits, sweetened with sugar and flavored with clarified butter or ghee.
-listing_image: "/assets/uploads/2018/09/DSC_6672.jpg"
+listing_summary: "Besan Ladoo is small bites made from chickpea flour and a variety of dry fruits, sweetened with sugar and flavored with clarified butter or ghee. Let's Get CookingBesan Ladoo or Chickpea flour bites"
+listing_image: "/assets/uploads/2018/09/DSC0041-scaled.jpg"
 ---
+![besan-ladoo image](/assets/uploads/2018/09/DSC0041-scaled.jpg)
+
 
 
 

@@ -12,14 +12,11 @@ tags:
 - prep-more-60mins
 - rohu
 image: "/assets/uploads/2015/10/DSC_5662.jpg"
-listing_summary: Rohi Maccha Jhola or Rohu Macher Jhol or Rohu Fish Cooked in a thick
-  rich Gravy Fishy Fish has finally got a place in cook's pan. Whoa!! The greatest
-  delight to any person kin to coastal India is Fish. We love fish, we can cook it
-  in umpteen ways. We can eat it many times a week. We can always think and dream
-  of innovating it so that the main ingredient fish gets its best form. Being so native
-  to Fish doesn't make you run away from the fishy smell rather it attracts your appetite.
-listing_image: "/assets/uploads/2015/10/DSC_5656.jpg"
+listing_summary: "Machha Jhola is the fish cooked in a rich spicy gravy. It's assorted with garam masala to bring unique flavors and does justice to your taste buds. Generally served with Plain Rice. Let's Get CookingMachha Jhola"
+listing_image: "/assets/uploads/2015/10/DSC_5662.jpg"
 ---
+![machha-jhola image](/assets/uploads/2015/10/DSC_5662.jpg)
+
 
 
 

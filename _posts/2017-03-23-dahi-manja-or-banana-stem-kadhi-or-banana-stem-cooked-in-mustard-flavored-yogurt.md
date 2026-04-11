@@ -14,10 +14,11 @@ tags:
 - mustard
 - prep-less-60-mins
 image: "/assets/uploads/2017/03/DSC_7561.jpg"
-listing_summary: How to make step by step dahi manja. The recipe is a delicacy from
-  Odisha and is served with Plain rice or a rice platter.
-listing_image: "/assets/uploads/2016/05/DSC_7561.jpg"
+listing_summary: "How to make step by step dahi manja. The recipe is a delicacy from Odisha and is served with Plain rice or a rice platter. Let's Get CookingDahi Manja or Banana Stem Kadhi or Banana Stem cooked in Mustard flavored Yogurt"
+listing_image: "/assets/uploads/2017/03/DSC_7561.jpg"
 ---
+![dahi-manja-or-banana-stem-kadhi-or-banana-stem-cooked-in-mustard-flavored-yogurt image](/assets/uploads/2017/03/DSC_7561.jpg)
+
 
 
 

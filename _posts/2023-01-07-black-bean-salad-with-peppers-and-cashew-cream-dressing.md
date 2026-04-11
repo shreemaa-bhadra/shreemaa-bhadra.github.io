@@ -5,14 +5,11 @@ date: '2023-01-07 00:00:00 +0000'
 categories:
 - salads-2
 image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
-listing_summary: After moving to the States, Mexican cuisine has taken a special place
-  in our heart. Ingredients like Chipotle, chilli powder, Jalapeno, Black beans have
-  become our home staples. And with the Ingredients in hands reach and soaked and
-  boiled beans in my fridge or kitchen, it takes few minutes to whip this salad. We
-  usually enjoy these salad stuffing sometimes with tortillas and sometimes the bowl
-  is good enough for the lunch due to it's wholesomeness.
-listing_image: "/assets/uploads/2023/01/DSC0203-scaled.jpeg"
+listing_summary: "Healthy Black bean Salad with Peppers and Cashew cream dressing is a scrumptious one pot meal. Let's Get CookingBlack bean Salad with Peppers and Cashew cream dressing"
+listing_image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
 ---
+![black-bean-salad-with-peppers-and-cashew-cream-dressing image](/assets/uploads/2023/01/DSC0196-scaled.jpeg)
+
 
 
 

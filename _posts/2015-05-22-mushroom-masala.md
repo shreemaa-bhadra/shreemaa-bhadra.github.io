@@ -10,11 +10,11 @@ tags:
 - mushroom
 - prep-less-60-mins
 image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
-listing_summary: Let's play a riddle today. The king of today's dish is neither a
-  vegetable nor a fruit. It's a controversial topic among vegetarian and non-vegetarian.
-  Guess! Guess! What's the thing we are talking about? You are right. It's Mushroom!
+listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris. Let's Get CookingMushroom Masala | Spiced Mushroom Gravy"
 listing_image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 ---
+![mushroom-masala image](/assets/uploads/2015/05/Mushroom-Masala.jpg)
+
 
 
 

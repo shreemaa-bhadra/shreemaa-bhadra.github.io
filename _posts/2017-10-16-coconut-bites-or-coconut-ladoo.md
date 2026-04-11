@@ -9,10 +9,11 @@ tags:
 - coconut
 - easy
 image: "/assets/uploads/2017/10/DSC_3029.jpg"
-listing_summary: Coconut Ladoo are the sweet bites made up coconut, sweetened and
-  moistened with condensed milk with a crust of dry flakes of coconut.
-listing_image: "/assets/uploads/2017/10/DSC_3022.jpg"
+listing_summary: "Coconut Ladoo are the sweet bites made up coconut, sweetened and moistened with condensed milk with a crust of dry flakes of coconut. Let's Get CookingCoconut Bites or Coconut Ladoo"
+listing_image: "/assets/uploads/2017/10/DSC_3029.jpg"
 ---
+![coconut-bites-or-coconut-ladoo image](/assets/uploads/2017/10/DSC_3029.jpg)
+
 
 
 

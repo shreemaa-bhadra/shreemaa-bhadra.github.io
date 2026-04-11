@@ -11,15 +11,11 @@ tags:
 - summer
 - watermelon
 image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
-listing_summary: Granita is one of the semi-frozen desserts from Italy. It's basically
-  made from simple ingredients fruit juice (any of your choice watermelon, berries,
-  lime), sugar, and water. It's the basic science of freezing and forming the crystalline
-  structure. I love the ice lollies served Indian way with all basic flavors. But
-  in the States, I got very rare chances of enjoying the ice lollies. So I decided
-  to make the Granita which looked to be the closest cousin of the ice lollies. I
-  used the watermelon.
+listing_summary: "Watermelon Granita is a semi-frozen dessert from the land of Sicily. It's an Italian Dessert relished during summer, made with basics of sugar, water, and fruit juice of your choice. Let's Get CookingWatermelon Granita"
 listing_image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
 ---
+![watermelon-granita image](/assets/uploads/2020/06/DSC_9388-scaled.jpg)
+
 
 
 

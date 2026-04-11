@@ -13,15 +13,11 @@ tags:
 - raja
 - sweet-dish
 image: "/assets/uploads/2020/06/DSC_9374-5-scaled.jpg"
-listing_summary: Biri Poda Pitha is a traditional Odia cake, made up of lentils and
-  Rice, it's slow-cooked with dry fruits and nuts. It's traditionally made during
-  this four-day-long celebration of Raja. Raja (pronounced as RawJaw) is one of the
-  age-old celebrations of we Odias. It's a celebration and gesture of respect for
-  womanhood and motherhood. The monsoons hit Odisha during this time, enhancing the
-  fertility of the land and bringing hopes of bounties and prosperity. So, before
-  plowing the fields and sowing the seeds, mother…
+listing_summary: "Biri Poda Pitha is a traditional Odia cake, made up of lentils and Rice, it's slow-cooked with dry fruits and nuts. It's traditionally made during this four-day-long celebration of Raja. Let's Get CookingBiri Poda Pitha"
 listing_image: "/assets/uploads/2020/06/DSC_9374-5-scaled.jpg"
 ---
+![biri-poda-pitha image](/assets/uploads/2020/06/DSC_9374-5-scaled.jpg)
+
 
 
 

@@ -12,12 +12,11 @@ tags:
 - rice
 - turmeric
 image: "/assets/uploads/2017/09/DSC_2738.jpg"
-listing_summary: Kanika is a mildly sweet fragrant rice flavored with some spices
-  and ghee (the clarified butter) loaded with cashew nuts and raisins and is colored
-  with the turmeric. The basic feature of the rice is the separated well puffed grains
-  embellished with a perfect shine from the Ghee.
-listing_image: "/assets/uploads/2017/09/DSC_2742.jpg"
+listing_summary: "Kanika is a mildly sweet fragrant rice flavored with some spices and ghee (the clarified butter) loaded with cashew nuts and raisins and is colored with the turmeric. The basic feature of the rice is the separated well puffed grains embellished with a perfect shine from the Ghee. Let's Get CookingKanika\\u2026. The sweet rice from the state of Odisha"
+listing_image: "/assets/uploads/2017/09/DSC_2738.jpg"
 ---
+![kanika-sweet-rice-odisha image](/assets/uploads/2017/09/DSC_2738.jpg)
+
 
 
 

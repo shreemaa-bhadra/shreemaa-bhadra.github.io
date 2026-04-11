@@ -1,31 +1,26 @@
 ---
 layout: post
 title: Egg Mayo Salad - Sandwich | Egg Sandwich
-date: '2015-04-26 00:00:00 +0000'
+date: "2015-04-26 00:00:00 +0000"
 categories:
-- breakfast
-- egg
-- salads
-- sandwiches
-- snacks
-- starters
+  - breakfast
+  - egg
+  - salads
+  - sandwiches
+  - snacks
+  - starters
 tags:
-- easy
-- healthy-home-recipes
-- mayo
-- mayonnaise
-- prep-less-60-mins
+  - easy
+  - healthy-home-recipes
+  - mayo
+  - mayonnaise
+  - prep-less-60-mins
 image: "/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg"
-listing_summary: Presenting you two recipes, an amazing mouth watering egg mayonnaise
-  salad and crunchy egg sandwich to kill your heavy hunger.
+listing_summary: "Presenting you two recipes, an amazing mouth watering egg mayonnaise salad and crunchy egg sandwich to kill your heavy hunger. Let's Get CookingEgg Mayo Salad Sandwich | Egg Sandwich"
 listing_image: "/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg"
 ---
 
-
-
-
-
-
+![egg-mayo-salad-sandwich image](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)
 
 Cooking is an art, where you play with the ingredient to vary the taste. It's amazing how twisting every bit of spice produces a wide range of recipes. Sometimes the weather influence cooking, sometimes the mood and sometimes in order to lure your near or dear ones you play with the flavors.
 
@@ -52,7 +47,7 @@ So the recipe and mood goes as below:
 
 ## **Steps of Preparation:**
 
-   _Preparation Time: 15 mins_    _Cooking Time_ : _30 mins_
+   *Preparation Time: 15 mins*    *Cooking Time* : *30 mins*
 
 1. Boil the eggs for 20-25 mins in the pan till it's hard boiled.
 2. Peel off the skin and cut the eggs into medium cubes along with the yolk firmly attached with the egg white.
@@ -108,4 +103,3 @@ Instructions
 5. Garnish the salad mix with the finely chopped coriander leaves. You can place this salad mix for the starter buffet in the dinner or lunch.
 6. After the mix is done, cut the bread pieces to two diagonally n stuff to the salad mix.
 7. Place the sandwich in the hot pan and grill it for 2 mins.
-

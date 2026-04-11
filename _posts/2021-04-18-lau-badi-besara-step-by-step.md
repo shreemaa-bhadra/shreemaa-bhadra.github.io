@@ -11,10 +11,11 @@ tags:
 - prep-10-mins
 - summer
 image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
-listing_summary: Lau Badi Besara is an Odia dish made with bottle gourd in a spicy
-  mustard sauce and topped with crunchy badis (sun dried lentil dumpling).
-listing_image: "/assets/uploads/2021/04/IMG_2350-scaled.jpeg"
+listing_summary: "Lau Badi Besara is an Odia dish cooked with bottle gourd in a pungent mustard gravy, topped with crunchy badis (sun dried lentil dumpling). Let's Get CookingLau Badi Besara | Step by Step"
+listing_image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 ---
+![lau-badi-besara-step-by-step image](/assets/uploads/2021/04/IMG_2318-scaled.jpeg)
+
 
 
 

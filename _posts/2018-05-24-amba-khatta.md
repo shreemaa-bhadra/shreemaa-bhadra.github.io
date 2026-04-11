@@ -11,10 +11,11 @@ tags:
 - prep-10-mins
 - sweet-and-sour
 image: "/assets/uploads/2018/05/DSC_5961-1.jpg"
-listing_summary: Amba Khatta odia recipe is a sweet and sour raw mango chutney, which
-  is sweetened with Jaggery and flavored with Curry Leaves and Panch Phoran.
+listing_summary: "Amba Khatta odia recipe is a sweet and sour raw mango chutney, which is sweetened with Jaggery and flavored with Curry Leaves and Panch Phoran. Let's Get CookingAmba Khatta or Sweet and Sour Mango Chutney"
 listing_image: "/assets/uploads/2018/05/DSC_5961-1.jpg"
 ---
+![amba-khatta image](/assets/uploads/2018/05/DSC_5961-1.jpg)
+
 
 
 

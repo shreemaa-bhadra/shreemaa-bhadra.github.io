@@ -7,10 +7,11 @@ categories:
 - non-vegeterian
 - odia
 image: "/assets/uploads/2022/12/DSC0173-scaled.jpeg"
-listing_summary: Instant Pot Chicken Curry is an easy weeknight Chicken wholesome
-  curry, which can be cooked with less hassle and serves a whole hearty meal.
-listing_image: "/assets/uploads/2022/12/DSC0175-scaled.jpeg"
+listing_summary: "Instant Pot Chicken Curry is an easy weeknight Chicken wholesome curry, which can be cooked with less hassle and serves a whole hearty meal. You can enjoy it with Hot steamed rice or fluffy rotis or Parathas. Let's Get CookingInstant pot Chicken Curry"
+listing_image: "/assets/uploads/2022/12/DSC0173-scaled.jpeg"
 ---
+![instant-pot-chicken-curry image](/assets/uploads/2022/12/DSC0173-scaled.jpeg)
+
 
 
 

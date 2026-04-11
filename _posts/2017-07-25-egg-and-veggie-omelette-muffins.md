@@ -14,10 +14,11 @@ tags:
 - prep-less-60-mins
 - savory
 image: "/assets/uploads/2017/07/DSC_1855.jpg"
-listing_summary: It's a hassle free and health loaded savory muffins. Which are breakfast
-  favorites and can be packed up for lunch and one of best for toddlers.
-listing_image: "/assets/uploads/2017/07/DSC_1864.jpg"
+listing_summary: "It's a hassle free and health loaded savory muffins. Which are breakfast favorites and can be packed up for lunch and one of best for toddlers. Let's Get CookingEgg and Veggie Omelette Muffins"
+listing_image: "/assets/uploads/2017/07/DSC_1855.jpg"
 ---
+![egg-and-veggie-omelette-muffins image](/assets/uploads/2017/07/DSC_1855.jpg)
+
 
 
 

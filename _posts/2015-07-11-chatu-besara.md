@@ -12,11 +12,11 @@ tags:
 - potato
 - prep-less-60-mins
 image: "/assets/uploads/2015/07/Chattu-Besara.jpg"
-listing_summary: Chatu Besara or Mushroom cooked in tangy mustand gravy is a traditional
-  Odiya food. The Sourness of dry mangoes and pungency of the Mustard Flavoring is
-  like a crown to Mushroom. Try it must!
+listing_summary: "Chatu Besara or Mushroom cooked in tangy mustand gravy is a traditional Odiya food. The Sourness of dry mangoes and pungency of the Mustard Flavoring is like a crown to Mushroom. Try it must! Let's Get CookingChatu Besara"
 listing_image: "/assets/uploads/2015/07/Chattu-Besara.jpg"
 ---
+![chatu-besara image](/assets/uploads/2015/07/Chattu-Besara.jpg)
+
 
 
 

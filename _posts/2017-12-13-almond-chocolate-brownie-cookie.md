@@ -13,11 +13,11 @@ tags:
 - cocoa
 - easy
 image: "/assets/uploads/2017/12/DSC_3738.jpg"
-listing_summary: Almond Chocolate Brownie cookie is a perfect cookie, which tastes
-  like brownie having crispy edges. The dough is considerably thinner than general
-  cookie.
-listing_image: "/assets/uploads/2017/12/DSC_3753.jpg"
+listing_summary: "Almond Chocolate Brownie cookie is a perfect cookie, which tastes like brownie having crispy edges. The dough is considerably thinner than general cookie. This can be enjoyed with a glass of milk or a cup of cappuccino. Let's Get CookingAlmond \\u2013 Chocolate Brownie Cookie"
+listing_image: "/assets/uploads/2017/12/DSC_3738.jpg"
 ---
+![almond-chocolate-brownie-cookie image](/assets/uploads/2017/12/DSC_3738.jpg)
+
 
 
 

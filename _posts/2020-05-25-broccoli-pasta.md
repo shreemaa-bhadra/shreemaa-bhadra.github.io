@@ -11,10 +11,11 @@ tags:
 - healthy-home-recipes
 - prep-less-60-mins
 image: "/assets/uploads/2020/05/IMG_6270-scaled.jpg"
-listing_summary: Broccoli Pasta is a light flavorful pasta simply flavored with salt
-  and pepper and perfect for kids’ meals and summertime meals.
-listing_image: "/assets/uploads/2020/05/IMG_6272-scaled.jpg"
+listing_summary: "Broccoli Pasta is a light flavorful pasta simply flavored with salt and pepper and perfect for kids' meals and summertime meals. Let's Get CookingBroccoli Pasta"
+listing_image: "/assets/uploads/2020/05/IMG_6270-scaled.jpg"
 ---
+![broccoli-pasta image](/assets/uploads/2020/05/IMG_6270-scaled.jpg)
+
 
 
 

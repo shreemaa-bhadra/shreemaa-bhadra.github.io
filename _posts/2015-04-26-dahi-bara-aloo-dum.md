@@ -16,10 +16,11 @@ tags:
 - urad-daal
 - vada
 image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
-listing_summary: Dahi Bara Aloo Dum is one of the famous chats served in Odisha. For
-  a hot climate, the curd in the bara gives comfort . The tangy flavor tickles tongue
+listing_summary: "Dahi Bara Aloo Dum is one of the famous chats served in Odisha. For a hot climate, the curd in the bara gives comfort. The tangy flavor tickles the tongue. Let's Get CookingDahi Bara Aloo Dum"
 listing_image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
 ---
+![dahi-bara-aloo-dum image](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
+
 
 
 

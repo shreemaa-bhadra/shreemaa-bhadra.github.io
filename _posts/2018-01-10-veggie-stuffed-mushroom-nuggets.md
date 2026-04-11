@@ -11,10 +11,11 @@ tags:
 - easy
 - mushroom
 image: "/assets/uploads/2018/01/DSC_3987.jpg"
-listing_summary: Veggie Stuffed Mushroom Nuggets is an appetizer, where the Mushroom
-  is stuffed with flavored veggies and batter fried with a layer of oats crusting.
+listing_summary: "Veggie Stuffed Mushroom Nuggets is an appetizer, where the Mushroom is stuffed with flavored veggies and batter fried with a layer of oats crusting. Let's Get CookingVeggie Stuffed Mushroom Nuggets"
 listing_image: "/assets/uploads/2018/01/DSC_3987.jpg"
 ---
+![veggie-stuffed-mushroom-nuggets image](/assets/uploads/2018/01/DSC_3987.jpg)
+
 
 
 

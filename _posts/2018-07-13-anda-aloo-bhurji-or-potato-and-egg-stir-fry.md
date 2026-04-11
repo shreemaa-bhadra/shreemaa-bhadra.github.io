@@ -12,10 +12,11 @@ tags:
 - potato
 - prep-less-60-mins
 image: "/assets/uploads/2018/07/DSC_6571.jpg"
-listing_summary: Anda Aloo Bhurji is a sacrambled egg version which is cooked in the
-  stir fried potatoes and onions. The flavor of cumin and onions enhances the flavor.
+listing_summary: "Anda Aloo Bhurji is a scrambled egg version which is cooked in the stir fried potatoes and onions. The flavor of cumin and onions enhances the flavor of humble potatoes with the eggs. Let's Get CookingAnda Aloo Bhurji or Potato and Egg stir fry"
 listing_image: "/assets/uploads/2018/07/DSC_6571.jpg"
 ---
+![anda-aloo-bhurji-or-potato-and-egg-stir-fry image](/assets/uploads/2018/07/DSC_6571.jpg)
+
 
 
 

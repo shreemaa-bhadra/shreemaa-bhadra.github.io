@@ -9,13 +9,11 @@ tags:
 - mango
 - medium
 image: "/assets/uploads/2017/09/DSC_1531.jpg"
-listing_summary: The summer is slowly slipping away. Probably this is the best summer
-  after my childhood. The little man is running, the park times are increasing and
-  we wait for the evening to come so that we go on long walks and play. This is exactly
-  what I had imagined at my Lamaze meditation sessions during pregnancy, which is
-  indeed fun to live.
-listing_image: "/assets/uploads/2017/09/DSC_2016.jpg"
+listing_summary: "This is the sour garlicky mango pickle made in the summer and stored for a long time to relish with meals or as a dip for various tea time snacks. Let's Get CookingKora Aamba Achhar or Grated Mango Pickle"
+listing_image: "/assets/uploads/2017/09/DSC_1531.jpg"
 ---
+![mango-pickle image](/assets/uploads/2017/09/DSC_1531.jpg)
+
 
 
 

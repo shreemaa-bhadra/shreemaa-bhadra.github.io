@@ -12,10 +12,11 @@ tags:
 - savoury
 - shrimp
 image: "/assets/uploads/2016/10/DSC_9012-1.jpg"
-listing_summary: It's an easy dry Shirmp recipe, that can be done in no time and goes
-  well as a starter and as a perfect accompaniment to a non-vegetarian Indian Thali.
-listing_image: "/assets/uploads/2016/10/DSC_9018-1.jpg"
+listing_summary: "It's an easy dry Shirmp recipe, that can be done in no time and goes well as a starter and as a perfect accompaniment to a non-vegetarian Indian Thali. Let's Get CookingSorisha diya Chingudi Bhaja | Shrimp/Prawn stir fried with mustard"
+listing_image: "/assets/uploads/2016/10/DSC_9012-1.jpg"
 ---
+![sorisha-diya-chingudi-bhaja-shrimp-stir-fried-with-mustard image](/assets/uploads/2016/10/DSC_9012-1.jpg)
+
 
 
 

@@ -11,10 +11,11 @@ tags:
 - all-purpose-flour
 - chicken
 image: "/assets/uploads/2018/09/DSC_6703.jpg"
-listing_summary: Crunchy chewy tandoori chicken pizza topped with onion, pepper, Indian
-  spiced tandoori chicken and cheese. Enjoy it hot with friends and family.
-listing_image: "/assets/uploads/2018/09/IMG_3018.jpg"
+listing_summary: "Crunchy chewy tandoori chicken pizza topped with onion, pepper, Indian spiced tandoori chicken and cheese. Enjoy it hot with friends and family. Let's Get CookingSimple Tandoori Chicken Pizza"
+listing_image: "/assets/uploads/2018/09/DSC_6703.jpg"
 ---
+![tandoori-chicken-pizza image](/assets/uploads/2018/09/DSC_6703.jpg)
+
 
 
 

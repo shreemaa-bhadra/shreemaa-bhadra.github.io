@@ -7,10 +7,11 @@ categories:
 tags:
 - meal-prep
 image: "/assets/uploads/2017/12/DSC_3880.jpg"
-listing_summary: How to blanch greens like Kale, Mustard Greens, Arugula, Fenugreek
-  or even Coriander and Mint to retain the perfect green color.
-listing_image: "/assets/uploads/2017/12/DSC_3872.jpg"
+listing_summary: "How to blanch greens like Spinach, Kale, Mustard Greens, Arugula, Fenugreek or even Coriander and Mint to retain the perfect green color. Let's Get CookingHow to Blanch Greens?"
+listing_image: "/assets/uploads/2017/12/DSC_3880.jpg"
 ---
+![how-to-blanch-greens image](/assets/uploads/2017/12/DSC_3880.jpg)
+
 
 
 

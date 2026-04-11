@@ -14,10 +14,11 @@ tags:
 - prep-10-mins
 - refresher
 image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
-listing_summary: The Crunchy apple smoothie is a refresher and a relief drink during
-  summers. The creamy blend of apple, milk and cashew nuts feels like heaven.
+listing_summary: "The Crunchy apple smoothie is a refresher and a relief drink during summers. The creamy blend of apple, milk and cashew nuts feels like heaven. Let's Get CookingCrunchy Apple Smoothie"
 listing_image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 ---
+![crunchy-apple-smoothie image](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
+
 
 
 

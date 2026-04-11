@@ -10,10 +10,11 @@ tags:
 - prep-10-mins
 - urad-daal
 image: "/assets/uploads/2015/05/Badi_Chura_02.jpg"
-listing_summary: Badi Chura is a side dish relished with the Odiya meal. Its a crispy
-  side dish served with famous Pakhala or a must for all lunch meals.
+listing_summary: "Badi Chura is a side dish relished with the Odiya meal. Its a crispy side dish served with famous Pakhala or a must for all lunch meals. Let's Get CookingBadi Chura"
 listing_image: "/assets/uploads/2015/05/Badi_Chura_02.jpg"
 ---
+![badi-chura image](/assets/uploads/2015/05/Badi_Chura_02.jpg)
+
 
 
 

@@ -1,31 +1,27 @@
 ---
 layout: post
 title: Bara Ghuguni
-date: '2015-04-26 00:00:00 +0000'
+date: "2015-04-26 00:00:00 +0000"
 categories:
-- breakfast
-- fried
-- odia
-- snacks
+  - breakfast
+  - fried
+  - odia
+  - snacks
 tags:
-- black-grams
-- medium
-- prep-more-60mins
-- urad-daal
-- vada
-- yellow-peas
+  - black-grams
+  - medium
+  - prep-more-60mins
+  - urad-daal
+  - vada
+  - yellow-peas
 image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
-listing_summary: Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups.
+listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups. Let's Get CookingBara Ghuguni"
 listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
+![bara-ghuguni image](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
+
 
 ![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
-
-
-
-
-
-
 
 The rain in the evening almost pulled me back to the childhood memories when guests arrived at home. I could recollect, every turn on the street of Bhubaneswar had amazing roadside food stalls, frying Aloo chop, Bara Ghuguni (Bara, Shingada (a.k.a Samosa) with the complementary Ghuguni (Yellow peas curry)).
 
@@ -37,7 +33,7 @@ All this nostalgia pulled my eyes towards the residing Urad Daal(Black Grams) in
 
 [![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg) Bara Ghuguni Recipe
 
-\[the\_ad id="355"\]
+\[the_ad id="355"\]
 
 The Bara Ghuguni recipe goes like this:
 
@@ -102,7 +98,7 @@ Nothing can be more satisfying as this finger-licking delightful combo. Try it a
 
 Wait for more yummy and slightly varied recipes.
 
-> _Cooking is not about following numbers or counting figures. It's about seeing yummy colors, smelling yummy flavors and tasting_ yummilicious_._
+> *Cooking is not about following numbers or counting figures. It's about seeing yummy colors, smelling yummy flavors and tasting* yummilicious*.*
 
  
 
@@ -125,4 +121,3 @@ Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. 
 Ingredients
 
 Instructions
-

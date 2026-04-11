@@ -10,10 +10,11 @@ tags:
 - easy
 - prep-less-60-mins
 image: "/assets/uploads/2015/05/Jeera-Rice.jpg"
-listing_summary: Jeera Rice is subtle flavored north Indian delicacy. It's enjoyed
-  with Dal (lentil) dishes or spicy veg or non veg gravy dishes .
+listing_summary: "Jeera Rice is subtle flavored north Indian delicacy. It's enjoyed with Dal (lentil) dishes or spicy veg or non veg gravy dishes. Let's Get CookingHow to make Jeera Rice"
 listing_image: "/assets/uploads/2015/05/Jeera-Rice.jpg"
 ---
+![jeera-rice image](/assets/uploads/2015/05/Jeera-Rice.jpg)
+
 
 
 

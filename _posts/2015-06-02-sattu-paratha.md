@@ -12,14 +12,11 @@ tags:
 - medium
 - prep-less-60-mins
 image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
-listing_summary: Sattu Paratha | Spicy Roasted Bengal Gram powder stuffed Indian Flat
-  Bread Last week was really a hectic one. In a life with this speed, balancing both
-  personal and professional lives and maintaining standards both at home and the office
-  seems like a Herculean task. The work at the office is so much that nothing else
-  seems to be doable. Uff !! And a normal weekend seems like greeting a thirsty person
-  in hot desert with 2 drops of water, whose thirst increases instead of getting satisfied.
+listing_summary: "Sattu Paratha is an Indian Pan fried Flat Bread stuffed with tangy spicy mix of roasted bengal gram powder. The dish goes great with Baingan ka bharta . Let's Get CookingSattu Paratha"
 listing_image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
 ---
+![sattu-paratha image](/assets/uploads/2015/06/Sattu-Paratha.jpg)
+
 
 
 

@@ -14,12 +14,11 @@ tags:
 - prep-less-60-mins
 - savoury
 image: "/assets/uploads/2018/10/IMG_3413.jpg"
-listing_summary: This light chicken curry is like a stew cooked in a gravy made up
-  basic Indian kitchen ingredients like onion, ginger garlic and tomatoes, flavored
-  with cumin, coriander and garam masala. Best when served with ghee smeared chapati
-  or hot steamed rice or jeera rice.
-listing_image: "/assets/uploads/2018/09/IMG_3413.jpg"
+listing_summary: "This light chicken curry is like a stew cooked in a gravy made up basic Indian kitchen ingredients like onion, ginger garlic and tomatoes, flavored with cumin, coriander and garam masala. Best when served with ghee smeared chapati or hot steamed rice or jeera rice. Let's Get CookingChicken Jhola or Light Chicken Curry"
+listing_image: "/assets/uploads/2018/10/IMG_3413.jpg"
 ---
+![light-chicken-curry image](/assets/uploads/2018/10/IMG_3413.jpg)
+
 
 
 

@@ -9,15 +9,11 @@ categories:
 tags:
 - healthy-home-recipes
 image: "/assets/uploads/2018/09/IMG_2585.jpg"
-listing_summary: Because of work I had to move away from home, and in the process
-  explored different cuisines. And after marriage when we moved to the States, it
-  widened even more. Friends share their bond, emotions and food. This leads you to
-  cook favorite dishes of your friends in your kitchen, and once the family approves,
-  it becomes a regular affair. One such is this multigrain Adai. We got lot of friends
-  from different parts of South of India, and we've invaded beyond Idli and Dosa.
-  To list a few are Pesarattu, Adai, Appam,…
-listing_image: "/assets/uploads/2018/09/IMG_2581.jpg"
+listing_summary: "Multigrain Adai is an Indian crepe , made up of variety of grains and lentils flavored with curry leaves, asofoetida and ginger and spiced with dried red chilies, served crisp or soft based on the choice with varieties of chutney. It can be a great choice for protein packed breakfast. Let's Get CookingMultigrain Adai"
+listing_image: "/assets/uploads/2018/09/IMG_2585.jpg"
 ---
+![multigrain-adai image](/assets/uploads/2018/09/IMG_2585.jpg)
+
 
 
 

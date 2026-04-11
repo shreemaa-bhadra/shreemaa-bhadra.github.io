@@ -12,10 +12,11 @@ tags:
 - prep-less-60-mins
 - summer
 image: "/assets/uploads/2020/05/DSC_9105-scaled.jpg"
-listing_summary: Lemony Tandoori Chicken is a light and flavorful chicken is cooked
-  on a skillet for a quick meal served alongside a crunchy salad.
+listing_summary: "Lemony Tandoori Chicken is a light and flavorful chicken is cooked on a skillet for a quick meal served alongside a crunchy salad. Let's Get CookingLemony Tandoori Skillet Chicken"
 listing_image: "/assets/uploads/2020/05/DSC_9105-scaled.jpg"
 ---
+![lemony-tandoori-skillet-chicken image](/assets/uploads/2020/05/DSC_9105-scaled.jpg)
+
 
 
 
