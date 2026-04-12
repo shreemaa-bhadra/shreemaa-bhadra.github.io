@@ -15,7 +15,7 @@ tags:
   - vada
   - yellow-peas
 image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
-listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups. Let's Get CookingBara Ghuguni"
+listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups."
 listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
 

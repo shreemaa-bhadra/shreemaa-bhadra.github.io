@@ -5,7 +5,7 @@ date: "2023-01-07 00:00:00 +0000"
 categories:
   - salads
 image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
-listing_summary: "Healthy Black bean Salad with Peppers and Cashew cream dressing is a scrumptious one pot meal. Let's Get CookingBlack bean Salad with Peppers and Cashew cream dressing"
+listing_summary: "Healthy Black bean Salad with Peppers and Cashew cream dressing is a scrumptious one pot meal."
 listing_image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
 ---
 

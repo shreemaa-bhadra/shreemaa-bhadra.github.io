@@ -10,7 +10,7 @@ tags:
 - easy
 - prep-more-60mins
 image: "/assets/uploads/2017/01/DSC_0196.jpg"
-listing_summary: "Mutton Jhola is a spicy thick gravy mutton curry which goes very well with rice, rotis or naans. The dish is made up of minimal spice. Let's Get CookingOdia Mutton Jhola"
+listing_summary: "Mutton Jhola is a spicy thick gravy mutton curry which goes very well with rice, rotis or naans. The dish is made up of minimal spice."
 listing_image: "/assets/uploads/2017/01/DSC_0196.jpg"
 ---
 ![odia-mutton-jhola image](/assets/uploads/2017/01/DSC_0196.jpg)

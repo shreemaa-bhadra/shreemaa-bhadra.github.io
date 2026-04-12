@@ -11,7 +11,7 @@ tags:
 - summer
 - watermelon
 image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
-listing_summary: "Watermelon Granita is a semi-frozen dessert from the land of Sicily. It's an Italian Dessert relished during summer, made with basics of sugar, water, and fruit juice of your choice. Let's Get CookingWatermelon Granita"
+listing_summary: "Watermelon Granita is a semi-frozen dessert from the land of Sicily. It's an Italian Dessert relished during summer, made with basics of sugar, water, and fruit juice of your choice."
 listing_image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
 ---
 ![watermelon-granita image](/assets/uploads/2020/06/DSC_9388-scaled.jpg)

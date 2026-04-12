@@ -16,7 +16,7 @@ tags:
   - mayonnaise
   - prep-less-60-mins
 image: "/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg"
-listing_summary: "Presenting you two recipes, an amazing mouth watering egg mayonnaise salad and crunchy egg sandwich to kill your heavy hunger. Let's Get CookingEgg Mayo Salad Sandwich | Egg Sandwich"
+listing_summary: "Presenting you two recipes, an amazing mouth watering egg mayonnaise salad and crunchy egg sandwich to kill your heavy hunger."
 listing_image: "/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg"
 ---
 

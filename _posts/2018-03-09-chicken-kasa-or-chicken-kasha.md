@@ -11,7 +11,7 @@ tags:
 - easy
 - meal-prep
 image: "/assets/uploads/2018/03/DSC_5054.jpg"
-listing_summary: "It is a delicious dry dish, where the chicken is generously cooked in a onion, ginger \u2013 garlic gravy and minimal spice mix in its own juice. Let's Get CookingOdia Chicken Kasa | Chicken Kasha | Chicken Kosha"
+listing_summary: "It is a delicious dry dish, where the chicken is generously cooked in a onion, ginger \u2013 garlic gravy and minimal spice mix in its own juice."
 listing_image: "/assets/uploads/2018/03/DSC_5054.jpg"
 ---
 ![chicken-kasa-or-chicken-kasha image](/assets/uploads/2018/03/DSC_5054.jpg)

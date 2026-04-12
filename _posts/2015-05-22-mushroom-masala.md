@@ -10,7 +10,7 @@ tags:
 - mushroom
 - prep-less-60-mins
 image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
-listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris. Let's Get CookingMushroom Masala | Spiced Mushroom Gravy"
+listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris."
 listing_image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 ---
 ![mushroom-masala image](/assets/uploads/2015/05/Mushroom-Masala.jpg)

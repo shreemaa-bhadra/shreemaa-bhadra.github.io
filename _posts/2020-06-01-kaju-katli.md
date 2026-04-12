@@ -12,7 +12,7 @@ tags:
 - easy
 - prep-less-60-mins
 image: "/assets/uploads/2020/06/IMG_3088-scaled.jpg"
-listing_summary: "Kaju Katli is the Cashew nut fudge, a popular Indian sweet. This is generally available in all Indian sweet shops and traditionally relished during Diwali. Let's Get CookingKaju Katli or Cashew Fudge"
+listing_summary: "Kaju Katli is the Cashew nut fudge, a popular Indian sweet. This is generally available in all Indian sweet shops and traditionally relished during Diwali."
 listing_image: "/assets/uploads/2020/06/IMG_3088-scaled.jpg"
 ---
 ![kaju-katli image](/assets/uploads/2020/06/IMG_3088-scaled.jpg)

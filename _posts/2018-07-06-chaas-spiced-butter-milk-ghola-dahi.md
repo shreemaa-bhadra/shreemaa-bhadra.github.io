@@ -7,7 +7,7 @@ categories:
 tags:
 - healthy-home-recipes
 image: "/assets/uploads/2018/07/Ghola-Dahi.jpg"
-listing_summary: "Chaas or Spiced Butter Milk or Ghola Dahi is served in summer or after food drink to aid digestion and enhance hydration. Let's Get CookingChaas, Spiced Butter Milk, Ghola Dahi"
+listing_summary: "Chaas or Spiced Butter Milk or Ghola Dahi is served in summer or after food drink to aid digestion and enhance hydration."
 listing_image: "/assets/uploads/2018/07/Ghola-Dahi.jpg"
 ---
 ![chaas-spiced-butter-milk-ghola-dahi image](/assets/uploads/2018/07/Ghola-Dahi.jpg)

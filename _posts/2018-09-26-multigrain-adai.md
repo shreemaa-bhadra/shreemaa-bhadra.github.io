@@ -9,7 +9,7 @@ categories:
 tags:
 - healthy-home-recipes
 image: "/assets/uploads/2018/09/IMG_2585.jpg"
-listing_summary: "Multigrain Adai is an Indian crepe , made up of variety of grains and lentils flavored with curry leaves, asofoetida and ginger and spiced with dried red chilies, served crisp or soft based on the choice with varieties of chutney. It can be a great choice for protein packed breakfast. Let's Get CookingMultigrain Adai"
+listing_summary: "Multigrain Adai is an Indian crepe , made up of variety of grains and lentils flavored with curry leaves, asofoetida and ginger and spiced with dried red chilies, served crisp or soft based on the choice with varieties of chutney. It can be a great choice for protein packed breakfast."
 listing_image: "/assets/uploads/2018/09/IMG_2585.jpg"
 ---
 ![multigrain-adai image](/assets/uploads/2018/09/IMG_2585.jpg)

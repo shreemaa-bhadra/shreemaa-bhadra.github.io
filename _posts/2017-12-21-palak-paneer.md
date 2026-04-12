@@ -11,7 +11,7 @@ tags:
 - paneer
 - spinach
 image: "/assets/uploads/2017/12/DSC_3121.jpg"
-listing_summary: "Palak Paneer or Cottage Cheese in Spinach Gravy is a creamy, smooth, spiced green gravy curry which is best enjoyed with Indian Flat bread. Let's Get CookingPalak Paneer"
+listing_summary: "Palak Paneer or Cottage Cheese in Spinach Gravy is a creamy, smooth, spiced green gravy curry which is best enjoyed with Indian Flat bread."
 listing_image: "/assets/uploads/2017/12/DSC_3121.jpg"
 ---
 ![palak-paneer image](/assets/uploads/2017/12/DSC_3121.jpg)

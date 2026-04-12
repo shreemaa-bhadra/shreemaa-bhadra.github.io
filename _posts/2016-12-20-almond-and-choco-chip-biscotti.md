@@ -12,7 +12,7 @@ tags:
 - choco-chips
 - medium
 image: "/assets/uploads/2016/12/DSC_9741.jpg"
-listing_summary: "Italian crisp Almond and Choco-chip Biscotti are the double baked cookies. These are traditionally made of almonds, are a great with tea and coffee. Let's Get CookingAlmond and Choco-chip Biscotti"
+listing_summary: "Italian crisp Almond and Choco-chip Biscotti are the double baked cookies. These are traditionally made of almonds, are a great with tea and coffee."
 listing_image: "/assets/uploads/2016/12/DSC_9741.jpg"
 ---
 ![almond-and-choco-chip-biscotti image](/assets/uploads/2016/12/DSC_9741.jpg)

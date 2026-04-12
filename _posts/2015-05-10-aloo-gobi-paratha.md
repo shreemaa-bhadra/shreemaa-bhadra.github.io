@@ -13,7 +13,7 @@ tags:
 - prep-less-60-mins
 - wheat
 image: "/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg"
-listing_summary: "Aloo Gobi Paratha is a north Indian delicacy. It's a form of Indian bread stuffed with spiced cauliflower and Potatoes. The crispy bread is amazing to eat. Let's Get CookingAloo Gobi Paratha"
+listing_summary: "Aloo Gobi Paratha is a north Indian delicacy. It's a form of Indian bread stuffed with spiced cauliflower and Potatoes. The crispy bread is amazing to eat."
 listing_image: "/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg"
 ---
 ![aloo-gobi-paratha image](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)

@@ -14,7 +14,7 @@ tags:
 - prep-less-60-mins
 - zucchini
 image: "/assets/uploads/2017/09/zucchini-savory-bread.jpg"
-listing_summary: "Zucchini Savoury bread is a great recipe to include a variety of vegetables and herbs in your diet with a less effort of preparation. Let's Get CookingZucchini savory bread"
+listing_summary: "Zucchini Savoury bread is a great recipe to include a variety of vegetables and herbs in your diet with a less effort of preparation."
 listing_image: "/assets/uploads/2017/09/zucchini-savory-bread.jpg"
 ---
 ![zucchini-savory-bread image](/assets/uploads/2017/09/zucchini-savory-bread.jpg)

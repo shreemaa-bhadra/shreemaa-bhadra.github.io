@@ -11,7 +11,7 @@ tags:
 - mustard
 - prep-less-60-mins
 image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
-listing_summary: "Kalara Bhaja tempered in sorisha batta. The beauty of this is bitterness of bitter gourd is gelling absolutely with the pungent flavor of mustard. Let's Get CookingKalara Bhaja in Sorisha Batta"
+listing_summary: "Kalara Bhaja tempered in sorisha batta. The beauty of this is bitterness of bitter gourd is gelling absolutely with the pungent flavor of mustard."
 listing_image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
 ---
 ![kalara-bhaja-sorisha image](/assets/uploads/2015/05/Kalachorchori_02.jpg)

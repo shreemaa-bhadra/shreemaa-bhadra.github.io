@@ -6,7 +6,7 @@ categories:
 - egg
 - rice
 image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
-listing_summary: "Egg biryani is a wholesome one-pot meal cooked with a wide range of spices. This biryani recipe is a wholesome, enriched, flavorful, and a great source of protein. This main course is generally served with coolants like cucumber raita or boondi raita. Let's Get CookingEgg Biryani"
+listing_summary: "Egg biryani is a wholesome one-pot meal cooked with a wide range of spices. This biryani recipe is a wholesome, enriched, flavorful, and a great source of protein. This main course is generally served with coolants like cucumber raita or boondi raita."
 listing_image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
 ---
 ![egg-biryani image](/assets/uploads/2020/07/DSC_9825-scaled.jpg)

@@ -10,7 +10,7 @@ tags:
 - healthy-home-recipes
 - red-lentils
 image: "/assets/uploads/2017/01/DSC_9832.jpg"
-listing_summary: "Masoor dal er Khichuri, served as a comfort food in cold weather as it's believed to keep the body warm, served with fish fry or Omlette or crisp potato fries. Let's Get CookingMasoor Daler Khichuri or Red Lentils Khichdi with Jhiri jhiri Aloo Bhaja"
+listing_summary: "Masoor dal er Khichuri, served as a comfort food in cold weather as it's believed to keep the body warm, served with fish fry or Omlette or crisp potato fries."
 listing_image: "/assets/uploads/2017/01/DSC_9832.jpg"
 ---
 ![masoor-daler-khichuri-or-red-lentils-khichdi-with-jhiri-jhiri-aloo-bhaja image](/assets/uploads/2017/01/DSC_9832.jpg)

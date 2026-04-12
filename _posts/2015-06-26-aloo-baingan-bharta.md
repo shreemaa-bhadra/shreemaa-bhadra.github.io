@@ -10,7 +10,7 @@ tags:
 - eggplant
 - prep-less-60-mins
 image: "/assets/uploads/2015/06/DSC_3537.jpg"
-listing_summary: "Aloo Baingan Bharta is lightly spiced comfort food which is made out of limited spices and healthy Eggplant. It's a great accomplishment to Chapatis. Let's Get CookingAloo Baingan Bharta"
+listing_summary: "Aloo Baingan Bharta is lightly spiced comfort food which is made out of limited spices and healthy Eggplant. It's a great accomplishment to Chapatis."
 listing_image: "/assets/uploads/2015/06/DSC_3537.jpg"
 ---
 ![aloo-baingan-bharta image](/assets/uploads/2015/06/DSC_3537.jpg)

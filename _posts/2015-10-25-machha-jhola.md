@@ -12,7 +12,7 @@ tags:
 - prep-more-60mins
 - rohu
 image: "/assets/uploads/2015/10/DSC_5662.jpg"
-listing_summary: "Machha Jhola is the fish cooked in a rich spicy gravy. It's assorted with garam masala to bring unique flavors and does justice to your taste buds. Generally served with Plain Rice. Let's Get CookingMachha Jhola"
+listing_summary: "Machha Jhola is the fish cooked in a rich spicy gravy. It's assorted with garam masala to bring unique flavors and does justice to your taste buds. Generally served with Plain Rice."
 listing_image: "/assets/uploads/2015/10/DSC_5662.jpg"
 ---
 ![machha-jhola image](/assets/uploads/2015/10/DSC_5662.jpg)

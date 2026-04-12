@@ -6,7 +6,7 @@ categories:
 - baking
 - crisp
 image: "/assets/uploads/2018/10/IMG_3948.jpg"
-listing_summary: "Apple Crisp is a perfect Fall Dessert with juicy apple flavored with spices stuffed underneath buttery crisp crust of oats and flour to give that extra crunch, best when enjoyed with ice cream. Let's Get CookingApple Crisp small batch"
+listing_summary: "Apple Crisp is a perfect Fall Dessert with juicy apple flavored with spices stuffed underneath buttery crisp crust of oats and flour to give that extra crunch, best when enjoyed with ice cream."
 listing_image: "/assets/uploads/2018/10/IMG_3948.jpg"
 ---
 ![apple-crisp image](/assets/uploads/2018/10/IMG_3948.jpg)

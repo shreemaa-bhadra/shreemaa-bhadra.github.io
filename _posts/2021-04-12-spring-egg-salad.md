@@ -14,7 +14,7 @@ tags:
   - prep-10-mins
   - summer
 image: "/assets/uploads/2021/04/IMG_1760-scaled-e1618179756577.jpeg"
-listing_summary: "Spring Egg Salad is a delectable combination of boiled eggs and the bounty of Spring. This salad has a perfect balance of sourness from the dressing and sweetness from the berries. It's ideal for weekday lunches. Let's Get CookingSpring Egg Salad"
+listing_summary: "Spring Egg Salad is a delectable combination of boiled eggs and the bounty of Spring. This salad has a perfect balance of sourness from the dressing and sweetness from the berries. It's ideal for weekday lunches."
 listing_image: "/assets/uploads/2021/04/IMG_1760-scaled-e1618179756577.jpeg"
 ---
 

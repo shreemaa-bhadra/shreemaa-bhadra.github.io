@@ -8,7 +8,7 @@ categories:
 - north-indian
 - raita
 image: "/assets/uploads/2018/04/DSC_4991.jpg"
-listing_summary: "Methi Pakoda Kadhi is a spiced yogurt based gravy where the fenugreek or methi leaves fritters a.k.a pakodas and dumped and enjoyed with a bowl of rice. Let's Get CookingMethi Pakoda Kadhi"
+listing_summary: "Methi Pakoda Kadhi is a spiced yogurt based gravy where the fenugreek or methi leaves fritters a.k.a pakodas and dumped and enjoyed with a bowl of rice."
 listing_image: "/assets/uploads/2018/04/DSC_4991.jpg"
 ---
 ![methi-pakoda-kadhi image](/assets/uploads/2018/04/DSC_4991.jpg)

@@ -11,7 +11,7 @@ tags:
 - tamarind
 - tomato
 image: "/assets/uploads/2016/03/DSC_4302.jpg"
-listing_summary: "Tomato Rasam is tangy accompaniment to Plain Rice, generally served in South India. It's a perfect blend of health and taste. Try it !! Let's Get CookingTomato Rasam | How to make Tomato Rasam"
+listing_summary: "Tomato Rasam is tangy accompaniment to Plain Rice, generally served in South India. It's a perfect blend of health and taste. Try it !!"
 listing_image: "/assets/uploads/2016/03/DSC_4302.jpg"
 ---
 ![tomato-rasam image](/assets/uploads/2016/03/DSC_4302.jpg)

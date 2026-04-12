@@ -12,7 +12,7 @@ tags:
 - prep-more-60mins
 - savoury
 image: "/assets/uploads/2016/03/DSC_6239.jpg"
-listing_summary: "Mutter Paratha is an Indian Flat Bread that is made out of stuffed spicy Mutter . The Paratha can be eaten with chutney or curd and can be served as an Indian Main course or part of Indian Thali. Let's Get CookingMutter Paratha"
+listing_summary: "Mutter Paratha is an Indian Flat Bread that is made out of stuffed spicy Mutter . The Paratha can be eaten with chutney or curd and can be served as an Indian Main course or part of Indian Thali."
 listing_image: "/assets/uploads/2016/03/DSC_6239.jpg"
 ---
 ![mutter-paratha image](/assets/uploads/2016/03/DSC_6239.jpg)

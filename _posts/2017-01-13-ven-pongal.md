@@ -11,7 +11,7 @@ tags:
 - festival
 - prep-less-60-mins
 image: "/assets/uploads/2017/01/DSC_0145.jpg"
-listing_summary: "Ven Pongal is a rice dish from Tamil Nadu. The dish is made up of Rice and Green Gram and savored generously with Clarified butter. Let's Get CookingVen Pongal | How to make Ven Pongal"
+listing_summary: "Ven Pongal is a rice dish from Tamil Nadu. The dish is made up of Rice and Green Gram and savored generously with Clarified butter."
 listing_image: "/assets/uploads/2017/01/DSC_0145.jpg"
 ---
 ![ven-pongal image](/assets/uploads/2017/01/DSC_0145.jpg)

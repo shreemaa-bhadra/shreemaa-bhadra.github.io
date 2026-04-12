@@ -9,7 +9,7 @@ tags:
 - mexican
 - pineapple
 image: "/assets/uploads/2018/06/DSC_5976.jpg"
-listing_summary: "Pineapple salsa \u2013 mix of chunky fresh Pineapples with the choice of veggies & herbs & some hot peppers, seasoned with Mexican spices like cumin & paprika. Let's Get CookingPineapple Salsa"
+listing_summary: "Pineapple salsa \u2013 mix of chunky fresh Pineapples with the choice of veggies & herbs & some hot peppers, seasoned with Mexican spices like cumin & paprika."
 listing_image: "/assets/uploads/2018/06/DSC_5976.jpg"
 ---
 ![pineapple-salsa image](/assets/uploads/2018/06/DSC_5976.jpg)

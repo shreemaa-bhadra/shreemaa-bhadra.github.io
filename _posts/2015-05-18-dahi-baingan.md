@@ -14,7 +14,7 @@ tags:
   - prep-less-60-mins
   - yogurt
 image: "/assets/uploads/2015/05/dahi-baingan.jpg"
-listing_summary: "Dahi Baingan a side dish that is usually served with a Rice Platter. The yogurt's creamy texture and the pungentness of mustard adds to the beauty of eggplant (Baingan). Let's Get CookingDahi Baingan | Baingan ka Raita |Eggplant dipped in yogurt sauce"
+listing_summary: "Dahi Baingan a side dish that is usually served with a Rice Platter. The yogurt's creamy texture and the pungentness of mustard adds to the beauty of eggplant (Baingan)."
 listing_image: "/assets/uploads/2015/05/dahi-baingan.jpg"
 ---
 

@@ -12,7 +12,7 @@ tags:
 - paneer
 - prep-less-60-mins
 image: "/assets/uploads/2015/12/DSC_6111.jpg"
-listing_summary: "No onion no Garlic version of Mutter Paneer is a creamy, tangy gravy dish of Paneer (Cottage Cheese), which goes perfectly with any form of Indian bread and is a favorite among Indian vegetarians. Let's Get CookingMutter Paneer (No onion no Garlic)"
+listing_summary: "No onion no Garlic version of Mutter Paneer is a creamy, tangy gravy dish of Paneer (Cottage Cheese), which goes perfectly with any form of Indian bread and is a favorite among Indian vegetarians."
 listing_image: "/assets/uploads/2015/12/DSC_6111.jpg"
 ---
 ![mutter-paneer-no-onion-no-garlic image](/assets/uploads/2015/12/DSC_6111.jpg)

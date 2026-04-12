@@ -15,7 +15,7 @@ tags:
 - sweet-potato
 - wheat
 image: "/assets/uploads/2017/12/DSC_3793.jpg"
-listing_summary: "Sweet Potato Paratha is an Indian spiced Flat bread with a wonderful medley of sweet and spiced taste. This paratha has a proper balance of taste and goodness of health. It can be enjoyed simply with a cup of tea or coffee. Let's Get CookingShakarkandi Paratha or Sweet Potato Paratha \\u2013 No Onion No Garlic"
+listing_summary: "Sweet Potato Paratha is an Indian spiced Flat bread with a wonderful medley of sweet and spiced taste. This paratha has a proper balance of taste and goodness of health. It can be enjoyed simply with a cup of tea or coffee."
 listing_image: "/assets/uploads/2017/12/DSC_3793.jpg"
 ---
 ![shakarkandi-paratha-sweet-potato-paratha image](/assets/uploads/2017/12/DSC_3793.jpg)

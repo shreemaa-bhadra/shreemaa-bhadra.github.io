@@ -6,7 +6,7 @@ categories:
 - odia
 - thali
 image: "/assets/uploads/2017/04/DSC_7610.jpg"
-listing_summary: "Thali is a collection of Indian dishes served on a platter. The Satvik Odia Thali is a collection of dishes of Odia cuisine without onion and garlic. Let's Get CookingRam Navami Thali / Satvik Odia Thali \\u2013 1"
+listing_summary: "Thali is a collection of Indian dishes served on a platter. The Satvik Odia Thali is a collection of dishes of Odia cuisine without onion and garlic."
 listing_image: "/assets/uploads/2017/04/DSC_7610.jpg"
 ---
 ![ram-navami-thali-satvik-odia-thali-1 image](/assets/uploads/2017/04/DSC_7610.jpg)

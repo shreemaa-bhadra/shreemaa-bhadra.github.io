@@ -11,7 +11,7 @@ tags:
 - prep-less-60-mins
 - spiny-gourd
 image: "/assets/uploads/2015/06/DSC_3613.jpg"
-listing_summary: "Kankada Chips is a fritter made out of thin slices of Spiny Gourd deep fried with chickpea flour. It's crispy , spicy and a delight to the taste. Let's Get CookingKankada Chips"
+listing_summary: "Kankada Chips is a fritter made out of thin slices of Spiny Gourd deep fried with chickpea flour. It's crispy , spicy and a delight to the taste."
 listing_image: "/assets/uploads/2015/06/DSC_3613.jpg"
 ---
 ![kankada-chips image](/assets/uploads/2015/06/DSC_3613.jpg)

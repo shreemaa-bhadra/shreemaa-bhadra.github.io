@@ -5,7 +5,7 @@ date: '2018-02-13 00:00:00 +0000'
 categories:
 - chutneydip
 image: "/assets/uploads/2018/02/DSC_4422.jpg"
-listing_summary: "Dhania Chutney is a dip or spread made up Coriander leaves flavored with garlic and cumin seeds. It's an essential condiment in the Indian kitchen, which is flavored and paired with numerous dishes. Let's Get CookingDhania Chutney or Coriander Chutney"
+listing_summary: "Dhania Chutney is a dip or spread made up Coriander leaves flavored with garlic and cumin seeds. It's an essential condiment in the Indian kitchen, which is flavored and paired with numerous dishes."
 listing_image: "/assets/uploads/2018/02/DSC_4422.jpg"
 ---
 ![dhania-chutney-or-coriander-chutney image](/assets/uploads/2018/02/DSC_4422.jpg)

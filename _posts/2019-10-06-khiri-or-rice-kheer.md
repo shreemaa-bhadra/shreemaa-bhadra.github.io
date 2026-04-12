@@ -11,7 +11,7 @@ tags:
 - prep-more-60mins
 - sweet-dish
 image: "/assets/uploads/2019/10/DSC_8150.jpg"
-listing_summary: "Khiri or Kheer is the sweetened rice pudding, where the rice is slow cooked with milk, sweetened with Sugar, flavored with cardamom and garnished with nuts and dry fruits . Let's Get CookingKhiri or Rice Kheer or Indian Rice Pudding"
+listing_summary: "Khiri or Kheer is the sweetened rice pudding, where the rice is slow cooked with milk, sweetened with Sugar, flavored with cardamom and garnished with nuts and dry fruits ."
 listing_image: "/assets/uploads/2019/10/DSC_8150.jpg"
 ---
 ![khiri-or-rice-kheer image](/assets/uploads/2019/10/DSC_8150.jpg)

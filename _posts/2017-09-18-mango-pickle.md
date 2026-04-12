@@ -9,7 +9,7 @@ tags:
 - mango
 - medium
 image: "/assets/uploads/2017/09/DSC_1531.jpg"
-listing_summary: "This is the sour garlicky mango pickle made in the summer and stored for a long time to relish with meals or as a dip for various tea time snacks. Let's Get CookingKora Aamba Achhar or Grated Mango Pickle"
+listing_summary: "This is the sour garlicky mango pickle made in the summer and stored for a long time to relish with meals or as a dip for various tea time snacks."
 listing_image: "/assets/uploads/2017/09/DSC_1531.jpg"
 ---
 ![mango-pickle image](/assets/uploads/2017/09/DSC_1531.jpg)

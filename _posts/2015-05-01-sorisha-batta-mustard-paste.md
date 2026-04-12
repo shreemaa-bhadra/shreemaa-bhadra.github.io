@@ -10,7 +10,7 @@ tags:
 - meal-prep
 - mustard
 image: "/assets/uploads/2015/05/DSC_2955.jpg"
-listing_summary: "Sorisha Batta a flavoring done for many of the Odiya Gravies. Out of which famous are veggies, mushroom and fishes. Let's Get CookingSorisha Batta / Mustard Paste"
+listing_summary: "Sorisha Batta a flavoring done for many of the Odiya Gravies. Out of which famous are veggies, mushroom and fishes."
 listing_image: "/assets/uploads/2015/05/DSC_2955.jpg"
 ---
 ![sorisha-batta-mustard-paste image](/assets/uploads/2015/05/DSC_2955.jpg)

@@ -14,7 +14,7 @@ tags:
 - prep-less-60-mins
 - spinach
 image: "/assets/uploads/2016/06/Collage.jpg"
-listing_summary: "Omelette stuffed with mushroom and spinach with cauliflower sauce is a variation of French Omelette. The delicacy has both health and taste in it. Let's Get CookingOmelette stuffed with Mushroom and Spinach with a Healthy twist"
+listing_summary: "Omelette stuffed with mushroom and spinach with cauliflower sauce is a variation of French Omelette. The delicacy has both health and taste in it."
 listing_image: "/assets/uploads/2016/06/Collage.jpg"
 ---
 ![omelette-stuffed-mushroom-spinach-healthy-twist image](/assets/uploads/2016/06/Collage.jpg)

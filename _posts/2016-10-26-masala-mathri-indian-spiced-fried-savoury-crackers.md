@@ -8,7 +8,7 @@ tags:
 - diwali
 - prep-more-60mins
 image: "/assets/uploads/2016/10/DSC_9459.jpg"
-listing_summary: "Mathri is a crispy fried snack served during Diwali or at tea time or on a rainy day. This can be enjoyed dipped with some spicy Indian pickle too. Let's Get CookingMasala Mathri | Indian Spiced Fried Savoury Crackers"
+listing_summary: "Mathri is a crispy fried snack served during Diwali or at tea time or on a rainy day. This can be enjoyed dipped with some spicy Indian pickle too."
 listing_image: "/assets/uploads/2016/10/DSC_9459.jpg"
 ---
 ![masala-mathri-indian-spiced-fried-savoury-crackers image](/assets/uploads/2016/10/DSC_9459.jpg)

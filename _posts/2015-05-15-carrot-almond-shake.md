@@ -13,7 +13,7 @@ tags:
 - prep-10-mins
 - summer
 image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
-listing_summary: "Carrot Almond Shake is a beautiful juice. It is too cool in taste and assures 100% skin glow and amazing nutrition. Let's Get CookingCarrot Almond Shake"
+listing_summary: "Carrot Almond Shake is a beautiful juice. It is too cool in taste and assures 100% skin glow and amazing nutrition."
 listing_image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
 ---
 ![carrot-almond-shake image](/assets/uploads/2015/05/Carrot-Almond.jpg)

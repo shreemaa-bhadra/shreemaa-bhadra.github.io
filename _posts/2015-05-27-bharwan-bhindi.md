@@ -11,7 +11,7 @@ tags:
 - okra
 - prep-less-60-mins
 image: "/assets/uploads/2015/05/DSC_3596.jpg"
-listing_summary: "Bharwan Bhindi is a north Indian dish. The spicy filling makes the Okra yummy. This dish is variation from the original as it's my grand mom's way ! Try it ! You will love it !! Let's Get CookingGotta Bhendi Bhaja/ Bharwan Bhindi/ Okra stuffed with Chili Garlic"
+listing_summary: "Bharwan Bhindi is a north Indian dish. The spicy filling makes the Okra yummy. This dish is variation from the original as it's my grand mom's way ! Try it ! You will love it !!"
 listing_image: "/assets/uploads/2015/05/DSC_3596.jpg"
 ---
 ![bharwan-bhindi image](/assets/uploads/2015/05/DSC_3596.jpg)

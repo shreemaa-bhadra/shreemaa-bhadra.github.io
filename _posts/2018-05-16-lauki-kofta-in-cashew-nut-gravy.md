@@ -11,7 +11,7 @@ tags:
 - cashew-nut
 - easy
 image: "/assets/uploads/2018/05/DSC_5650.jpg"
-listing_summary: "Lauki Kofta in Cashew nut Gravy is a rich curry cooked with Bottle Gourd balls in the cashew nut gravy and enjoyed with Indian Flat breads like Naan, Rotis or Paratha. Let's Get CookingLauki Kofta in Cashew nut Gravy"
+listing_summary: "Lauki Kofta in Cashew nut Gravy is a rich curry cooked with Bottle Gourd balls in the cashew nut gravy and enjoyed with Indian Flat breads like Naan, Rotis or Paratha."
 listing_image: "/assets/uploads/2018/05/DSC_5650.jpg"
 ---
 ![lauki-kofta-in-cashew-nut-gravy image](/assets/uploads/2018/05/DSC_5650.jpg)

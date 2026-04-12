@@ -13,7 +13,7 @@ tags:
 - pistachios
 - prep-more-60mins
 image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
-listing_summary: "This Chocolate Cake is a small cake for a family of three to celebrate occasions. The chocolate flavor is elevated through the orange syrup and topped with candied oranges to impose the citrusy flavor. Let's Get CookingChocolate Cake with a hint of Orange Flavor"
+listing_summary: "This Chocolate Cake is a small cake for a family of three to celebrate occasions. The chocolate flavor is elevated through the orange syrup and topped with candied oranges to impose the citrusy flavor."
 listing_image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
 ---
 ![chocolate-cake-with-a-hint-of-orange-flavor image](/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg)

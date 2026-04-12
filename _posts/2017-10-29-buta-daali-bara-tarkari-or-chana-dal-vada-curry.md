@@ -11,7 +11,7 @@ tags:
 - easy
 - lentils
 image: "/assets/uploads/2017/10/DSC_1605-1.jpg"
-listing_summary: "It can be called as the vegeterians meat curry. It matches both to the taste and nutrients and can be perfectly enjoyed with rice or roti. Let's Get CookingButa Daali Bara Tarkari or Chana Dal Vada Curry"
+listing_summary: "It can be called as the vegeterians meat curry. It matches both to the taste and nutrients and can be perfectly enjoyed with rice or roti."
 listing_image: "/assets/uploads/2017/10/DSC_1605-1.jpg"
 ---
 ![buta-daali-bara-tarkari-or-chana-dal-vada-curry image](/assets/uploads/2017/10/DSC_1605-1.jpg)

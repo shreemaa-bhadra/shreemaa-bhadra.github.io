@@ -10,7 +10,7 @@ tags:
 - healthy-home-recipes
 - oats
 image: "/assets/uploads/2020/04/IMG_4769-scaled.jpg"
-listing_summary: "Almond granola is a crunchy healthy treat made up of basically rolled oats sweetened with likes of honey or maple syrup and topped with various dry fruits to add the crunch and flavor. Let's Get CookingHoney Coconut Almond Granola"
+listing_summary: "Almond granola is a crunchy healthy treat made up of basically rolled oats sweetened with likes of honey or maple syrup and topped with various dry fruits to add the crunch and flavor."
 listing_image: "/assets/uploads/2020/04/IMG_4769-scaled.jpg"
 ---
 ![almond-granola image](/assets/uploads/2020/04/IMG_4769-scaled.jpg)

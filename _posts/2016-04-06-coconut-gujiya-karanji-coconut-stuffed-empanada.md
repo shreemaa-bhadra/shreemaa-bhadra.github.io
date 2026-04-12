@@ -9,7 +9,7 @@ tags:
 - all-purpose-flour
 - coconut
 image: "/assets/uploads/2016/04/DSC_7267.jpg"
-listing_summary: "Step by step process with pics on how to make Gujiya. Gujiya or Karanji or Empanada is form of stuffed bread that is either baked or fried. It has multiple variations ranging from sweet to savoury. Let's Get CookingCoconut Gujiya | Karanji | Coconut stuffed Empanada | How to make Gujiya"
+listing_summary: "Step by step process with pics on how to make Gujiya. Gujiya or Karanji or Empanada is form of stuffed bread that is either baked or fried. It has multiple variations ranging from sweet to savoury."
 listing_image: "/assets/uploads/2016/04/DSC_7267.jpg"
 ---
 ![coconut-gujiya-karanji-coconut-stuffed-empanada image](/assets/uploads/2016/04/DSC_7267.jpg)

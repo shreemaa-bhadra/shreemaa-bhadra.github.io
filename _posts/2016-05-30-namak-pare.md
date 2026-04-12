@@ -8,7 +8,7 @@ categories:
 tags:
 - all-purpose-flour
 image: "/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg"
-listing_summary: "Step by step process with pictures to make Namak Pare, Namak Pare is fried or baked salt snack served in the festivities or as a teatime snack. Let's Get CookingNamak Pare | How to make Namak Pare"
+listing_summary: "Step by step process with pictures to make Namak Pare, Namak Pare is fried or baked salt snack served in the festivities or as a teatime snack."
 listing_image: "/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg"
 ---
 ![namak-pare image](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)

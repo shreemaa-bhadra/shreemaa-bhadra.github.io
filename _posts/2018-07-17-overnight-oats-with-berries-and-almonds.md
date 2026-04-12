@@ -7,7 +7,7 @@ categories:
 tags:
 - healthy-home-recipes
 image: "/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg"
-listing_summary: "Overnight Oats with Berries and almonds are perfect creamy breakfast bowls to add goodness to your summer breakfast Let's Get CookingOvernight oats with Berries and Almonds"
+listing_summary: "Overnight Oats with Berries and almonds are perfect creamy breakfast bowls to add goodness to your summer breakfast"
 listing_image: "/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg"
 ---
 ![overnight-oats-with-berries-and-almonds image](/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg)

@@ -9,7 +9,7 @@ tags:
 - plum
 - prep-less-60-mins
 image: "/assets/uploads/2015/06/Plum-Chutney.jpg"
-listing_summary: "Plum chutney is a blend of sweetness and Sourness and can act as an exotic dip or sauce for many dishes. Let's Get CookingPlum Chutney"
+listing_summary: "Plum chutney is a blend of sweetness and Sourness and can act as an exotic dip or sauce for many dishes."
 listing_image: "/assets/uploads/2015/06/Plum-Chutney.jpg"
 ---
 ![plum-chutney image](/assets/uploads/2015/06/Plum-Chutney.jpg)

@@ -12,7 +12,7 @@ tags:
 - chickpeaflour
 - easy
 image: "/assets/uploads/2017/01/DSC_0018.jpg"
-listing_summary: "Aloo Chop is a pillowy fritter made up of chickpea flour stuffed with a spicy potato. It's an amazing street food found in almost all corners of India. Let's Get CookingAloo Chop or Batata Vada"
+listing_summary: "Aloo Chop is a pillowy fritter made up of chickpea flour stuffed with a spicy potato. It's an amazing street food found in almost all corners of India."
 listing_image: "/assets/uploads/2017/01/DSC_0018.jpg"
 ---
 ![aloo-chop-or-batata-vada image](/assets/uploads/2017/01/DSC_0018.jpg)

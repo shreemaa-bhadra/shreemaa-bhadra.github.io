@@ -14,7 +14,7 @@ tags:
 - no-onion-no-garlic
 - prep-more-60mins
 image: "/assets/uploads/2017/01/DSC_0060.jpg"
-listing_summary: "Budha Chakuli is an Odiya Pancake, made up of Black Grams, Rice sweetened with Jaggery and seasoned with spices and coconut,offered as Prasad on festivals. Let's Get CookingBudha Chakuli: An age old Odiya sweet Pancake with a tribute to my Grandparents"
+listing_summary: "Budha Chakuli is an Odiya Pancake, made up of Black Grams, Rice sweetened with Jaggery and seasoned with spices and coconut,offered as Prasad on festivals."
 listing_image: "/assets/uploads/2017/01/DSC_0060.jpg"
 ---
 ![budha-chakuli-an-age-old-odiya-sweet-pancake-with-a-tribute-to-my-grandparents image](/assets/uploads/2017/01/DSC_0060.jpg)

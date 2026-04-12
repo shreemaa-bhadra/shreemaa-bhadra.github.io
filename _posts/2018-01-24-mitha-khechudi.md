@@ -12,7 +12,7 @@ tags:
 - no-onion-no-garlic
 - prep-10-mins
 image: "/assets/uploads/2018/01/DSC_4231.jpg"
-listing_summary: "Mitha Khechudi is a quintessential Odia Khichdi. This dish is cooked almost in every household during the festivities and is paired with Dalma and served hot. It's gently sweet and perfect for all kinds of celebration platter. Let's Get CookingMitha Khechudi or Sweet Khichdi"
+listing_summary: "Mitha Khechudi is a quintessential Odia Khichdi. This dish is cooked almost in every household during the festivities and is paired with Dalma and served hot. It's gently sweet and perfect for all kinds of celebration platter."
 listing_image: "/assets/uploads/2018/01/DSC_4231.jpg"
 ---
 ![mitha-khechudi image](/assets/uploads/2018/01/DSC_4231.jpg)

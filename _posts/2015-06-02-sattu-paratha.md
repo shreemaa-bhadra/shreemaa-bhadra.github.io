@@ -12,7 +12,7 @@ tags:
 - medium
 - prep-less-60-mins
 image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
-listing_summary: "Sattu Paratha is an Indian Pan fried Flat Bread stuffed with tangy spicy mix of roasted bengal gram powder. The dish goes great with Baingan ka bharta . Let's Get CookingSattu Paratha"
+listing_summary: "Sattu Paratha is an Indian Pan fried Flat Bread stuffed with tangy spicy mix of roasted bengal gram powder. The dish goes great with Baingan ka bharta ."
 listing_image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
 ---
 ![sattu-paratha image](/assets/uploads/2015/06/Sattu-Paratha.jpg)
