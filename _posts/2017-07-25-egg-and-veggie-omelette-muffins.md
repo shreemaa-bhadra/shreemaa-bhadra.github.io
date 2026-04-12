@@ -72,27 +72,11 @@ The super easy savory Egg and Veggie Omelette Muffins Recipe:
     
     [![Omelette Muffin with veggies](/assets/uploads/2017/07/DSC_1864.jpg)](/assets/uploads/2017/07/DSC_1864.jpg) Omelette Muffin
 
-Serve it hot or you can pack some for your kids lunch box.
-
-Egg and Veggie Omelette Muffins
-
-Recipe Type: Breakfast
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 25 mins
-
-Total time: 35 mins
-
-Serves: 2
-
-It's a hassle free and health loaded savory muffins. Which are breakfast favorites and can be packed up for lunch and one of best for toddlers.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 35 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

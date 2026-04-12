@@ -75,25 +75,11 @@ Finally, serve it hot and especially relevant enjoy your time at home.
 
 ## Recipe Snippet for Palak Chicken:
 
-Palak Chicken
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 25 mins
-
-Total time: 55 mins
-
-Serves: 6
-
-Palak Chicken or Chicken cooked in Spinach Gravy is an Indian curry served as a main course with flattened bread and is generally subtle in its flavors with a high index of nutrition and health.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 55 mins</p>
+  <p><strong>Serves:</strong> 6</p>
+</div>
 

@@ -81,23 +81,7 @@ Here goes the recipe of the Mango Pickle:
 
 You can enjoy the pickle instantly with a warm bowl of Dal Rice or as an accompaniment to the fried fritters. But the Pickle tastes the best within a week. For longer storage you can refrigerate it.
 
-Kora Aamba Achhar or Grated Mango Pickle
-
 Recipe Type: Condiment
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 20 mins
-
-Cook time: 10 mins
-
 Total time: 30 mins
-
-This is the sour garlicky mango pickle made in the summer and stored for a long time to relish with meals or as a dip for various tea time snacks.
-
-Ingredients
-
-Instructions
-

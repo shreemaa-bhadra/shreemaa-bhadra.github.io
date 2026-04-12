@@ -25,59 +25,11 @@ Here goes the recipe of Dhania Chutney:
 
 [![Ingredients](/assets/uploads/2018/02/DSC_4417.jpg)](/assets/uploads/2018/02/DSC_4417.jpg) Ingredients
 
- 
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Condiment</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 2 mins</p>
+  <p><strong>Total time:</strong> 2 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Dhania Chutney Or Corriander Chutney
-
-Recipe Type: Condiment
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 2 mins
-
-Total time: 2 mins
-
-Serves: 4
-
-Dhania Chutney is a dip or spread made up Coriander leaves flavored with garlic and cumin seeds. It's an essential condiment in the Indian kitchen, which is flavored and paired with numerous dishes.
-
-Ingredients
-
-- Coriander Leaves - 1 bunch
-- Cumin Seeds - 1 tsp
-- Garlic cloves - 2
-- Green Chilies - 2
-- Tamarind - 1 small ball (you can vary the amount according to your taste)
-- Salt - according to the taste
-- Black Salt - a sprinkle to enhance the taste
-
-Instructions
-
-1. Clean and pat dry the coriander leaves and the green chilies.
-2. Put all the ingredients together in the blender and make a smooth paste.
-
-
-## Ingredients for Dhania Chutney:
-
-1. Coriander or Dhania Leaves - 1 bunch
-2. Cumin Seeds - 1 tsp
-3. Garlic cloves - 2
-4. Green Chilies - 2
-5. Tamarind - 1 small ball (you can vary the amount according to your taste)
-6. Salt - according to the taste
-7. Black Salt - a sprinkle to enhance the taste
-
-## Steps of Preparation for Dhania Chutney:
-
-1. Clean and pat dry the dhania / coriander leaves and the green chilies.
-2. Put all the ingredients together in the blender and make a smooth paste.
-
-[![Ready to grind](/assets/uploads/2018/02/DSC_4421.jpg)](/assets/uploads/2018/02/DSC_4421.jpg) Ready to grind
-
-And serve it fresh with anything and everything and don't forget to sprinkle a hint of black salt to give it that chatore wala zing.
-
- 
-
-[![Coriander Chutney](/assets/uploads/2018/02/DSC_4422.jpg)](/assets/uploads/2018/02/DSC_4422.jpg) Dhania Chutney

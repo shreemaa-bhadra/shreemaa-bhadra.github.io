@@ -74,39 +74,11 @@ The Carrot almond shake recipe goes like this:
 
 It's a Vitamin A rich carotene loaded yummy drink. A must try!! This would make you believe healthier things do come in tasty packages. :)
 
- 
-
- 
-
-Carrot Almond Shake
-
-Recipe Type: Juice
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Total time: 15 mins
-
-Serves: 2
-
-Carrot Almond Shake is a beautiful juice. It is too cool in taste and assures 100% skin glow and amazing nutrition.
-
-Ingredients
-
-- Carrots - 2 medium sized
-- Milk - 200 ml
-- <gs id="7319cac6-0df3-4c5d-9dff-8f30d9daf52a" ginger\_software\_uiphraseguid="19558f1d-c02a-4026-8a13-3d087799439a" class="GINGER\_SOFTWARE\_mark">Badam</gs> powder - 2 tsp (optional)
-- Almonds- 4-5 pieces
-- Sugar - 2 tbsp
-
-Instructions
-
-1. Cut the carrots into small pieces and grind into paste. Don't use water, let it grind on its own.
-2. After it has smoothened to a paste, add the milk and almonds to the ground carrots.
-3. I used MTR Badam Powder, you can use any other brand. This actually gives a distinct flavor. You can skip this step in case you are not with Badam powder.
-4. Add the sugar and ice cubes and grind it for 1-2 mins.
-5. Then shake would come in lighter orange color.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Juice</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 15 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

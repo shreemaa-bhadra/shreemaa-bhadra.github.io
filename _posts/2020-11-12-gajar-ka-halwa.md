@@ -51,40 +51,11 @@ Every year, I make Gajar ka Halwa either on Diwali day or I make it on new year'
 
 ![](/assets/uploads/2020/11/IMG_9707-1-scaled.jpg)
 
-Gajar ka Halwa
-
-Recipe Type: Dessert
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 30 mins
-
-Total time: 45 mins
-
-Serves: 4
-
-Gajar ka Halwa or Carrot halwa is a sweet pudding made of carrots, clarified butter and sugar. It's seasoned with cardamom and nuts.
-
-Ingredients
-
-- Carrots – 3 large peeled and finely grated.
-- Clarified butter – 1/4 cup
-- Condensed Milk – 1/2 cup
-- Sugar – 1/4 cup
-- Cardamon – 1-2 , crushed or coarsely ground
-- Chopped cashew nuts and almonds – 1/2 cup
-
-Instructions
-
-1. Heat a wide-bottomed frying pan, add the clarified butter.
-2. Once the ghee is heated, add the grated carrots and saute.
-3. Season the carrots with the crushed cardamom and stir.
-4. Keep sauteing until the raw smell goes off and all the water dried off.
-5. Then to the cooked carrots, add the sugar and condensed milk.
-6. Keep stirring until all the liquid dries and the oil comes up.
-7. Add the nuts and serve.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 45 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

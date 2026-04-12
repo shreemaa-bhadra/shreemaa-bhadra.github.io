@@ -64,36 +64,5 @@ Enjoy with your favorite sides. My mom loves it with ghee, me with plan Buta Dal
 
 ### Summary:
 
-Biri Poda Pitha
-
 Recipe Type: Indian
-
 Cuisine: Main
-
-Author: Shreemaa Bhadra
-
-Biri Poda Pitha is a traditional Odia cake, made up of lentils and Rice, it's slow-cooked with dry fruits and nuts. It's traditionally made during this four-day-long celebration of Raja.
-
-Ingredients
-
-- Urad Dal – 1 cup
-- Rice – 2 cups
-- Jaggery – 1/2 cup
-- Dry Coconut or Fresh Coconut – Grated/chopped/sliced – 1/2 cup
-- Cashew nuts – 1/2 cup chopped
-- Raisins – 1/2 cup
-- Black pepper – 2 tsp
-- Salt – 1 tsp
-- Cardamom – 3-4 pods crushed
-
-Instructions
-
-1. Firstly, soak the Urad dal and Rice overnight.
-2. Then, grind the dal and rice batter to a thick paste, add very little water and try making a thicker consistency.
-3. Next, let the batter sit in a warm place for around 7-8 hrs and get properly fermented.
-4. Then, take all the ingredients and mix them together.
-5. Now, preheat the oven at 350F.
-6. After this, grease a cake pan with ample ghee or clarified butter, then pour the mixture.
-7. Then after, bake the Poda Pitha for 30 mins at 350 F and then lower the temperature to 300 F and bake it for 20 mins.
-8. Finally, the Pitha will need different temperatures and cooking time based on the size of the pan and the depth of the pan. It took me many attempts to figure it out. Just try the toothpick method to ensure the cooking time and once the flavor and textures look familiar.
-

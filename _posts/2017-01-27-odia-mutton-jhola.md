@@ -69,52 +69,11 @@ Serve the gorgeous mutton curry with rice or rotis and munch with a side salad. 
 
 ### Summary:
 
-Odia Mutton Jhola
-
-Recipe Type: Main Course
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 1 hour 30 mins
-
-Total time: 1 hour 45 mins
-
-Serves: 4
-
-Mutton Jhola is a spicy thick gravy mutton curry which goes very well with rice, rotis or naans. The dish is made up with minimal spice.
-
-Ingredients
-
-- Mutton - 1 lb (454 gms)
-- Onions - 2 medium-sized
-- Cumin seeds- 1 tbsp
-- Ginger- 1 inch
-- Garlic - 10 - 12 big cloves
-- Kashmiri red chilies - 4-5
-- Red chilies for tempering - 2
-- Coriander powder - 2 tsp
-- Cinnamon powder - 1 pinch
-- Garam masala - 2 tsp
-- Coriander leaves for garnishing
-- Turmeric powder - 1 tsp
-- Salt - according to taste
-- Sugar - 1tsp
-- Mustard oil - 3 tbsp
-
-Instructions
-
-1. Chop 1 and 1/2 onions.
-2. Grind the 1/2 onion, ginger, garlic, cumin seeds and red chilies to a paste, add water only if needed.
-3. Wash the mutton (I used goat meat) and pat dry.
-4. Heat a pressure cooker or wide bottom pan.
-5. Add 3 tbsp of mustard oil and let it heat for 2 mins.
-6. To the pan, add the sugar, red chilies, and onion and cook till the onions are translucent.
-7. Add the ground paste to the hot oil and let it cook for 5-7 mins, till all the raw aroma goes away.
-8. Then add the mutton pieces, coriander powder, turmeric powder, and salt to it and let it cook for 15-20 mins covered.
-9. After the oil separated from the meat, add 1 cup of water and pressure cook till 5-7 whistles till the meat is well cooked and soft.
-10. Then season the curry with garam masala and cinnamon powder.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main Course</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 1 hour 45 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

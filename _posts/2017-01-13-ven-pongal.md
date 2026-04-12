@@ -68,46 +68,11 @@ Here goes the recipe:
 
 [![Another Glimpse](/assets/uploads/2017/01/DSC_0145.jpg)](/assets/uploads/2017/01/DSC_0145.jpg) Another Glimpse
 
-Serve the hot Pongal with Sambar and fresh coconut chutney and enjoy it.
-
-\[the\_ad id="355"\]
-
-Ven Pongal
-
-Recipe Type: Main course
-
-Cuisine: South Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 5 mins
-
-Cook time: 15 mins
-
-Total time: 20 mins
-
-Serves: 4
-
-Venn Pongal is a rice dish from Tamil Nadu. The dish is made up of Rice and Green Gram and savored generously with Clarified butter.
-
-Ingredients
-
-- Sona Masoori Rice - 1/2 cup
-- Moong Daal - 1/4 cup
-- Water - 3 cup
-- Ghee or clarified butter - 3tbsp
-- Grated Ginger - 1 tsp
-- Asafoetida - 1 pinch
-- Cashew nuts - Handful
-- Black Peppercorns - 1 tbsp
-- Cumin seeds - 1 tbsp
-- Curry Leaves - 1 sprig
-- Salt - according to taste
-
-Instructions
-
-1. Pressure cook the Moong Daal, Rice, Asafoetida and Ginger with salt and 3 cups of water for 7-8 whistles to a consistency similar to mashed Khichdi.
-2. Heat a pan, shallow fry the cashew in 3 tbsp of ghee till golden brown.
-3. Use the ghee for tempering, add cumin seeds, black peppercorns and curry leaves and let it splutter for 1 min.
-4. Add the tempering to the cooked rice and lentil and mix it evenly.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main course</p>
+  <p><strong>Cuisine:</strong> South Indian</p>
+  <p><strong>Prep time:</strong> 5 mins</p>
+  <p><strong>Total time:</strong> 20 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

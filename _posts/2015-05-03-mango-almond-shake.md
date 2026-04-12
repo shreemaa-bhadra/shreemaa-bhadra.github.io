@@ -56,39 +56,11 @@ The recipe of Mango Shake with the almond twist goes like this:
 
 [![Mango Shake with Almost Twist](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)](/assets/uploads/2015/05/Mango_almond_shake_02.jpg) Mango Shake with Almost Twist
 
-Mango is the king of the fruits, and creamy texture of milk is like a crown on the king. Loved the lovely smoothie.
-
- A try is must!!
-
-Mango Almond Shake
-
-Recipe Type: Juice
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Total time: 15 mins
-
-Serves: 4
-
-Mango Shake is a refreshing drink for the summer. It's seasonal and the creamy pulpy texture is like a light bite and fills your stomach and loads you with nutrients.
-
-Ingredients
-
-- Ripened Mangoes – 2
-- Milk – 150 ml
-- Almonds – 6-7 pieces
-- Ice cubes- 3-4
-- Sugar – based on the taste (preferably 2 tbsp)
-
-Instructions
-
-1. Cut the mangoes and scoop the flesh into the mixer.
-2. Add the milk to the mangoes in the mixer.
-3. Add 3-4 almonds, sugar and ice-cubes in the mixer.
-4. Grind for 2-3 mins till it’s properly mixed into a smoothie.
-5. After its blended smoothly, transfer it in a glass and garnish with the finely chopped almonds.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Juice</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 15 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

@@ -53,49 +53,11 @@ You can enjoy it your tortilla, tortilla chips or as a wholesome bowl itself or 
 
 ![Black Bean Salad](/assets/uploads/2023/01/DSC0203-scaled.jpeg) Black Bean Salad
 
-Black bean Salad with Peppers and Cashew cream dressing
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Lunch</p>
+  <p><strong>Cuisine:</strong> Breakfast</p>
+  <p><strong>Prep time:</strong> 20 mins</p>
+  <p><strong>Total time:</strong> 20 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Recipe Type: Lunch
-
-Cuisine: Breakfast
-
-Author: Shreemaa Bhadra
-
-Prep time: 20 mins
-
-Total time: 20 mins
-
-Serves: 4
-
-Healthy Black bean Salad with Peppers and Cashew cream dressing
-
-Ingredients
-
-- Ingredients for Black bean Salad:
-- Black beans (Boiled or canned) – 2 cups
-- Cucumber chopped – 2 cups roughly
-- Red Onions chopped. – 1/4 cup
-- Colored Belled chopped (Yellow, Orange, Red, Green) – 1 cup
-- Boiled corn or Frozen corn defrosted – 1 cup
-- Jalapeno -1 (for little spice)
-- Tomatoes – 1/2 cup
-- Ingredients for Dressing:
-- Cashews – 7-8 soaked
-- Garlic Cloves – 2
-- Yogurt – 1/4 cup
-- Crushed Mustard seeds – 1 tbsp
-- Roasted Cumin – 1 tsp
-- Chipotle Powder – 1 tsp (it’s hot adjust according to your taste)
-- Paprika Powder – 2 tsp
-- Oregano – 1 tbsp
-- Brown Sugar – 2 tbsp
-- Salt – according to taste
-- Olive Oil – 2 tbsp
-- Lemon juice – 2 tbsp
-
-Instructions
-
-1. Prep the Salad like soak and boil the black beans.
-2. Chop all the veggies to small cubes.
-3. Grind the soaked cashews and Garlic to a fine paste and then mix all the dried spices with the yogurt and cashew cream.
-4. Mix the veggies , beans and dressings.

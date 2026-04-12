@@ -51,27 +51,11 @@ Here goes a simple Granola Recipe:
 4. Keep baking and turn the mixture every 10-15 mins, ensuring the mixture is not burnt.
 5. Keep doing this for 30 mins. Then add the toppings and then spread uniformly.
 6. Bake the mixture for more 10mins.
-7. Cool the Granola for 1-2 hrs and store it in an airtight container.
 
-This granola is a great lifesaver and goes well for at least a month without getting spoiled.
-
-Honey Coconut Almond Granola
-
-Recipe Type: Breakfast
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 40 mins
-
-Total time: 50 mins
-
-Serves: 15
-
-Granola is a crunchy healthy treat made up of basically rolled oats sweetened with likes of honey or maple syrup and topped with various dry fruits to add the crunch and flavor.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 50 mins</p>
+  <p><strong>Serves:</strong> 15</p>
+</div>
 

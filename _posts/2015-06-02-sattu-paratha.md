@@ -106,23 +106,7 @@ It's the delicacy quite famous in Bihar and Jharkhand. Try it !! It's got the r
 
  
 
-Sattu Paratha
-
 Recipe Type: Main Course
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 20 mins
-
-Cook time: 15 mins
-
 Total time: 35 mins
-
-Sattu Paratha is an Indian Pan fried Flat Bread stuffed with tangy spicy mix of roasted bengal gram powder. The dish goes great with Baingan ka bharta .
-
-Ingredients
-
-Instructions
-

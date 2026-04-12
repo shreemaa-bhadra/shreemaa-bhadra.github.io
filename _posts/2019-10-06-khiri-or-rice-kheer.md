@@ -79,25 +79,11 @@ Khiri or Rice Kheer
 
 </figure>
 
-Khiri or Rice Kheer or Indian Rice Pudding
-
-Recipe Type: Dessert
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 2 hours
-
-Total time: 2 hours 10 mins
-
-Serves: 10
-
-Khiri or Kheer is the sweetened rice pudding, where the rice is slow cooked with milk, sweetened with Sugar, flavored with cardamom and garnished with nuts and dry fruits .
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 2 hours 10 mins</p>
+  <p><strong>Serves:</strong> 10</p>
+</div>
 

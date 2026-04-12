@@ -91,43 +91,11 @@ Enjoy the yum cookie with milk or over a hot cappuccino.
 - The use of 1 cup of white sugar would make the cookie crispier.
 - In order to attain the proper texture of dense and crisp, use 50% brown sugar and 50% white sugar.
 
-Almond - Chocolate Brownie Cookie
-
-Recipe Type: Breakfast
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 6 hours
-
-Cook time: 12 mins
-
-Total time: 6 hours 12 mins
-
-Serves: 4
-
-Almond Chocolate Brownie cookie is a perfect cookie, which tastes like brownie having crispy edges. The dough is considerably thinner than general cookie.
-
-Ingredients
-
-- Unsalted Butter – 6 tbsp, melted
-- Brown Sugar – 1/2 cup
-- White Sugar – 1/2 cup
-- Eggs – 2 large
-- Vanilla Extract – 1 tsp
-- Almond Flour – 1/4 cup
-- Unsweetened Cocoa – 1 cup
-- Baking Soda – 1 tsp
-- Salt – 1 tsp
-- Crushed Almonds – for topping or crunch
-
-Instructions
-
-1. Cream the butter, sugar mixture (white and brown) and Vanilla Extract using a electric mixer for 2-3 mins.
-2. Then add the eggs and beat it for 2 mins, until the mixture is nice and fluffy.
-3. Sieve the dry ingredients (Baking soda, almond flour, Cocoa and salt) and mix it into the wet mixture. Add some crushed almonds for extra crunch.
-4. Freeze the cookie mixture for minimum 30 mins for a firm texture, I froze it overnight and baked them early morning.
-5. Scoop out the cookie dough of the size of 1/8 cup and place it in the cookie sheet over the parchment paper.
-6. To get the texture of a brownie cookie which is firm on sides and softer in the core, bake it at 375 F for 10-12 mins.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 6 hours</p>
+  <p><strong>Total time:</strong> 6 hours 12 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

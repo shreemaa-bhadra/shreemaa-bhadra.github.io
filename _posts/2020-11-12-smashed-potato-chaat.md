@@ -76,17 +76,5 @@ Here goes the Recipe for the Smashed Potato Chaat:
 
 ![Chaat Served](/assets/uploads/2020/11/DSC0010-scaled.jpg) Chaat Served
 
-Smashed Potato Chaat
-
 Recipe Type: Snack
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Smashed potato Chaat is an Indo - American fusion recipe. It's a perfect platter or starter for any celebration times. This is loaded with sweet, savory flavors with multiple textures with a potato base. This chat an inspiration drawn from Aloo Tikki Chaat.
-
-Ingredients
-
-Instructions
-

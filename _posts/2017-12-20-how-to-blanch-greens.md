@@ -39,35 +39,11 @@ The above process maintains a perfect green color. You can grind the leaves with
 **Tips to avoid the discoloration:**
 
 1. Don't add turmeric to these green gravies, that impact the dark green color.
-2. Avoid using tomatoes in these curry base. For sourness rather use curd.
-3. Excess use of milk or cream also lightens the green color of the gravy.
 
-How to Blanch Greens?
-
-Recipe Type: Gravy Base
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Cook time: 5 mins
-
-Total time: 5 mins
-
-Serves: 4
-
-How to blanch greens like Kale, Mustard Greens, Arugula, Fenugreek or even Coriander and Mint to retain the perfect green color.
-
-Ingredients
-
-- Water
-- Greens
-- Ice
-
-Instructions
-
-1. Neatly wash the dirt out of greens and strain the excess water.
-2. Heat a pot of water to bring it to simmer.
-3. Add the greens and cook it for 2 mins.
-4. Strain the water and add it in ice cold water for 10 - 15 mins.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Gravy Base</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Total time:</strong> 5 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

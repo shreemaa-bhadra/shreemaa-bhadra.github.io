@@ -74,45 +74,11 @@ When I made these Besan Ladoos for Rakhi Bhog, my hubby ran to me saying "It's a
 
 It's a great snack for the kids, filled with the goodness of dry fruits and energy of Desi ghee.
 
- 
-
- 
-
-Besan Ladoo or Chickpea flour bites
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 15 mins
-
-Total time: 30 mins
-
-Serves: 12
-
-Besan Ladoo is small bites made from chickpea flour and a variety of dry fruits, sweetened with sugar and flavored with clarified butter or ghee.
-
-Ingredients
-
-- Chickpea Flour or Besan – 1 cup
-- Ground Sugar – 1/2 cup (you can use store brought icing sugar or Bura in India, I did ground my crystals)
-- Desi Ghee or Clarified Butter – 1/4 cup + 2 tbsp, melted
-- Sliced Almonds – 1/4 cup
-- Sliced Cashews – 1/4 cup
-- Cardamom powder – 1 tsp
-
-Instructions
-
-1. Take a frying pan and dry roast the chickpea flour in a medium to low flame for about 7-8 mins, until a nutty fragrance comes out. The process would also change the color of the flour.
-2. To the roasted flour, slowly add the ghee and keep stirring for around 4-5 mins.
-3. Switch off the flame.
-4. Add the sugar after 2-3 mins and mix it thoroughly until it gets mixed evenly.
-5. Add the cardamom powder and the chopped nuts and mix them thoroughly.
-6. Let the mixture cool to normal room temperature.
-7. Take a small portion, and keep pressing in one palm to bind it together and form a Ladoo shape.
-8. Keep it in an airtight container, so that it can stay fresh for 2 weeks without any issues.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 12</p>
+</div>
 

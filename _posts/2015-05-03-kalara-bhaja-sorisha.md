@@ -65,51 +65,11 @@ The mustard flavored kalara bhaja goes like this:
 
 _It's bitter but has nutrients that will make you feel better !_
 
- 
-
- 
-
-Kalara Bhaja in Sorisha Batta
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Kalara Bhaja tempered in sorisha batta. The beauty of this is bitterness of bitter gourd is gelling absolutely with the pungent flavor of mustard.
-
-Ingredients
-
-- Bitter Gourd - 2 medium sized
-- Potato - 1 medium sized
-- Mustard Paste - 2 tbsp
-- Garlic - 2 cloves
-- Panch Phoron or Phutan - 2 tsp
-- Salt - according to the taste
-- Turmeric Powder - 1 tsp
-- Badi or Sun dried Urad daal dumplings - 2-3 medium pieces
-- Vegetable oil - 3 tbsp
-
-Instructions
-
-1. Cut the bitter gourd into rings. Either you can keep it of that shape or if it's too large, cut the rings into equal quarters like I did in this recipe.
-2. Cut the potato in equal shape and size as that of the bitter gourd that gives the dish an even look.
-3. Heat the pan, and add 1 tbsp of vegetable oil. Add the Badis and saute it till its golden brown.
-4. Take the badis off the pan and place it in a plate.
-5. Heat the pan, add 2 tbsp oil .
-6. Add the Panch phoron or phutan and let it splutter for a minute or so.
-7. Add the bitter gourd and potato and saute it.
-8. Add the turmeric powder and salt and cover the preparation with a lid.
-9. Fry it till the veggies are half cooked. Add the mustard paste and mix the veggies and cover back the lid.
-10. After the veggies are properly cooked in the mustard falvor. Crush the badis and add to veggies.
-11. After a minute you can serve the Kalara Sorisha Bhaja with Pakhala or rice platter.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

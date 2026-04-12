@@ -87,25 +87,10 @@ Here comes the recipe for making Banana bread:
     
     [![Banana Bread \_Step 9](/assets/uploads/2016/10/DSC_9373.jpg)](/assets/uploads/2016/10/DSC_9373.jpg) Banana Bread \_Step 9
 
-The bread is extremely light and is a perfect for breakfast and can be enjoyed over the tea.
-
-Eggless Whole Wheat Banana Bread a perfect toast to my friendship over chai shai
-
-Recipe Type: Tea Time Snack
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 40 mins
-
-Total time: 1 hour 10 mins
-
-Serves: 4
-
-Eggless whole wheat banana bread is a light tea time snack, made from overripe mashed bananas and is a moist cake-like quick bread made without leavening.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Tea Time Snack</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour 10 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

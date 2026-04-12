@@ -99,27 +99,11 @@ Speaking about this recipe, it's a thin curry made with Egg and Potatoes tossed 
 
 ![Anda Aloo Jhola](/assets/uploads/2018/05/DSC_4550.jpg) Anda Aloo Jhola
 
-Once done serve it hot with Roti or Rice and a simple Raita makes a wholesome platter.
-
-Anda Aloo Jhola or Egg Curry with the Potatoes
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 30 mins
-
-Total time: 40 mins
-
-Serves: 2
-
-Anda Aloo Jhola is a thin gravy of Eggs and Potatoes cooked with Onions and Tomatoes gravy where the subtle spices play the role to add the flavors. The dish is served with Rice or Indian Flatbread Roti for meals.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 40 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

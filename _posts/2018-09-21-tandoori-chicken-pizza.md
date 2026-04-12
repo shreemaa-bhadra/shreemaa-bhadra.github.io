@@ -154,27 +154,11 @@ Here goes the recipe for my simple Tandoori Chicken Pizza:
     
     ![Freshly Baked Pizza](/assets/uploads/2018/09/IMG_3018.jpg) Freshly Baked Pizza
 
-Enjoy the pizza hot with friends and family.
-
-Simple Tandoori Chicken Pizza
-
-Recipe Type: Main
-
-Cuisine: Italian
-
-Author: Shreemaa Bhadra
-
-Prep time: 2 hours 30 mins
-
-Cook time: 25 mins
-
-Total time: 2 hours 55 mins
-
-Serves: 2
-
-Crunchy chewy tandoori chicken pizza topped with onion, pepper, Indian spiced tandoori chicken and cheese. Enjoy it hot with friends and family.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Italian</p>
+  <p><strong>Prep time:</strong> 2 hours 30 mins</p>
+  <p><strong>Total time:</strong> 2 hours 55 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

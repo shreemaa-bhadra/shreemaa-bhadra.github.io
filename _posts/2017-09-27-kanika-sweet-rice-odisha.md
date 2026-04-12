@@ -88,25 +88,11 @@ The sweet rice is a lovely combination with milder Dalma or spicy Aloo dum duri
 
 [![](/assets/uploads/2017/09/DSC_2742.jpg)](/assets/uploads/2017/09/DSC_2742.jpg) Kanika
 
-Kanika.... The sweet rice from the state of Odisha
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 20 mins
-
-Total time: 50 mins
-
-Serves: 4
-
-Kanika is a mildly sweet fragrant rice flavored with some spices and ghee (the clarified butter) loaded with cashew nuts and raisins and is colored with the turmeric. The basic feature of the rice is the separated well puffed grains embellished with a perfect shine from the Ghee.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 50 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

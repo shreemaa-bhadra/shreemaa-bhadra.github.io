@@ -69,45 +69,11 @@ Serve hot for this delicious meal.
 
 ### Summary:
 
-Broccoli Pasta
-
-Recipe Type: Main
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 12 mins
-
-Cook time: 5 mins
-
-Total time: 17 mins
-
-Serves: 3
-
-Broccoli Pasta is a light flavorful pasta simply flavored with salt and pepper and perfect for kids’ meals and summertime meals.
-
-Ingredients
-
-- Broccoli – 1 head
-- Fusili or any choice of Pasta – 8 ounce
-- Garlic – 4 large cloves, finely chopped
-- Salt – according to taste
-- Black Pepper – 1 tsp
-- Olive Oil – 2 tbsp
-- Italian Herb mix – 1 tsp (dried)
-- Parmesan Cheese – 2 tbsp
-
-Instructions
-
-1. Chop the broccoli head into large chunks.
-2. Cook the pasta according to the instructions in the box.
-3. Blanche the broccoli for the around 3-4 mins. You can use the same pot while cooking the pasta.
-4. Strain the pasta and the broccoli in the colander and let in go through the cold running water.
-5. Grate the broccoli finely in a chopper or do it manually.
-6. Take a large frying pan and heat it.
-7. Add the olive oil and garlic to it.
-8. Once the garlic releases the flavor add broccoli, salt, and pepper.
-9. Once the broccoli is cooked for 2 mins, add the cooked pasta and saute.
-10. To the cooked pasta add the herbs for flavor and top with parmesan cheese.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 12 mins</p>
+  <p><strong>Total time:</strong> 17 mins</p>
+  <p><strong>Serves:</strong> 3</p>
+</div>
 

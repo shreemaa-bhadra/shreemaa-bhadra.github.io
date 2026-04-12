@@ -109,60 +109,11 @@ So here goes the recipe for the Chicken Jhola or Light Chicken curry:
 
 ![Chicken curry with ghee smeared rotis](/assets/uploads/2018/09/IMG_3413.jpg) Chicken curry with ghee smeared rotis
 
- 
-
-Chicken Jhola or Light Chicken Curry
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 30 mins
-
-Total time: 1 hour
-
-Serves: 4
-
-This light chicken curry is like a stew cooked in a gravy made up basic Indian kitchen ingredients like onion, ginger garlic and tomatoes, flavored with cumin, coriander and garam masala. Best when served with ghee smeared chapati or hot steamed rice or jeera rice.
-
-Ingredients
-
-- Chicken with bones – 1.5 lb closer to 680 gms
-- Onion – 1 medium sized
-- Tomato – 1 large
-- Ginger Garlic paste – 1 tbsp
-- Dry Red Chilies – 2 or 3, you can add or reduce based on the spice need
-- Cumin seeds – 1 tsp
-- Corriander seeds – 1 tsp
-- Bay Leaves – 1
-- Cinnamon stick – 1 medium sized
-- Cardamom Pods – 2
-- Sugar – 1 tsp
-- Salt – according taste
-- Ground Garam Masala – 1 tsp
-- Turmeric Powder – 1 tsp
-- Red chilli Powder – 1tsp
-- Coriander Leaves – 1/2 bunch, finely chopped
-- Mustard Oil – 1.5 tbsp
-- Water – 2 cups
-
-Instructions
-
-1. Marinate the Chicken with Turmeric Powder, Red chilli Powder and Salt and keep it aside for 30 mins.
-2. Make a course ground masala from the cubed onions, cumin seeds, coriander seeds and red chilies and keep it aside.
-3. Puree the whole tomato.
-4. Take a wide bottomed vessel, and heat for a minute or two.
-5. Add Mustard oil, you can use your choice of oil and palate. I added for my pure Odia taste.
-6. To the hot oil, add the sugar, this is a bit of trick to make the gravy look bright red, it won’t make the curry sweet.
-7. Then add the whole garam masalas (bay leaves, cinnamon stick, cardamom pods) and saute till the aroma is released to the oil.
-8. Now, add the coarsely ground masala and ginger garlic paste together and cook it till the oil separates and the raw smell of ginger, garlic and onion goes off. This nearly takes around 5-6 mins.
-9. To the masala mixture add the tomato puree and cook till the oil separates.
-10. Add the marinated chicken and mix the cooked spices thoroughly and cover and cook in the medium flame for about 10-15 mins.
-11. Now roughly chop the half bunch of coriander leaves and add to the semi-cooked chicken. This adds the best flavor to the gravy.
-12. Cook till the chicken is entirely done. You can add the amount of water you want based on the need of the gravy. But as I wanted a light curry. I added 2 cups of water and let it shimmer.
-13. Finally added the garam masala and cook for a minute.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

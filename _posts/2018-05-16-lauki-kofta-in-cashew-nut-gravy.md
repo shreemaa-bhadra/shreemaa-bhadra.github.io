@@ -120,27 +120,11 @@ Here goes the recipe of Lauki Kofta in Creamy Cashew nut Gravy:
 
 ![Lauki Kofta in Cashew Gravy](/assets/uploads/2018/05/DSC_5650.jpg) Lauki Kofta in Cashew Gravy
 
- 
-
-Lauki Kofta in Cashew nut Gravy
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 20 mins
-
-Total time: 30 mins
-
-Serves: 2
-
-Lauki Kofta in Cashew nut Gravy is a rich curry cooked with Bottle Gourd balls in the cashew nut gravy and enjoyed with Indian Flat breads like Naan, Rotis or Paratha.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

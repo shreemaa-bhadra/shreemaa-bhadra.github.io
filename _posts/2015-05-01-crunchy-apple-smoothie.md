@@ -72,32 +72,10 @@ N.B. : The quantity serves 2.
 
 > _Chef's Tip: As soon as you cut the apple, grind it and serve it. Exposing in the air gets apple oxidized which is an unhealthy option to consume._
 
-Crunchy Apple Smoothie
-
-Recipe Type: Breakfast
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Total time: 10 mins
-
-Serves: 2
-
-The Crunchy apple smoothie is a refresher and a relief drink during summers. The creamy blend of apple, milk and cashew nuts feels like heaven.
-
-Ingredients
-
-- Apple – 1 whole
-- Cold milk – 2 cups
-- Corn flakes/meusli – 3-4 tbs
-- Cashew nuts – 7-8 whole
-- Sugar – According to the taste (preferably 2 tbsp)
-- Ice cubes – 2-3
-
-Instructions
-
-1. Peel off the apple and cut into medium sized cubes.
-2. In the juicer grind the apple, cold milk, cashew nuts, sugar and ice-cubes till it's mixed properly into a thick smoothie.
-3. Serve the smoothie topping it with the corn flakes.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 10 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

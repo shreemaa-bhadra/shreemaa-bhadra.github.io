@@ -89,25 +89,11 @@ Hurray!!, you have the fresh, crisp Biscotti ready. Simply dunk it in your favo
 
 [![Almond and Choco-chip Biscotti](/assets/uploads/2016/12/DSC_9735.jpg)](/assets/uploads/2016/12/DSC_9735.jpg) Almond and Choco-chip Biscotti
 
-Almond and choco-chip Biscotti
-
-Recipe Type: Dessert
-
-Cuisine: Italian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 40 mins
-
-Total time: 1 hour 10 mins
-
-Serves: 10
-
-Italian crisp Almond and Choco-chip Biscotti are the double baked cookies. These are traditionally made of almonds, are a great with tea and coffee.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> Italian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour 10 mins</p>
+  <p><strong>Serves:</strong> 10</p>
+</div>
 

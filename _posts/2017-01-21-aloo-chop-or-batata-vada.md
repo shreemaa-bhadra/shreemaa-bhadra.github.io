@@ -130,27 +130,11 @@ Enjoy the hot Aloo chop with your favorite chutney.
 
 [![Aloo Chop Served with Onion and Green chilies](/assets/uploads/2017/01/DSC_0018.jpg)](/assets/uploads/2017/01/DSC_0018.jpg) Aloo Chop Served with Onion and Green chilies
 
-Aloo Chop or Batata Vada
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Snacks</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 20 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Recipe Type: Snacks
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 20 mins
-
-Cook time: 10 mins
-
-Total time: 30 mins
-
-Serves: 4
-
-Aloo Chop is a pillowy fritter made up of chickpea flour stuffed with a spicy potato. It's an amazing street food found in almost all corners of India.
-
-Ingredients
-
-Instructions
-
-
-\[wpdevart\_like\_box profile\_id="cookspan" connections="show" width="300" height="180" header="small" cover\_photo="show" locale="en\_US"\]

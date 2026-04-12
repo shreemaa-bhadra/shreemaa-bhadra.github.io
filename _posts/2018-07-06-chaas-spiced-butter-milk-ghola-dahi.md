@@ -37,45 +37,12 @@ This is my first summer in Pacific North West and so far the summer had eluded t
 
 1. Take all the fresh ingredients and wash thoroughly.
 2. Take the blender and blend all the ingredients with one cup of water until all the whole pieces are ground.
-3. Add water and mix uniformly. Then refrigerate for 2-3 hrs.
 
- 
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Drinks</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 5 mins</p>
+  <p><strong>Total time:</strong> 5 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Spiced Butter Milk or Ghola Dahi
-
-Recipe Type: Drinks
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 5 mins
-
-Total time: 5 mins
-
-Serves: 4
-
-Spiced Butter Milk is served in summer or after food drink to aid digestion and enhance hydration.
-
-Ingredients
-
-- Greek Yogurt or Full fat Yogurt - 3 tbsp
-- Water - 8 cups
-- Ginger - a very tiny piece
-- Green Chillies - 2 - 3 , based on the heat you can bear
-- curry leaves - 1 sprig
-- Mint leaves - 5-6
-- corriander leaves - 2 -3 sprigs
-- Salt - according to taste, I did add 2 tsp
-- Black Salt - 1 tsp for flavorings
-
-Instructions
-
-1. Take all the fresh ingredients and wash throughly.
-2. Take a blender and blend all the ingredient,except water until all the whole pieces are ground.
-3. Add water and mix uniformly. Then refrigerate for 2-3 hrs.
-
-
- 
-
-![Chaas or Spiced Butter Milk or Ghola Dahi](/assets/uploads/2018/07/Ghola-Dahi.jpg) Chaas or Spiced Butter Milk or Ghola Dahi

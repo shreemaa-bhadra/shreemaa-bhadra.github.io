@@ -88,27 +88,11 @@ Garnish with coriander leaves to add freshness of taste.
 
 ![Anda aloo bhurji](/assets/uploads/2018/07/DSC_6571.jpg "Anda aloo bhurji") Anda aloo bhurji
 
-Serve these with the hot chapatis or yummy Dal Rice.
-
-Anda Aloo Bhurji or Potato and Egg stir fry
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 5 mins
-
-Cook time: 10 mins
-
-Total time: 15 mins
-
-Serves: 4
-
-Anda Aloo Bhurji is a sacrambled egg version which is cooked in the stir fried potatoes and onions. The flavor of cumin and onions enhances the flavor.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 5 mins</p>
+  <p><strong>Total time:</strong> 15 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

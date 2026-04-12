@@ -73,25 +73,11 @@ The recipe goes like this:
     
     [![Seasoning it with Salt and Chili Powder](/assets/uploads/2016/05/DSC_7306-1.jpg)](/assets/uploads/2016/05/DSC_7306-1.jpg) Seasoning it with Salt and Chili Powder
 
-Namak Pare
-
-Recipe Type: SNACKS
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 20 mins
-
-Cook time: 10 mins
-
-Total time: 30 mins
-
-Serves: 4
-
-How to make step by step Namak Pare, it's an Indian Tea time fried snacks, flavored with different ingredients.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> SNACKS</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 20 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

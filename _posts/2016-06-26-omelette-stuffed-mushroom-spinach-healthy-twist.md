@@ -158,27 +158,11 @@ Enjoy the stuffed nutritious Omelette. It's not only a treat to the taste buds, 
 
 [![Stuffed Omelette with Spinach and Mushroom](/assets/uploads/2016/06/DSC_8800.jpg)](/assets/uploads/2016/06/DSC_8800.jpg) Stuffed Omelette with Spinach and Mushroom
 
-Do try this yummy brunch on your Sundays and get a great punch of health and taste together.
-
-Omelette stuffed with Mushroom and Spinach with a Healthy twist
-
-Recipe Type: Breakfast
-
-Cuisine: Continental
-
-Author: Shreemaa Bhadra
-
-Prep time: 20 mins
-
-Cook time: 25 mins
-
-Total time: 45 mins
-
-Serves: 2
-
-Omelette stuffed with mushroom and spinach with cauliflower sauce is a variation of French Omelette. The delicacy has both health and taste in it.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> Continental</p>
+  <p><strong>Prep time:</strong> 20 mins</p>
+  <p><strong>Total time:</strong> 45 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

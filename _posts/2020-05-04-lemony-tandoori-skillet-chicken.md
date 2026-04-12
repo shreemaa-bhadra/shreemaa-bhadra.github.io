@@ -59,38 +59,10 @@ Here goes the simple recipe:
 
 ![Lemony Tandoori Skillet Chicken](/assets/uploads/2020/05/DSC_9105-scaled.jpg) Lemony Tandoori Skillet Chicken
 
-Lemony Tandoori Skillet Chicken
-
-Recipe Type: Main
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Lemony Tandoori Chicken is a light and flavorful chicken is cooked on a skillet for a quick meal served alongside a crunchy salad.
-
-Ingredients
-
-- Chicken Tenders – 1 lb
-- Lemon – 1 whole large
-- Tandoori Masala (store brought any brand, available in Indian stores or South Asian stores) – 2 tbsp
-- Minced Ginger Garlic: 1 tbsp
-- Crushed Green Chillies – 1 tsp (1 whole)
-- Turmeric – 1 tsp
-- Cumin Powder – 1 tsp
-- Mint Leaves – Handful Crushed, I used 1 tbsp dried
-- Mustard Oil – 2 tbsp (you can use any vegetable oil, I used mustard for authentic Indian flavor)
-
-Instructions
-
-1. Marinate the chicken with all the ingredients other than the oil listed in the above steps. Marinate for 15 mins.
-2. Take a wide-bottomed skillet, heat it in medium to high flame.
-3. Add the oil.
-4. Cook the chicken for 2-3 mins on each side until it is golden brown from both the sides.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

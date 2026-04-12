@@ -126,27 +126,11 @@ Else add a sweet chutney of Imli to make it sweeter version.
 
 > _Cooking is not about following numbers or counting figures. It's about seeing yummy colors, smelling yummy flavors and tasting yummilicious._
 
- 
-
-Dahi Bara Aloo Dum
-
-Recipe Type: Appetizer
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 6 hours
-
-Cook time: 35 mins
-
-Total time: 6 hours 35 mins
-
-Serves: 4
-
-Dahi Bara Aloo Dum is one of the famous chats served in Odisha. For a hot climate, the curd in the bara gives comfort . The tangy flavor tickles tongue
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Appetizer</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 6 hours</p>
+  <p><strong>Total time:</strong> 6 hours 35 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

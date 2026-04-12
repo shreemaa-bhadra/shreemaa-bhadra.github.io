@@ -42,29 +42,7 @@ The recipe for the mustard paste or Sorisha Batta goes like this:
 1. Soak the mustard seeds for 10-15 mins in normal water.
 2. Grind the soaked mustard seeds, cumin seeds, red chilies, garlic with water. You get a beautiful mustard paste for your next dish.
 
-Sorisha Batta / Mustard Paste
-
 Recipe Type: Seasonings
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 15 mins
-
 Total time: 15 mins
-
-Sorisha Batta a flavoring done for many of the Odiya Gravies. Out of which famous are veggies, mushroom and fishes.
-
-Ingredients
-
-- Mustard Seeds - 2 tbsp
-- Cumin Seeds - 2 tbsp
-- Red chilies - 3-4
-- Garlic - 7-8 big cloves
-
-Instructions
-
-1. Soak the mustard seeds for 10-15 mins in normal water.
-2. Grind the soaked mustard seeds, cumin seeds, red chilies, garlic with water. You get a beautiful mustard paste for your next dish.
-

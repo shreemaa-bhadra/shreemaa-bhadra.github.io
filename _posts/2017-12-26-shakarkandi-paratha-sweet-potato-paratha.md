@@ -95,47 +95,11 @@ Serve the Parathas with the choice of your condiments like pickles or curd.
 
 [![Decked up Paratha](/assets/uploads/2017/12/DSC_3793.jpg)](/assets/uploads/2017/12/DSC_3793.jpg) Decked up Paratha
 
-Shakarkandi Paratha or Sweet Potato Paratha - No Onion No Garlic
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 15 mins
-
-Total time: 30 mins
-
-Serves: 4
-
-Sweet Potato Paratha is an Indian spiced Flat bread with a wonderful medley of sweet and spiced taste. This paratha has a proper balance of taste and goodness of health. It can be enjoyed simply with a cup of tea or coffee.
-
-Ingredients
-
-- Whole wheat Flour – 1 and 1/2 cup
-- Sweet Potato – 1 large sized or 2 medium sized boiled or steamed
-- Ajwain or Carom seeds – 1 tbsp
-- Coriander Powder – 1 tsp
-- Cumin Powder – 1 tsp
-- Red Chili Powder – 1/2 tsp (you can add more for spiciness, I used less for my toddler)
-- Turmeric Powder – 1 tsp
-- Salt – according to taste
-- Ghee – 6 tbsp
-
-Instructions
-
-1. In a large mixing bowl take all the spices (Cumin Powder, Carom seeds, Coriander Powder, Red Chili Powder, Turmeric Powder, Salt).
-2. In another bowl, peel off the sweet potatoes and mash it.
-3. Add the Whole Wheat Flour to the spices and add 2 tbsp of clarified butter or ghee.
-4. To the Flour and spices add the mashed sweet potato.
-5. Slowly mix the dough and knead it to form a soft smooth dough.
-6. Pinch out small portions to make small spheres.
-7. Dust the small portion of dough with dry flour and roll to make a flat bread of round shape.
-8. Heat an iron griddle, add the flat bread. Flip it once bubbles appear on the surface.
-9. Cook the other side, till you see golden brown spots.
-10. Add 1 tsp of ghee and brush it on the surface facing upwards.
-11. Flip the Paratha and repeat the previous step.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

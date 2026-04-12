@@ -80,29 +80,12 @@ The fun part of this festival is, my Mom being a working woman and lazy on this 
     [![Batter Poured in the Griddle](/assets/uploads/2017/01/DSC_0045.jpg)](/assets/uploads/2017/01/DSC_0045.jpg) Batter Poured in the Griddle
 10. Cook it for 2 mins. Turn the _Chakuli_ once it starts getting brown. Keep a keen eye on it, as Jaggery will let burn the pancake easily.!["<yoastmark](/assets/uploads/2017/01/DSC_0049.jpg)
 11. After turning, let the other side get cooked to golden brown.
-12. Serve it hot as a breakfast or a snack.
 
-I didn't want to experiment with this recipe, as it would be like tampering with my memories. This feeling is special, so substituting them is next to impossible. Enjoy the _Budha Chakuli_, an age old Odiya Pan cake.
-
-Budha Chakuli: An age old Odiya sweet Pancake with a tribute to my Grandparents
-
-Recipe Type: Breakfast
-
-Cuisine: Odiya
-
-Author: Shreemaa Bhadra
-
-Prep time: 9 hours
-
-Cook time: 15 mins
-
-Total time: 9 hours 15 mins
-
-Serves: 4
-
-Budha Chakuli is an Odiya Pancake, made up of Black Grams,Rice sweetened with Jaggery and seasoned with spices and coconut,offered as Prasad on festivals.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> Odiya</p>
+  <p><strong>Prep time:</strong> 9 hours</p>
+  <p><strong>Total time:</strong> 9 hours 15 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

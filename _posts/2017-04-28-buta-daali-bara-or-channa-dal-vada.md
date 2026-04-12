@@ -70,27 +70,11 @@ The recipe of the Buta Dali Bara or Chana Dal Vada goes like this:
 
 [![Vada dunked in Chutney](/assets/uploads/2017/04/DSC_1559.jpg)](/assets/uploads/2017/04/DSC_1559.jpg) Vada dunked in Chutney
 
-Serve it with some yummy hot green chutney or sweet and spicy date and tamarind chutney and make it your favorite tea time snack for a rainy evening or afternoon.
-
-Buta Daali Bara or Channa Dal Vada
-
-Recipe Type: Appetizer
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 20 mins
-
-Total time: 50 mins
-
-Serves: 4
-
-Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time snack.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Appetizer</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 50 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

@@ -111,24 +111,11 @@ This year, on the first day of the Navratri, when the home was filled with festi
 
 ![Puran Poli](/assets/uploads/2018/10/IMG_3293.jpg) Puran Poli
 
-Puran Poli
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 2 hours</p>
+  <p><strong>Total time:</strong> 2 hours 15 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 2 hours
-
-Cook time: 15 mins
-
-Total time: 2 hours 15 mins
-
-Serves: 4
-
-Puran Poli is the traditional Maharashtrian flat bread. It’s whole wheat flat bread stuffed with jaggery and lentil filling. This is cherished during Indian festivals.
-
-Ingredients
-
-Instructions

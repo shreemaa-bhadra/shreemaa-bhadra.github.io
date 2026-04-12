@@ -124,27 +124,11 @@ Heat the Paratha till it's golden brown on both the sides.
 
 [![Mutter Paratha ](/assets/uploads/2016/03/DSC_6239.jpg)](/assets/uploads/2016/03/DSC_6239.jpg) Mutter Paratha
 
-Serve the yummy Paratha with curd and green chutney. That makes it even more finger licking yummilicious !!!
-
-Mutter Paratha
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 40 mins
-
-Total time: 1 hour 10 mins
-
-Serves: 5
-
-Mutter Paratha is an Indian Flat Bread that is made out of stuffed spicy Mutter . The Paratha can be eaten with chutney or curd and can be served as an Indian Main course or part of Indian Thali.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour 10 mins</p>
+  <p><strong>Serves:</strong> 5</p>
+</div>
 

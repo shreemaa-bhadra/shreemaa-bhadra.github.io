@@ -76,25 +76,11 @@ Serve hot with a bowl of Pakhala or Dal-Rice.
 
 ![Gotta Chachindra Bhaja or Stuffed Snake Gourd Fry](/assets/uploads/2018/08/DSC_6600.jpg) Gotta Chachindra Bhaja or Stuffed Snake Gourd Fry
 
-Pura dia Chachindra Bhaja or stuffed Snake Gourd fry
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 15 mins
-
-Total time: 30 mins
-
-Serves: 4
-
-Stuffed Snake Gourd or Gota Chachindra Bhaja is a stir fry made out of Snake gourd stuffed with Chili Garlic and shallow fried in mustard Oil. It's usually a side served with Dal Rice.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

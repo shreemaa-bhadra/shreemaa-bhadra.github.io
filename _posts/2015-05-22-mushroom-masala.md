@@ -75,23 +75,7 @@ The recipe of the Mushroom Masala goes like this:
 
 There comes the yummy spice loaded Mushroom Masala for you. Garnish it with the chopped green chilies and finely chopped coriander leaves. The color, odor and taste are going to compel you to salivate.
 
-Mushroom Masala | Spiced Mushroom Gravy
-
 Recipe Type: Main Course
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 15 mins
-
-Cook time: 20 mins
-
 Total time: 35 mins
-
-Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris.
-
-Ingredients
-
-Instructions
-

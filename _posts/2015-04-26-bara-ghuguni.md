@@ -102,22 +102,7 @@ Wait for more yummy and slightly varied recipes.
 
  
 
-Bara Ghuguni
-
 Recipe Type: Appetizer
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 6 hours
-
-Cook time: 1 hour
-
 Total time: 7 hours
-
-Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups.
-
-Ingredients
-
-Instructions

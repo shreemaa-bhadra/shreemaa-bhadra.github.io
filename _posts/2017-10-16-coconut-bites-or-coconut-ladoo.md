@@ -76,27 +76,11 @@ Here goes the recipe:
 
 [![](/assets/uploads/2017/10/DSC_3022.jpg)](/assets/uploads/2017/10/DSC_3022.jpg)
 
-Wishing you all a very auspicious Diwali.
-
-Coconut Bites or Coconut Ladoo
-
-Recipe Type: Dessert
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Coconut Ladoo are the sweet bites made up coconut, sweetened and moistened with condensed milk with a crust of dry flakes of coconut.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

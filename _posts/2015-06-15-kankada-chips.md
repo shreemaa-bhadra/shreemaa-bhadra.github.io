@@ -65,47 +65,11 @@ The recipe of Kankada chips/Kankrol Chips/ Spiny Gourd fritter goes like this:
 
 [![Kankada Chips](/assets/uploads/2015/06/DSC_3613.jpg)](/assets/uploads/2015/06/DSC_3613.jpg) Kankada Chips
 
-Serve it with chutney or ketchup or it can be served as a side dish in a complete meal or vegetarian buffet. The crispiness of the fritter is a delight to the taste bud.
-
- 
-
-Kankanda Chips
-
-Recipe Type: Side dish
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Kankada Chips is a fritter made out of thin slices of Spiny Gourd deep fried with chickpea flour. It's crispy , spicy and a delight to the taste.
-
-Ingredients
-
-- Spiny Gourd- 250 gms
-- Chick pea flour/ Besan - 1 1/2 cup
-- Green chilies - 1 piece
-- Ginger - 1 cm long
-- Garlic - 2-3 medium cloves
-- Red chili powder - 1 pinch
-- Salt - According to the taste
-- Vegetable Oil - For deep frying
-
-Instructions
-
-1. Clean the Spiny Gourd / Kankrol and pat dry.
-2. Cut into equal thin round slices.
-3. Crush the green chilies, Ginger and Garlic using a mortar-pestle or grind it in a mixer-grinder without adding water to it.
-4. In a bowl, add chickpea flour and cut slices of Spiny gourd/Kankrol and ground paste.
-5. Now add the red chili powder and salt according to the taste and keep the mix for 30 mins.
-6. Before making pakodas, if the mix is kept well in advance it’s flavorsome and tasty.
-7. In a wide bottomed pan or Kadhai, heat the vegetable oil.
-8. Now, put each marinated piece of Spiny gourd and deep fry till it’s golden brown.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side dish</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

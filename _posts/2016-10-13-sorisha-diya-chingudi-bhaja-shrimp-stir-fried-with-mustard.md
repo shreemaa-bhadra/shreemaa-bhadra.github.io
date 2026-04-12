@@ -67,27 +67,11 @@ The recipe goes like this:
     
     [![Chingudi Besara Bhaja 02](/assets/uploads/2016/10/DSC_9018-1.jpg)](/assets/uploads/2016/10/DSC_9018-1.jpg) Chingudi Besara Bhaja 02
 
-Chingudi Bhaja is those easy peasy ones which are best served as appetizers or a side dish to any Great Indian Non-veg Platter.
-
-Sorisha diya Chingudi Bhaja | Shrimp/Prawn stir fried with mustard
-
-Recipe Type: Side
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 2
-
-It's an easy dry Shirmp recipe, that can be done in no time and goes well as a starter and as a perfect accompaniment to a non-vegetarian Indian Thali.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

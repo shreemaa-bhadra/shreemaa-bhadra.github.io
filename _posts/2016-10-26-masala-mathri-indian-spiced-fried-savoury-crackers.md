@@ -96,28 +96,12 @@ So here is what I have for my Diwali and Halloween:
      
     
     [![Mathri - Step 12](/assets/uploads/2016/10/DSC_9441.jpg)](/assets/uploads/2016/10/DSC_9441.jpg) Step 12
-    
-    Relish your Mathri [![Mathri](/assets/uploads/2016/10/DSC_9465.jpg)](/assets/uploads/2016/10/DSC_9465.jpg)
 
-Masala Mathri | Indian Spiced Fried Savoury Crackers
-
-Recipe Type: Snack
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 60 mins
-
-Total time: 1 hour 30 mins
-
-Serves: 10
-
-Mathri is a crispy fried snack served during Diwali or at tea time or on a rainy day. This can be enjoyed dipped with some spicy Indian pickle too.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Snack</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour 30 mins</p>
+  <p><strong>Serves:</strong> 10</p>
+</div>
 

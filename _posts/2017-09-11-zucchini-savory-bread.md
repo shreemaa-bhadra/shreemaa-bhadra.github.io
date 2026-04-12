@@ -95,25 +95,11 @@ Once done serve it hot or cold and with a cup of coffee. It's a true delight.
 
 [![One more piece](/assets/uploads/2017/09/DSC_2622.jpg)](/assets/uploads/2017/09/DSC_2622.jpg) One more piece
 
-Zucchini savory bread
-
-Recipe Type: Breakfast
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 25 mins
-
-Total time: 55 mins
-
-Serves: 6
-
-Zucchini Savory bread is a great recipe to include a variety of vegetables and herbs in your diet with a less effort of preparation.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 55 mins</p>
+  <p><strong>Serves:</strong> 6</p>
+</div>
 

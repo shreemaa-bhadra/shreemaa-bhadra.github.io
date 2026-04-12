@@ -55,46 +55,11 @@ Sweet Peppers are always a delight. I absolutely love them, sometimes I munch th
 
 ![Stuffed Egg Wrap](/assets/uploads/2020/10/IMG_9236-scaled.jpg) Egg Wrap Stuffed with Sweet Peppers and Beans
 
-It's juicy from the inside and crunchy and chewy from the outside. You will have amazing flavors in the wholesome meal. You can also enjoy the stuff wrap for lunch or dinner.
-
-Egg Wrap stuffed with Sweet peppers and Beans
-
-Recipe Type: Breakfast
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 5 mins
-
-Total time: 20 mins
-
-Serves: 2
-
-Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-based wrap stuffed with an easy salad made up Sweet Peppers and boiled beans.
-
-Ingredients
-
-- Tortillas / Rotis – 2
-- Eggs – 2
-- Sweet Peppers – 3-4
-- Onions – 1 tbsp (finely chopped)
-- Coriander Leaves – a handful to flavor
-- Boiled Red Kidney Beans – 1/4 cup (you can use beans of your choice)
-- Lemon/ Lime Juice – 1 tbsp
-- Salt – According to taste
-- Pepper – According to taste
-- Oil of your choice – 2-3 tsp
-
-Instructions
-
-1. Heat a pan, add around 1-1.5 tsp of oil.
-2. Beat the egg with salt and pepper, add the egg and cook for a minute or two.
-3. Then to the uncooked side add the tortilla or roti and let the omelet cook. Flip and cook the other side. Cook until the egg is properly cooked.
-4. Repeat the same step for the other tortilla.
-5. In the meantime, make the salad. Chop the sweet peppers, onions and coriander leave very fine.
-6. Add the boiled beans, lemon juice, salt, and pepper.
-7. Once the tortilla with eggs is cooled to a temperature you can hold comfortably, stuff the salad, and serve.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 20 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

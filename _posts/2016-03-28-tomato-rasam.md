@@ -89,59 +89,11 @@ The recipe goes like this:
 
 Serve the yummy tangy Tomato Rasam with Plain white Rice, believe me, you would be delighted with this easy South Indian combo on your busy days. This is light and easy to make and a very healthy option to cherish.
 
- 
-
- 
-
-Tomato Rasam
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 10 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Tomato Rasam is tangy accompaniment to Plain Rice, generally served in South India. It's a perfect blend of health and taste. Try it !!
-
-Ingredients
-
-- Tomato – 3 medium sized
-- Garlic Cloves – 7-8 small sized
-- Ginger – 1 inch
-- Coriander Leaves
-- Green chilies – 1 – 2 pieces
-- Tamarind – 2 tbsp pulp (or soak the tamarind to extract 2 tbsp pulp)
-- Mustard Seeds (for tempering) – 2tsp
-- Curry Leaves (for tempering)
-- Vegetable Oil – 1tbsp
-- Salt (according to the taste)
-- For Powder
-- Black Pepper – 1 tbsp
-- Cumin Seeds – 2 tbsp
-- Red chilies – 4 large sized
-
-Instructions
-
-1. Dry roast the Black Pepper, Cumin Seeds and Red chilies and grind to make a fine powder.
-2. Coarsely grind the Coriander Leaves, Green chilies, Garlic Cloves and Ginger into a paste and keep it aside.
-3. Soak the tamarind (or use the tamarind pulp directly) for about 15-20mins.
-4. Boil the tomatoes for 10-15 mins.
-5. Drain off the water and finely grind the boiled tomatoes.
-6. Heat a wide bottomed vessel for 2 mins. Add the Vegetable Oil. Once the oil is heated up add the mustard seeds and curry leaves for tampering.
-7. After the above step, add the ground boiled tomatoes and let it simmer.
-8. To the simmering tomato gravy, add the ground paste, 2 tbsp of the finely made powder and salt according to the taste and stir it properly so that all the ingredients are mixed properly.
-9. Strain the tamarind and add the pulp to the boiling Tomato Rasam.
-10. In order to adjust the consistency of Rasam, add a cup or two of water and let it boil for 4-5 mins. And there you are.
-
-Notes
-
-Serve the yummy tangy Tomato Rasam with Plain white Rice, believe me, you would be delighted with this easy South Indian combo on your busy days. This is light and easy to make and a very healthy option to cherish.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

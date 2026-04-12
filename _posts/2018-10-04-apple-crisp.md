@@ -91,27 +91,10 @@ Apple crisp is a easy way of adding the apple chunks with the basic flavors and 
 
  
 
-Enjoy the warm crisp with a scoop of vanilla ice-cream. It's a perfect delight to your autumn fun.
-
-\[gallery columns="2" size="full" ids="2252,2249"\]
-
-Apple Crisp small batch
-
-Recipe Type: Dessert
-
-Author: Shreemaa Bhadra
-
-Prep time: 20 mins
-
-Cook time: 25 mins
-
-Total time: 45 mins
-
-Serves: 2
-
-Apple Crisp is a perfect Fall Dessert with juicy apple flavored with spices stuffed underneath buttery crisp crust of oats and flour to give that extra crunch, best when enjoyed with ice cream.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Prep time:</strong> 20 mins</p>
+  <p><strong>Total time:</strong> 45 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

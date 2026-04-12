@@ -53,25 +53,11 @@ Here goes my  recipe:
 - Bake the cookies for about 12-13 mins, until the edges are firm.
 - The cookie should be cooled in the baking sheet for 20 mins before removing them to the cooling rack.
 
-Chocolate Crinkle Cookies
-
-Recipe Type: Dessert
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 2 hours
-
-Cook time: 12 mins
-
-Total time: 2 hours 12 mins
-
-Serves: 10
-
-Chocolate Crinkle cookies are shiny crinkle cookies which has the texture of chocolate fudge and is coated with sugar for the shine visuals.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 2 hours</p>
+  <p><strong>Total time:</strong> 2 hours 12 mins</p>
+  <p><strong>Serves:</strong> 10</p>
+</div>
 

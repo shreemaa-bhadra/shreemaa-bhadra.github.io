@@ -332,3 +332,37 @@ a:focus {
   border-top: none;
   margin-top: 1rem;
 }
+
+/* Recipe metadata card styling */
+.recipe-meta {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-left: 4px solid #6c757d;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+
+  p {
+    margin: 0.5rem 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #495057;
+    font-family: $system-font-stack;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    strong {
+      color: #212529;
+      font-weight: 600;
+      display: inline-block;
+      min-width: 100px;
+    }
+  }
+}

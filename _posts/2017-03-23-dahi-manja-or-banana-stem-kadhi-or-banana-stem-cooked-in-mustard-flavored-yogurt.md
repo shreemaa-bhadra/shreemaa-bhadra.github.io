@@ -91,27 +91,11 @@ The book and my mom-made recipes of pregnancy time for my taste bud and health 
 
 [![Banana Stem Kadhi](/assets/uploads/2016/05/DSC_7561.jpg)](/assets/uploads/2016/05/DSC_7561.jpg)
 
-Easy to make and healthy banana stem kadhi is ready. Serve it with a plain rice as a main course or make a drier version to serve it as a sour side dish in any kind of Indian Platter.
-
-Dahi Manja or Banana Stem Kadhi or Banana Stem cooked in Mustard flavored Yogurt
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 20 mins
-
-Total time: 35 mins
-
-Serves: 4
-
-How to make step by step dahi manja. The recipe is a delicacy from Odisha and is served with Plain rice or a rice platter.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 35 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

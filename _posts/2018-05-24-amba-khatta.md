@@ -70,29 +70,11 @@ In summer, when you get the raw mangoes no family in Odisha miss cooking Amba Kh
 
 I love this dish so much that I can have it solely with my plain Parathas or Rotis. They make my summer time awesome.
 
- 
-
- 
-
-Amba Khatta or Sweet and Sour Mango Chutney
-
-Recipe Type: Side
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 5 mins
-
-Cook time: 15 mins
-
-Total time: 20 mins
-
-Serves: 5
-
-Amba Khatta odia recipe is a sweet and sour raw mango chutney, which is sweetened with Jaggery and flavored with Curry Leaves and Panch Phoran.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 5 mins</p>
+  <p><strong>Total time:</strong> 20 mins</p>
+  <p><strong>Serves:</strong> 5</p>
+</div>
 

@@ -68,23 +68,7 @@ The chutney is a delightful blend of sweetness and sourness of plum. Try serving
 
 [![Plum Chutney](/assets/uploads/2015/06/Plum-Chutney.jpg)](/assets/uploads/2015/06/Plum-Chutney.jpg) Plum Chutney
 
-Plum Chutney
-
 Recipe Type: Dip/Sauce
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 10 mins
-
-Cook time: 10 mins
-
 Total time: 20 mins
-
-Plum chutney is a blend of sweetness and Sourness and can act as an exotic dip or sauce for many dishes.
-
-Ingredients
-
-Instructions
-

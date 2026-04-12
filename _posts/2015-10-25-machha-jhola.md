@@ -88,23 +88,7 @@ Here goes the recipe for the Machha Jhola:
 
 Serve the spicy gravy with plain rice. It would be itself a complete meal and an amazing treat for your appetite. [![DSC\_5656](/assets/uploads/2015/10/DSC_5656.jpg)](/assets/uploads/2015/10/DSC_5656.jpg)
 
-Rohi Maccha Jhola or Rohu Macher Jhol or Rohu Fish Cooked in a thick rich Gravy
-
 Recipe Type: Main
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 20 mins
-
-Cook time: 60 mins
-
 Total time: 1 hour 20 mins
-
-Machha Jhola is the fish cooked in a rich spicy gravy. It's assorted with garam masala to bring unique flavors and does justice to your taste buds. Generally served with Plain Rice.
-
-Ingredients
-
-Instructions
-

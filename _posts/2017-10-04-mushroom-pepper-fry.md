@@ -90,53 +90,11 @@ Serve it with hot rotis or Dal-Rice. The crunch of white onions and green bell 
 
  
 
- 
-
- 
-
-Mushroom Pepper Fry
-
-Recipe Type: Side
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Mushroom pepper fry is a subtle mushroom recipe cooked with onions and bell peppers, spiced with crushed black pepper. Perfect side dish to an Indian plate.
-
-Ingredients
-
-- Mushroom – 1 lb or 450 gms
-- Green Bell Peppers – 1 large finely sliced
-- White Onion – 1 medium sized finely sliced
-- Garlic – 3 cloves
-- Red chilies – 2
-- Spring onions – 1/4 cup
-- Cumin seeds – 1 tbsp
-- Freshly ground Black Pepper – 1tbsp
-- Turmeric – 1tsp
-- Salt – according to taste
-- Vegetable Oil – 2 tbsp
-
-Instructions
-
-1. Soak the red chilies and garlic for 30 mins.
-2. Make a coarse paste, using a mixer or mortar pestle to make chili garlic paste.
-3. Heat a skillet, add 2 tbsp of vegetable oil.
-4. Add the cumin seeds and let it splutter in the hot oil.
-5. Add the sliced white onions and let it fry till it softens.
-6. Then add the 2tbsp of chili-garlic paste and let it cook till the raw smell of garlic goes away.
-7. Now, add the mushroom and cook it for 10-15 mins on a medium flame till the water dries up.
-8. After this, add the sliced green bell pepper.
-9. Add the powdered spices like, crushed black pepper, salt and turmeric and stir it.
-10. Mix the spices well and add the spring onion greens to elevate the flavor and color of the dish.
-11. Serve it with hot rotis or Dal-Rice. The crunch of white onions and green bell pepper is a perfect company to the subtle mushroom.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

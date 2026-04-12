@@ -72,44 +72,11 @@ Here goes the recipe for Multigrain Adai:
 
 ![Adai](/assets/uploads/2018/09/IMG_2581.jpg) Adai
 
-Multigrain Adai
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 6 hours
-
-Cook time: 2 mins
-
-Total time: 6 hours 2 mins
-
-Serves: 10
-
-Multigrain Adai is an Indian crepe , made up of variety of grains and lentils flavored with curry leaves, asofoetida and ginger and spiced with dried red chilies, served crisp or soft based on the choice with varieties of chutney. It can be a great choice for protein packed breakfast.
-
-Ingredients
-
-- Whole Green Gram or Moong Beans : 1/4 cup
-- Black Grams or Skinned whole Urad Dal – 1/4 cup
-- Split Pigeon peas or toor Dal – 1/4 cup
-- Channa Dal – 1/4 cup
-- Multi colored Quinoa – 1/2 cup
-- Idli Rice or any variety of short grained par-boiled rice – 1 cup
-- Dried Red chilies – 5
-- Ginger – 2 cm long
-- Curry Leaves – handful
-- Asofoetida or Hing – a pinch
-- Coconut oil – for cooking
-
-Instructions
-
-1. Soak all the grains for overnight.
-2. Bring all the soaked ingredients and dry it with red chillies, ginger, curry leaves and asofoetida and grind them into a paste.
-3. Make sure not to make too much watery, but to a flowing spreadable consistency.
-4. Heat a griddle, brush some coconut oil to the griddle and spread the batter in round manner.
-5. Season, few drops of coconut oil on top of the spread batter and let it cook till golden brown on both sides.
-6. Serve it with coconut chutney.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 6 hours</p>
+  <p><strong>Total time:</strong> 6 hours 2 mins</p>
+  <p><strong>Serves:</strong> 10</p>
+</div>
 

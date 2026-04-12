@@ -88,63 +88,11 @@ _**Steps of Preparation for Stuffing:**_
      
      [![Aloo Gobi Paratha](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg) Aloo Gobi Paratha
 
-It's an amazing North Indian delicacy varied according to the availability of ingredients. But for sure the crispy spicy Indian Flat bread once tried in the kitchen, would compel you to try days after days.
-
-Aloo Gobi Paratha
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 20 mins
-
-Total time: 35 mins
-
-Serves: 4
-
-Aloo Gobi Paratha is a north Indian delicacy. It’s a form of Indian bread stuffed with spiced cauliflower and Potatoes. The crispy bread is amazing to eat.
-
-Ingredients
-
-- Potato - 1 medium sized
-- Cauliflower - 1/4 big sized
-- Onion - 1 medium sized
-- Garlic - 2 - 3 large cloves, finely chopped
-- Ginger - 1 cm long, finely grated
-- Green chilies - 1 finely chopped
-- Coriander leaves - 1 tbsp finely chopped
-- Red Chili powder - 1/2tsp
-- Cumin Powder - 1/2 tsp
-- Coriander Powder - 1/2 tsp
-- Wheat Flour - 2 cups
-- Salt - according to the taste
-- Ghee/Vegetable Oil
-
-Instructions
-
-1. Steps of Preparation for Dough:
-2. Add water slowly to wheat flour and start kneading.
-3. Knead till the dough is soft.
-4. After it’s completely kneaded, cover the dough with a wet muslin cloth and let it breathe in the air. This process makes it fluffy.
-5. Steps of Preparation for Stuffing:
-6. Boil the potatoes and mash it properly.
-7. Cut the cauliflower into very tiny pieces; in case it looks larger, mash the florets to make it smaller.
-8. Add the mashed cauliflower florets to the mashed boiled potatoes.
-9. Add the finely chopped onions, green chilies, coriander leaves, finely chopped garlic and finely grated ginger to the mash.
-10. Add the spices (cumin powder, coriander powder, chili powder) and salt for flavorings to the mashed mixture and mix it thoroughly.
-11. Steps of Preparation for Aloo-Gobi Paratha:
-12. Make two medium size balls of the wheat dough as shown in the picture.
-13. Roll the two small balls into two small circles (as much we do for Puri’s).
-14. Place one small rolled Puri and add the stuffing of 2 tbsp and cover it up with another Puri shaped roll.
-15. Close it firmly, so that it is evenly stuffed and then roll it to round shape.
-16. Heat a griddle (tawa), place the rolled paratha.
-17. Heat the paratha till bubble come. Flip it once and let the other side browns properly.
-18. Add 1 tsp of oil and brush it to the top facing side.
-19. Flip the paratha and repeat the previous step.
-20. Heat the paratha till it is golden brown.
-21. Serve the yummy paratha’s with curd or top it with butter.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 35 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

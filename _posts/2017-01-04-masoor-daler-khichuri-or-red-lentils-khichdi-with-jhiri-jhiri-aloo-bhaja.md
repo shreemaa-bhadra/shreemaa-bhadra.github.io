@@ -138,27 +138,11 @@ Traditionally, in Bengal the Khichdi is served with either a fish fry or omelett
 
 [![Masoor dal er Khichuri served with Aloo Bhaja and Omelette](/assets/uploads/2017/01/DSC_9852-1.jpg)](/assets/uploads/2017/01/DSC_9852-1.jpg) Masoor dal er Khichuri served with Aloo Bhaja and Omelette
 
-Now serve these yummy potatoes with the Khichdi and relish with pickle and Omlette. Perfect comfort food for the winter and rainy days, as it's loaded with the pungent flavor of mustard oil, which is a sure relief to a blocked nose and sore throat.
-
-Masoor Dal er Khichuri or Red Lentils Khichdi with Jhiri jhiri Aloo Bhaja
-
-Recipe Type: Main Course
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 30 mins
-
-Total time: 1 hour
-
-Serves: 4
-
-Masoor dal er Khichuri, served as a comfort food in cold weather as it's believed to keep the body warm, served with fish fry or Omlette or crisp potato fries.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main Course</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 1 hour</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

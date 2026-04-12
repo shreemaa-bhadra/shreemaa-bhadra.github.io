@@ -148,25 +148,11 @@ Serve the freshly made Kadhi in a bowl or plate full of rice. I can eat a genero
 
 ![Kadhi Pakoda served on top of the hot rice](/assets/uploads/2018/04/DSC_4998.jpg) Kadhi Pakoda served on top of the hot rice
 
-Methi Pakoda Kadhi
-
-Recipe Type: Main
-
-Cuisine: India
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 30 mins
-
-Total time: 45 mins
-
-Serves: 4
-
-Methi Pakoda Kadhi is a spiced yogurt based gravy where the fenugreek or methi leaves fritters a.k.a pakodas and dumped and enjoyed with a bowl of rice.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> India</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 45 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

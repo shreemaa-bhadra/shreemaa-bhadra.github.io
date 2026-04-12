@@ -68,23 +68,7 @@ The Aloo - Baingan Bharta recipe goes like this:
 
  
 
-Aloo Baingan Bharta
-
 Recipe Type: Side Dish
-
 Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
 Prep time: 15 mins
-
-Cook time: 15 mins
-
 Total time: 30 mins
-
-Aloo Baingan Bharta is lightly spiced comfort food which is made out of limited spices and healthy Eggplant. It's a great accomplishment to Chapatis.
-
-Ingredients
-
-Instructions
-

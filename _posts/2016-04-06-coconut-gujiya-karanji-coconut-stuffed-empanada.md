@@ -117,25 +117,11 @@ Serve it hot, it's really a treat to the sweet taste buds with an amazing crunch
 
 [![Coconut Gujiya](/assets/uploads/2016/03/DSC_7267.jpg)](/assets/uploads/2016/03/DSC_7267.jpg) Coconut Gujiya
 
-Coconut Gujiya | Karanji | Coconut stuffed Empanada
-
-Recipe Type: Bread
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 30 mins
-
-Cook time: 10 mins
-
-Total time: 40 mins
-
-Serves: 4
-
-Step by step process with pics on how to make Gujiya. Gujiya or Karanji or Empanada is form of stuffed bread that is either baked or fried. It has multiple variations ranging from sweet to savoury.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Bread</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 30 mins</p>
+  <p><strong>Total time:</strong> 40 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

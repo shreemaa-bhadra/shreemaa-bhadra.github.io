@@ -91,27 +91,11 @@ Mutter Paneer is loved across India and it is very easy to cook too. The recipe 
 
 [![Mutter Paneer Served with Chapati](/assets/uploads/2015/12/DSC_6125.jpg)](/assets/uploads/2015/12/DSC_6125.jpg) Mutter Paneer Served with Chapati
 
-Garnish the Curry with fresh Coriander leaves for some freshness in the smell and serve it hot with chapatis. It's a delight to every vegetarians taste.
-
-Mutter Paneer (No onion no Garlic)
-
-Recipe Type: Main Course
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 20 mins
-
-Total time: 35 mins
-
-Serves: 4
-
-No onion no Garlic version of Mutter Paneer is a creamy, tangy gravy dish of Paneer (Cottage Cheese), which goes perfectly with any form of Indian bread and is a favorite among Indian vegetarians.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main Course</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 35 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

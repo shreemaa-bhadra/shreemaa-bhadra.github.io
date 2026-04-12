@@ -83,25 +83,11 @@ You can separately adjust the quantity of water according to the thickness of th
 
 [![Buta daali bara tarkari](/assets/uploads/2017/10/DSC_1605-1.jpg)](/assets/uploads/2017/10/DSC_1605-1.jpg) Buta daali bara tarkari
 
-Buta Daali Bara Tarkari or Chana Dal Vada Curry
-
-Recipe Type: Main
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 1 hour
-
-Cook time: 20 mins
-
-Total time: 1 hour 20 mins
-
-Serves: 4
-
-It can be called as the vegetarians meat curry. It matches both to the taste and nutrients and can be perfectly enjoyed with rice or roti.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 1 hour</p>
+  <p><strong>Total time:</strong> 1 hour 20 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 

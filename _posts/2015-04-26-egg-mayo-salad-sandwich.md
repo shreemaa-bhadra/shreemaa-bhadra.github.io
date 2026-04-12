@@ -65,41 +65,11 @@ Wait for more yummy and slightly varied recipes.
 
 > _Cooking is not about following numbers or counting figures. It's about seeing yummy colors, smelling yummy flavors and tasting yummilicious._
 
-Egg Mayo Salad - Sandwich | Egg Sandwich
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Breakfast</p>
+  <p><strong>Cuisine:</strong> American</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 25 mins</p>
+  <p><strong>Serves:</strong> 4</p>
+</div>
 
-Recipe Type: Breakfast
-
-Cuisine: American
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 15 mins
-
-Total time: 25 mins
-
-Serves: 4
-
-Presenting you two recipes, an amazing mouth watering egg mayonnaise salad and crunchy egg sandwich to kill your heavy hunger.
-
-Ingredients
-
-- Eggs (3-4)
-- Mayo Sauce – 2-3 tbsp
-- Onion – 1 middle size, diced
-- Green chilies – 2-3 pieces
-- Coriander leaves – Finely chopped
-- Bread – 3 pieces(white/brown)
-- Salt – According to taste
-- Black Pepper Powder – 1tsp
-
-Instructions
-
-1. Boil the eggs for 20-25 mins in the pan till it's hard boiled.
-2. Peel off the skin and cut the eggs into medium cubes along with the yolk firmly attached with the egg white.
-3. In a bowl bring the mayonnaise sauce, diced onions, finely chopped green chilies, salt, pepper powder and mix it properly and uniformly.
-4. Add the cut egg pieces to the mixture.
-5. Garnish the salad mix with the finely chopped coriander leaves. You can place this salad mix for the starter buffet in the dinner or lunch.
-6. After the mix is done, cut the bread pieces to two diagonally n stuff to the salad mix.
-7. Place the sandwich in the hot pan and grill it for 2 mins.

@@ -55,27 +55,11 @@ Steps of Preparation:
 
 [![Badi Badam Chura](/assets/uploads/2015/05/Badi_Chura_02.jpg)](/assets/uploads/2015/05/Badi_Chura_02.jpg) Crispy Badi Badam Chura
 
-Serve with the meal at the lunch garnishing it with freshly cut Onion rings, it's  gonna be a wannabe for a long run in your home. I bet !
-
-Badi Chura
-
-Recipe Type: Side Dish
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 10 mins
-
-Cook time: 5 mins
-
-Total time: 15 mins
-
-Serves: 2
-
-Badi Chura is a side dish relished with the Odiya meal. Its a crispy side dish served with famous Pakhala or a must for all lunch meals.
-
-Ingredients
-
-Instructions
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side Dish</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 15 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 

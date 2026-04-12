@@ -54,40 +54,11 @@ The recipe for Bharwan Bhindi/ Gotta Bhendi / Okra stuffed with Chili Garlic goe
 
 ![Bharwan Bhindi / Gotta Bhendi Bhaja/ Chili Garlic stuffed Okra stir fry](/assets/uploads/2015/05/DSC_3596.jpg) Bharwan Bhindi / Gotta Bhendi Bhaja/ Chili Garlic stuffed Okra stir fry
 
-The spicy crispy Bharwan Bhindi is a great company with Dal Rice or if you are doing it in an Odiya way .. "_Gotta Bhendi Bhaja pakhala saha bahut Bhala_ _lagiba_". It's a great company to the South Indian's favorite curd rice as well. Try it !! It's gonna make you love it forever,
-
-Gotta Bhendi Bhaja/ Bharwan Bhindi/ Okra stuffed with Chili Garlic
-
-Recipe Type: Side dish
-
-Cuisine: Indian
-
-Author: Shreemaa Bhadra
-
-Prep time: 15 mins
-
-Cook time: 15 mins
-
-Total time: 30 mins
-
-Serves: 2
-
-Bharwan Bhindi is a north Indian dish. The spicy filling makes the Okra yummy. This dish is variation from the original as it's my grand mom's way ! Try it ! You will love it !!
-
-Ingredients
-
-- Okra / Ladies Finger – 250 gms
-- Red chilies – 5-6
-- Garlic – 12-13 medium cloves or 1 whole
-- Salt
-
-Instructions
-
-1. In the mixer, grind the red chilies and Garlic cloves. Make sure you don’t add any drop of water and it’s like the crushed chilies with crushed garlic.
-2. Add the 1 tbsp of salt to the paste.
-3. Wash the Okra/ Ladies finger and make a slit in one face of it, ensuring it stays whole.
-4. Stuff the chili garlic paste within the Okra.
-5. Heat a pan, add 1tbsp mustard oil, preferably, else if you don’t have mustard oil, vegetable oil is well and good.
-6. After heating the oil in the pan, stir fry the stuffed Okra till it’s cooked.
-7. Don’t allow the Okra to be overly cooked that the color fades.
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Side dish</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 30 mins</p>
+  <p><strong>Serves:</strong> 2</p>
+</div>
 
