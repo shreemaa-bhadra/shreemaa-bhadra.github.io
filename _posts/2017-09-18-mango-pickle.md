@@ -13,7 +13,6 @@ listing_summary: "This is the sour garlicky mango pickle made in the summer and 
 listing_image: "/assets/uploads/2017/09/DSC_1531.jpg"
 ---
 
-![mango-pickle image](/assets/uploads/2017/09/DSC_1531.jpg)
 
 The summer is slowly slipping away. Probably this is the best summer after my childhood. The little man is running, the park times are increasing and we wait for the evening to come so that we go on long walks and play. This is exactly what I had imagined at my Lamaze meditation sessions during pregnancy, which is indeed fun to live.
 

@@ -15,7 +15,6 @@ listing_summary: "Broccoli Pasta is a light flavorful pasta simply flavored with
 listing_image: "/assets/uploads/2020/05/IMG_6270-scaled.jpg"
 ---
 
-![broccoli-pasta image](/assets/uploads/2020/05/IMG_6270-scaled.jpg)
 
 Broccoli Pasta is definitely one of those quick and easy options I opt on some days when I want a bit of [relaxation](https://cookspan.com/tag/easy/) from the traditional Indian spread. And my boys are definitely always in with the plan. And this pasta recipe is something which I adopted when I started feeding my son in his toddler days and somehow this recipe is a family favorite and absolutely loved by all the friends and family who got a chance to eat it.
 

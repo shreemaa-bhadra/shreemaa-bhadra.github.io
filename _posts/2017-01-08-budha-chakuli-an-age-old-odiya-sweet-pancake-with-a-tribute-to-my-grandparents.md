@@ -18,7 +18,6 @@ listing_summary: "Budha Chakuli is an Odiya Pancake, made up of Black Grams, Ric
 listing_image: "/assets/uploads/2017/01/DSC_0060.jpg"
 ---
 
-![budha-chakuli-an-age-old-odiya-sweet-pancake-with-a-tribute-to-my-grandparents image](/assets/uploads/2017/01/DSC_0060.jpg)
 
 Grand Parents are precious and even if they leave you, the best memories of yours can always retrace back to them. Today is the grand occasion of _Samba Dashami_, a unique festival celebrated in Odisha. This festival is named after Samba, son of Lord Krishna, who was suffering from Leprosy. After praying for 12 years to the Sun God (Surya Devata) at Konark temple, he was cured from it. Later on, Odiya women, in the believe that Sun God will protect their children from any kind of ailments would offer a special delicacy (most preferably their favorite) on behalf of each member of the family.
 

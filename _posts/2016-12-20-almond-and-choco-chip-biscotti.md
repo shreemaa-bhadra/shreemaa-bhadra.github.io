@@ -16,7 +16,6 @@ listing_summary: "Italian crisp Almond and Choco-chip Biscotti are the double ba
 listing_image: "/assets/uploads/2016/12/DSC_9741.jpg"
 ---
 
-![almond-and-choco-chip-biscotti image](/assets/uploads/2016/12/DSC_9741.jpg)
 
 The festivity and chilly winter in US are gearing me in my baking mood. Meanwhile, my 10 months old infant is keeping me super busy with his fast crawls and babbles. He sometimes grabs my attention to the extent that he doesn't allow me to blink away from him. That's so possessive of him and I probably love it the most now. However, what brought this post of mine is not some planned Christmas massive baking or a party. My husband played for me an absolute masterpiece for food bloggers, "Julie and Julia". This had a sudden urge in me to bake these lovelies. Now, why Biscotti? Why not some other cookies? Cause it's Christmas time and these Biscotti's have stolen my heart and mind ever since I have tasted them this summer. Before that it was just a name which I had heard in many movies. So, here I'm making almond and choco-chip Biscotti.
 

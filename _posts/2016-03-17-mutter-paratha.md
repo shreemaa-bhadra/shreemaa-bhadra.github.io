@@ -16,7 +16,6 @@ listing_summary: "Mutter Paratha is an Indian Flat Bread that is made out of stu
 listing_image: "/assets/uploads/2016/03/DSC_6239.jpg"
 ---
 
-![mutter-paratha image](/assets/uploads/2016/03/DSC_6239.jpg)
 
 The clock almost has struck 8:00 am. Mom's here she is not going to spare me for waking up this late !! I had already committed her for cooking the morning breakfast. Can't keep nagging any more. I could almost hear the ticking and tons of the alarms and few missed calls of mom to wake me up !! Technology has revolutionized our lives no more she knocks or yells. A call on the cell is a formal gesture of waking up.
 

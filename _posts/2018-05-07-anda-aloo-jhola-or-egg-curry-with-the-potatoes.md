@@ -11,7 +11,6 @@ listing_summary: "Anda Aloo Jhola is a thin gravy of Eggs and Potatoes cooked wi
 listing_image: "/assets/uploads/2018/05/DSC_4550.jpg"
 ---
 
-![anda-aloo-jhola-or-egg-curry-with-the-potatoes image](/assets/uploads/2018/05/DSC_4550.jpg)
 
 Egg is one such ingredient which comes to rescue when you are out of stock and have no time for groceries. It's even the best friend for a no pro cooking day. You  simply make any dish in any format and it's a great dish to enjoy with anything. Ever since we shifted, nothing seems to be falling in place. I know the time would manage a lot of things. But for the time now, blogging has taken a back seat. However, I have not stopped cooking a bit. Cooking the meals fresh has become a real passion for me. They say eating fresh food has altogether a different charm, and ever since the little one has come to our life we learnt so many basics of life. And when I don't have any time or ingredient, nothing other than Anda Aloo Jhola comes to the rescue.
 

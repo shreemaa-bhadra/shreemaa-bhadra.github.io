@@ -15,7 +15,6 @@ listing_summary: "Veggie Stuffed Mushroom Nuggets is an appetizer, where the Mus
 listing_image: "/assets/uploads/2018/01/DSC_3987.jpg"
 ---
 
-![veggie-stuffed-mushroom-nuggets image](/assets/uploads/2018/01/DSC_3987.jpg)
 
 The New year day is always overwhelming, you are completely drained out by the New Year's Eve party and are dead tired to start a year. However, with all the perfect thoughts on the very first day, your mind tells to not to disappoint yourself . So, despite the freezing warning, we somehow managed to wake up early, go for a short temple visit. We had a very simple lunch, as we didn't want any more indulgence. But beneath all the simplicity, something was forcing me to go for a small special evening snack. I wanted the old fashioned Pakodas with a cup of hot tea, whereas hubby wanted something made out of mushrooms. I decided to make stuffed mushrooms nuggets.
 

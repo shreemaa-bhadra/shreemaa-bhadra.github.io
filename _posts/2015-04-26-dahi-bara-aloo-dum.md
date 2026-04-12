@@ -1,43 +1,39 @@
 ---
 layout: post
 title: Dahi Bara Aloo Dum
-date: '2015-04-26 00:00:00 +0000'
+date: "2015-04-26 00:00:00 +0000"
 categories:
-- breakfast
-- chaats
-- odia
-- snacks
+  - breakfast
+  - chaats
+  - odia
+  - snacks
 tags:
-- black-gram
-- medium
-- potato
-- prep-more-60mins
-- savoury
-- urad-daal
-- vada
+  - black-gram
+  - medium
+  - potato
+  - prep-more-60mins
+  - savoury
+  - urad-daal
+  - vada
 image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
 listing_summary: "Dahi Bara Aloo Dum is one of the famous chats served in Odisha. For a hot climate, the curd in the bara gives comfort. The tangy flavor tickles the tongue."
 listing_image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
 ---
 
-![dahi-bara-aloo-dum image](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
-
 As I am an Odiya, I am simply crazy about Dahi Bara (Dahi Vada) and Aloo Dum. Cuttack based story of Dahi Bara and Aloo Dum goes like this: Some Bara(vada) -  aloo chop(aloo Bonda) vendor found his Bara getting wasted on a daily basis . Then an idea struck him, if he could soak those bara in the curd and serves it like a chat with spicy Aloo dum, it would probably be a good dish. It wasn't just any dish, it's the most acknowledged chat and a comfort snack that people prefer in sunny summers of twin city (Bhubaneswar & Cuttack) crazily like nothing other.
 
 Every Odiya kid is accustomed to it as some fancy chats and eats it on a frequent basis. Away from the city of Dahi Bara Aloo Dum, both me and my husband crave for the times back in childhood how our summer afternoon outings were blessed with the dish. So I prepare it on a monthly or bimonthly basis.
-
-\[the\_ad id="355"\]
 
 The Dahi Bara Aloo Dum recipe goes like this:
 
 **For Bara:**
 
-1. Urad Daal or Black Grams- 1 Cup
-2.  Green Chillies - 2 pieces
-3. Ginger - 2 cm long
-4. Garlic- 3 big cloves
-5. Vegetable Oil - For Deep Frying
-6. Salt
+1.  Urad Daal or Black Grams- 1 Cup
+2.   Green Chillies - 2 pieces
+3.  Ginger - 2 cm long
+4.  Garlic- 3 big cloves
+5.  Vegetable Oil - For Deep Frying
+6.  Salt
 
  **Curd Seasoning:**
 
@@ -69,7 +65,7 @@ The Dahi Bara Aloo Dum recipe goes like this:
 
     _Preparation Time_ : _6-7 hrs_
 
-   _Cooking Time_ : _25 mins_
+   *Cooking Time* : _25 mins_
 
 1. Soak the Urad Daal for 6 hrs.
 2. Grind the Urad Daal, Green Chilies, Ginger, Garlic and Salt  to a thicker batter.
@@ -86,7 +82,7 @@ The Dahi Bara Aloo Dum recipe goes like this:
 
 Dahi Bara
 
-**Steps for Aloo Dum**:     _Preparation Time_ : _15 mins_     _Cooking Time_ : _25 mins_
+**Steps for Aloo Dum**:     _Preparation Time_ : *15 mins*     _Cooking Time_ : _25 mins_
 
 1. Boil the potatoes in the pressure cooker.
 2. Peel off the potatoes and cut it into medium cubes.
@@ -108,9 +104,9 @@ Aloo Dum
 
 **Steps of Serving:**
 
-    _Preparation Time_ : _5 mins_
+    _Preparation Time_ : *5 mins*
 
-   _Cooking Time_ : _0_ 
+   *Cooking Time* : *0* 
 
 [](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_1.jpg)
 
@@ -143,4 +139,3 @@ Else add a sweet chutney of Imli to make it sweeter version.
   <p><strong>Total time:</strong> 6 hours 35 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

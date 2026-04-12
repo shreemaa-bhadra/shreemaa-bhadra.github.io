@@ -16,7 +16,6 @@ listing_summary: "It's an easy dry Shirmp recipe, that can be done in no time an
 listing_image: "/assets/uploads/2016/10/DSC_9012-1.jpg"
 ---
 
-![sorisha-diya-chingudi-bhaja-shrimp-stir-fried-with-mustard image](/assets/uploads/2016/10/DSC_9012-1.jpg)
 
 How to prepare Chingudi Bhaja or Shrimp stir fried with mustard.
 

@@ -16,7 +16,6 @@ listing_summary: "Lemony Tandoori Chicken is a light and flavorful chicken is co
 listing_image: "/assets/uploads/2020/05/DSC_9105-scaled.jpg"
 ---
 
-![lemony-tandoori-skillet-chicken image](/assets/uploads/2020/05/DSC_9105-scaled.jpg)
 
 Lemony Tandoori Skillet [Chicken](https://cookspan.com/category/non-vegeterian/chicken/) is super easy and they are such a great asset during meal planning. Some days I serve it as a topping to my salad, some times as a primary filling to my wraps, tortillas. Other times I serve it with fresh salads or with roasted veggies. There are even days when I put it the Indian way with Pulao and raita. It also goes well the plain Dal and Rice as a side dish. It can be even be served solely as a main dish
 

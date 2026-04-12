@@ -16,7 +16,6 @@ listing_summary: "Chatu Besara or Mushroom cooked in tangy mustand gravy is a tr
 listing_image: "/assets/uploads/2015/07/Chattu-Besara.jpg"
 ---
 
-![chatu-besara image](/assets/uploads/2015/07/Chattu-Besara.jpg)
 
 **_Chatu Besara or Mushroom in Tangy Mustard Gravy_**
 

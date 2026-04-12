@@ -18,7 +18,6 @@ listing_summary: "It's a hassle free and health loaded savory muffins. Which are
 listing_image: "/assets/uploads/2017/07/DSC_1855.jpg"
 ---
 
-![egg-and-veggie-omelette-muffins image](/assets/uploads/2017/07/DSC_1855.jpg)
 
 Hola!!
 

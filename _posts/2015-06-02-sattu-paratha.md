@@ -16,7 +16,6 @@ listing_summary: "Sattu Paratha is an Indian Pan fried Flat Bread stuffed with t
 listing_image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
 ---
 
-![sattu-paratha image](/assets/uploads/2015/06/Sattu-Paratha.jpg)
 
 Sattu Paratha | Spicy Roasted Bengal Gram powder stuffed Indian Flat Bread
 

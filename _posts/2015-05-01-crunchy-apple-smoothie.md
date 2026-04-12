@@ -18,7 +18,6 @@ listing_summary: "The Crunchy apple smoothie is a refresher and a relief drink d
 listing_image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 ---
 
-![crunchy-apple-smoothie image](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
 
 Summer !! Summer !!
 

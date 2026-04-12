@@ -14,7 +14,6 @@ listing_summary: "Mushroom pepper fry is a subtle mushroom recipe cooked with on
 listing_image: "/assets/uploads/2017/10/DSC_2064.jpg"
 ---
 
-![mushroom-pepper-fry image](/assets/uploads/2017/10/DSC_2064.jpg)
 
 Sunday afternoon gets busy at times. So, cooking an elaborate meal gets tough. However, cooking something quick and easy helps feed my family on time. This yummy delight of Mushroom Pepper fry is always a family favorite when mushrooms are in a hand's distance.
 

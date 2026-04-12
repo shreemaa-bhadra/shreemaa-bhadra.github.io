@@ -19,7 +19,6 @@ listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to alm
 listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
 
-![bara-ghuguni image](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
 ![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 

@@ -17,7 +17,6 @@ listing_summary: "Aloo Gobi Paratha is a north Indian delicacy. It's a form of I
 listing_image: "/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg"
 ---
 
-![aloo-gobi-paratha image](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)
 
 A lazy weekend after five days of bone breaking office weekdays, feels like a pure bliss. The work has taken its toll and both of us are having new learnings and crucial product releases this quarter.
 

@@ -15,7 +15,6 @@ listing_summary: "Lauki Kofta in Cashew nut Gravy is a rich curry cooked with Bo
 listing_image: "/assets/uploads/2018/05/DSC_5650.jpg"
 ---
 
-![lauki-kofta-in-cashew-nut-gravy image](/assets/uploads/2018/05/DSC_5650.jpg)
 
 Lauki or Bottle Gourd is a very healthy vegetable with 96 % water content. This is a must for the summers. I love this veggie in any format. The Lauki Channa Dal was a family favorite until I made this creamy North Indian Delight of Lauki Kofta cooked in onion, tomatoes and cashew gravy. I had heard of this dish from all my North Indian friends. Though Lauki was a regular veggie in my family I never cooked it this way. Last weekend I was left with half of Lauki and no other veggie. So to fulfill the weekend special demand of both the boys I made Lauki Kofta in Cashew nut Gravy recipe with ghee smeared Rotis and some cucumber Raita.
 

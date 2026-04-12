@@ -15,7 +15,6 @@ listing_summary: "Ven Pongal is a rice dish from Tamil Nadu. The dish is made up
 listing_image: "/assets/uploads/2017/01/DSC_0145.jpg"
 ---
 
-![ven-pongal image](/assets/uploads/2017/01/DSC_0145.jpg)
 
 Last Sunday, me and my friends were discussing about Makar Sankranti and Pongal celebrations. As the festival is on a weekend, we have planned a Potluck and a nice get together of families. We plan to celebrate it in an authentic Tamil way i.e. Pongal with all its root dishes like Chakkara Pongal (Sweet Pongal made up of Milk, Jaggery and newly harvested Rice), Ven Pongal (made from lentils, spices and Rice flavored with Clarified butter), Medu Vada, Avaiyal, Payasam and of course the best Southern accompaniment of Sambar and Chutney.
 

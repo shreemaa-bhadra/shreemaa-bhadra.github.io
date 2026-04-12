@@ -18,7 +18,6 @@ listing_summary: "Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-base
 listing_image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
 ---
 
-![egg-wrap-stuffed-with-sweet-peppers-and-beans image](/assets/uploads/2020/10/IMG_9236-scaled.jpg)
 
 What did I have for my Sunday Breakfast? It's the **_Egg Wrap stuffed with Sweet Peppers and Beans_** !!
 

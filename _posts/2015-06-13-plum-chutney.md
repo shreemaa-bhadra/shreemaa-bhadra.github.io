@@ -13,7 +13,6 @@ listing_summary: "Plum chutney is a blend of sweetness and Sourness and can act 
 listing_image: "/assets/uploads/2015/06/Plum-Chutney.jpg"
 ---
 
-![plum-chutney image](/assets/uploads/2015/06/Plum-Chutney.jpg)
 
 Was rushing for last weekend shopping for veggies when my eyes caught red luscious fruit on the roadside. I was pleased to see Plum a.k.a Aloo Bukhara. It's always a pleasure to try out new fruits and veggies. I unhesitatingly fetched 250gms of it. All I could recall was, when I was a kid, Daddy once brought this and was telling mom about a chutney he tasted when he was at one of his friend's places. Mom tried the chutney and it was a yummy delight to all of us.
 

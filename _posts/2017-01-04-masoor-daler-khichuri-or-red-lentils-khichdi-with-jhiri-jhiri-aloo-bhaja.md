@@ -14,7 +14,6 @@ listing_summary: "Masoor dal er Khichuri, served as a comfort food in cold weath
 listing_image: "/assets/uploads/2017/01/DSC_9832.jpg"
 ---
 
-![masoor-daler-khichuri-or-red-lentils-khichdi-with-jhiri-jhiri-aloo-bhaja image](/assets/uploads/2017/01/DSC_9832.jpg)
 
 We'd heard that in winters it rains in Texas, whereas it snows in other parts, coming down here in Texas we literally felt so. Winters have become really terrible with frequent rains. And going out of home with an infant looks like an absolute no. We missed out our Christmas expedition cause three of us were down with a cold. But it was compensated by marathon cooking at home. We sometimes celebrate our time with cooking and gorging on the delicacies. This Christmas was something different, after eating a lot of cookies and cakes from a week ahead, we didn't want anything sweet.
 

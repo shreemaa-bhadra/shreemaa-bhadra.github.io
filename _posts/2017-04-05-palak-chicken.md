@@ -16,7 +16,6 @@ listing_summary: "Palak Chicken or Chicken cooked in Spinach Gravy is an Indian 
 listing_image: "/assets/uploads/2017/04/DSC_0924.jpg"
 ---
 
-![palak-chicken image](/assets/uploads/2017/04/DSC_0924.jpg)
 
 Sundays are special and they are meant to be enjoyed with special food. Furthermore, with the whole family back on couch, lazing around with TV and browsing tons of movies, you can't miss the yummy non veg delights. In addition, this Sunday was going to be chicken Sunday. We didn't want the Chicken cooked with tons of Indian spices, rather we settled for the Palak Chicken cause our fridge was overloaded with spinach.
 

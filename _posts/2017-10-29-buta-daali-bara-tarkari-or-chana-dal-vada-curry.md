@@ -15,7 +15,6 @@ listing_summary: "It can be called as the vegeterians meat curry. It matches bot
 listing_image: "/assets/uploads/2017/10/DSC_1605-1.jpg"
 ---
 
-![buta-daali-bara-tarkari-or-chana-dal-vada-curry image](/assets/uploads/2017/10/DSC_1605-1.jpg)
 
 Being a part of a conservative Odiya family, non veg is far from the bay in my kitchen in this holy month of Kartik. But Sunday needs some remarkable recipe to enrich our platter. It's all mundane when the weekend goes without any special dish.
 

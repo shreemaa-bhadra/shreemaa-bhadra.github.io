@@ -20,7 +20,6 @@ listing_summary: "Presenting you two recipes, an amazing mouth watering egg mayo
 listing_image: "/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg"
 ---
 
-![egg-mayo-salad-sandwich image](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)
 
 Cooking is an art, where you play with the ingredient to vary the taste. It's amazing how twisting every bit of spice produces a wide range of recipes. Sometimes the weather influence cooking, sometimes the mood and sometimes in order to lure your near or dear ones you play with the flavors.
 

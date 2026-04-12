@@ -15,7 +15,6 @@ listing_summary: "Tomato Rasam is tangy accompaniment to Plain Rice, generally s
 listing_image: "/assets/uploads/2016/03/DSC_4302.jpg"
 ---
 
-![tomato-rasam image](/assets/uploads/2016/03/DSC_4302.jpg)
 
 Some recipe is linked to very special memories and probably you cook them to recreate those memories. And the emotions linked to the recipes make you feel overwhelming. This recipe I am going to make always reminds me the beginning of my pregnancy days. I have often had tomato Rasam at friend's (Bhavana's) place and many restaurants. But definitely I can say the one I had at Bhavana's place is unbeatable, she is an amazing cook and Tomato Rasam is her specialty.
 

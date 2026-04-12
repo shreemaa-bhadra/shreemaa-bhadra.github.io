@@ -10,7 +10,6 @@ listing_summary: "Thali is a collection of Indian dishes served on a platter. Th
 listing_image: "/assets/uploads/2017/04/DSC_7610.jpg"
 ---
 
-![ram-navami-thali-satvik-odia-thali-1 image](/assets/uploads/2017/04/DSC_7610.jpg)
 
 It's Ram Navami in India, a very happy and auspicious day to all of you. Last year, I was with Mom and Dad as Baby Darsheel was just a newborn and we had this lovely platter all Mom cooked. Miss those lovely Mom cooked foods and those amazing days of pampering. Wish I can go back soon to India to enjoy all of these.
 

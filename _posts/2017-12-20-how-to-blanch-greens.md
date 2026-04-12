@@ -11,7 +11,6 @@ listing_summary: "How to blanch greens like Spinach, Kale, Mustard Greens, Arugu
 listing_image: "/assets/uploads/2017/12/DSC_3880.jpg"
 ---
 
-![how-to-blanch-greens image](/assets/uploads/2017/12/DSC_3880.jpg)
 
 There are many Indian recipes based out of greens, which needs a perfect Green Gravy. But sometimes there are certain spices or ingredients which can tamper the perfect green color.  The process of blanching needs to be done with utmost care in order to bring that perfect green color and texture. I've shared a few tips to avoid the discoloration. In this article I am blanching spinach, but you can use other greens like Kale, Mustard Greens, Arugula, Fenugreek or even Coriander and Mint. Let's see the process on how to blanch greens:
 

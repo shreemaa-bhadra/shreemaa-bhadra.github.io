@@ -16,7 +16,6 @@ listing_summary: "Aloo Chop is a pillowy fritter made up of chickpea flour stuff
 listing_image: "/assets/uploads/2017/01/DSC_0018.jpg"
 ---
 
-![aloo-chop-or-batata-vada image](/assets/uploads/2017/01/DSC_0018.jpg)
 
 Staying away from home always pulls you into nostalgia. Recently, I received an invitation for one of my close friend's wedding. But staying miles away from home and that too with an infant made it impossible for me to attend. Odiya marriage, like any other Indian marriage is an event filled with a sea of colors alongside never ending rituals, fun and loads of emotional dramas. All these pulled me back to sit back and see my own wedding photos. I was really drawn seeing my family. Every photo spoke thousands of emotion. There were people who I wanted to be with, there were close friends, family and so many unknown faces where I had to impose a known smile.
 

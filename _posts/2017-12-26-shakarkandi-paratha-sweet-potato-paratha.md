@@ -19,7 +19,6 @@ listing_summary: "Sweet Potato Paratha is an Indian spiced Flat bread with a won
 listing_image: "/assets/uploads/2017/12/DSC_3793.jpg"
 ---
 
-![shakarkandi-paratha-sweet-potato-paratha image](/assets/uploads/2017/12/DSC_3793.jpg)
 
 Sweet potatoes were never regular into the family menus until last year when the little one started taking solid food. It soon became his favorite along with carrots. But as he grew from a nicer infant to a terrible toddler, he got picky with lots of options and started ignoring the baked or boiled sweet potato pieces. However, upon experimentation, I've found his liking for Sweet Potato pancakes or Sweet Potato Paratha. This one is [no onion no garlic](http://cookspan.com/tag/no-onion-no-garlic/) recipe.
 

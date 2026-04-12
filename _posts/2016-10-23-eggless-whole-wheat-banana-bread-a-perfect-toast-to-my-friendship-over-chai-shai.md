@@ -20,7 +20,6 @@ listing_summary: "Eggless whole wheat banana bread is a light tea time snack, ma
 listing_image: "/assets/uploads/2016/10/DSC_9386.jpg"
 ---
 
-![eggless-whole-wheat-banana-bread-a-perfect-toast-to-my-friendship-over-chai-shai image](/assets/uploads/2016/10/DSC_9386.jpg)
 
 ### How to make an Eggless Whole Wheat Banana Bread step wise
 

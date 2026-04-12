@@ -17,7 +17,6 @@ listing_summary: "Carrot Almond Shake is a beautiful juice. It is too cool in ta
 listing_image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
 ---
 
-![carrot-almond-shake image](/assets/uploads/2015/05/Carrot-Almond.jpg)
 
 Dates fixed!! Finally the dates are fixed... I am about to marry.. And the timeline seems stricter than any project release.
 

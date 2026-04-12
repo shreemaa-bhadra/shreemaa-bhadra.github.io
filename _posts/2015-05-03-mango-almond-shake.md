@@ -18,7 +18,6 @@ listing_summary: "Mango Shake is a refreshing drink for the summer. It's seasona
 listing_image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
 ---
 
-![mango-almond-shake image](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
 
 Sunny Sunday Morning! A late wake up, and a growling stomach.
 

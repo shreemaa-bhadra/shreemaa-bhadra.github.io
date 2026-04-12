@@ -14,7 +14,6 @@ listing_summary: "Mutton Jhola is a spicy thick gravy mutton curry which goes ve
 listing_image: "/assets/uploads/2017/01/DSC_0196.jpg"
 ---
 
-![odia-mutton-jhola image](/assets/uploads/2017/01/DSC_0196.jpg)
 
 After many days, the Sun appeared. Yes!! A bright, lovely sunny day. Like our Bangalore home, the apartment we have leased in Plano is blessed with lovely light and sunshine. We didn't want to miss any of this. So, we planned for a lovely patio lunch. I and hubby love non-vegetarian food, unlike our parents who are vegetarians. But, going by the family way, [non-veg](https://cookspan.com/category/non-vegeterian/) has never become our everyday ritual. Forget every day, it's not even a part of our weekly ritual too. We still follow the family norm to go and pick the seasonal veggies and cook them with dal, rice, and Chapati.
 

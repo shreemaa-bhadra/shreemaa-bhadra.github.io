@@ -19,7 +19,6 @@ listing_summary: "Buta Dali Bara or Channa Dal Vada is a spiced savory fritter m
 listing_image: "/assets/uploads/2017/04/DSC_1550.jpg"
 ---
 
-![buta-daali-bara-or-channa-dal-vada image](/assets/uploads/2017/04/DSC_1550.jpg)
 
 Winter has descended along with its blues and darkness, leaving behind sparkling sunny days of Spring. But something I always miss about winter is the cozy bed, warm quilt and the amazing warm foods. But Spring has its own advantages, tons of sunny days to uplift one's mood.  Colorful flowers and the amazing spring collections that come with floral prints and you girls there can go sleeveless and wear shorts too.
 

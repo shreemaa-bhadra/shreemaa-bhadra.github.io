@@ -16,7 +16,6 @@ listing_summary: "Machha Jhola is the fish cooked in a rich spicy gravy. It's as
 listing_image: "/assets/uploads/2015/10/DSC_5662.jpg"
 ---
 
-![machha-jhola image](/assets/uploads/2015/10/DSC_5662.jpg)
 
 **Rohi Maccha Jhola or Rohu Macher Jhol or Rohu Fish Cooked in a thick rich Gravy**
 

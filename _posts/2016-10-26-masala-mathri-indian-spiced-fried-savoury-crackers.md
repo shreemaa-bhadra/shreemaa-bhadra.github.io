@@ -12,7 +12,6 @@ listing_summary: "Mathri is a crispy fried snack served during Diwali or at tea 
 listing_image: "/assets/uploads/2016/10/DSC_9459.jpg"
 ---
 
-![masala-mathri-indian-spiced-fried-savoury-crackers image](/assets/uploads/2016/10/DSC_9459.jpg)
 
 ### How to make Masala Mathri/Indian Spiced Fried Savoury Crackers  step wise:
 

@@ -14,7 +14,6 @@ listing_summary: "Badi Chura is a side dish relished with the Odiya meal. Its a 
 listing_image: "/assets/uploads/2015/05/Badi_Chura_02.jpg"
 ---
 
-![badi-chura image](/assets/uploads/2015/05/Badi_Chura_02.jpg)
 
 Odiya people are born foodie. They wake up thinking what to eat and sleep with dreaming the next day meal. The cuisine is such that they come with full meal form rather than a single entity.
 

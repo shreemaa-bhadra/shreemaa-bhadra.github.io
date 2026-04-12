@@ -10,7 +10,6 @@ listing_summary: "Puran Poli is the traditional Maharashtrian flat bread. It's w
 listing_image: "/assets/uploads/2018/10/IMG_3293.jpg"
 ---
 
-![puran-poli image](/assets/uploads/2018/10/IMG_3293.jpg)
 
 Puran Poli is the traditional Maharashtrian flat bread. It's basically whole wheat flat bread stuffed with jaggery and lentil filling. In this the lentil used is the split skinned bengal gram or channa dal. The flour is kneaded with clarified butter and water. Prior to the dough making, the stuffing is prepared. And finally they are rolled and stuffed and further rolled to a round shaped flat bread cooked with a griddle on the fire. It's finally seasoned with clarified butter to give that extra texture .
 

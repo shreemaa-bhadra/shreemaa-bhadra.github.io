@@ -14,7 +14,6 @@ listing_summary: "Aloo Baingan Bharta is lightly spiced comfort food which is ma
 listing_image: "/assets/uploads/2015/06/DSC_3537.jpg"
 ---
 
-![aloo-baingan-bharta image](/assets/uploads/2015/06/DSC_3537.jpg)
 
 Aloo Baingan Bharta/Mashed Potato - Brinjal
 

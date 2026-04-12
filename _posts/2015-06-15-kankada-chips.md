@@ -15,7 +15,6 @@ listing_summary: "Kankada Chips is a fritter made out of thin slices of Spiny Go
 listing_image: "/assets/uploads/2015/06/DSC_3613.jpg"
 ---
 
-![kankada-chips image](/assets/uploads/2015/06/DSC_3613.jpg)
 
 Kankada **Chips/Kankrol Chips/Spiny Gourd Fritters**
 

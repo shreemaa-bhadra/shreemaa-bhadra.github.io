@@ -12,7 +12,6 @@ listing_summary: "Step by step process with pictures to make Namak Pare, Namak P
 listing_image: "/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg"
 ---
 
-![namak-pare image](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)
 
 Packaged food versus Home cooked food has been in debate for a long time. In most modern Indian family, where both the members are busy working for their targets, packaged food gets a cozy position in the kitchen cabinet. Whereas making home cooked food especially munching snacks looks like a tedious ritual. This was not the case earlier. Every bit of snacks was made at home. And it was stacked in a big airtight container and served for teatime. It was relished with the chit chat sessions. Some snacks were specially prepared during festivals and distributed to all the relatives and friends as a part of goodwill. One such favorite tea time snack is Namak Pare or Nimki or crispy fried-flour chip.
 

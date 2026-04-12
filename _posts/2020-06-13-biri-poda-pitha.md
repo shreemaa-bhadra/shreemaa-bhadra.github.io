@@ -17,7 +17,6 @@ listing_summary: "Biri Poda Pitha is a traditional Odia cake, made up of lentils
 listing_image: "/assets/uploads/2020/06/DSC_9374-5-scaled.jpg"
 ---
 
-![biri-poda-pitha image](/assets/uploads/2020/06/DSC_9374-5-scaled.jpg)
 
 Biri Poda Pitha is a traditional Odia cake, made up of lentils and Rice, it's slow-cooked with dry fruits and nuts. It's traditionally made during this four-day-long celebration of Raja.
 

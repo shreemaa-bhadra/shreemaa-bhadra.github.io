@@ -15,7 +15,6 @@ listing_summary: "Amba Khatta odia recipe is a sweet and sour raw mango chutney,
 listing_image: "/assets/uploads/2018/05/DSC_5961-1.jpg"
 ---
 
-![amba-khatta image](/assets/uploads/2018/05/DSC_5961-1.jpg)
 
 Back home, when mom cooked a proper Odia meal, it used to have horizons of taste. There used to be something savory, something sweet, something tart, something both sour-sweet, something bitter. This would be an all taste in a balanced meal of health. The big Odia platter always had a small sweet and sour chutney called as Khatta (Amba Khatta in my recipe today) and was made up of some seasonal tart veggies or fruits and had an ample amount of jaggery or sugar with flavoring from very own pancha phutana or popularly known as panch phoran.
 

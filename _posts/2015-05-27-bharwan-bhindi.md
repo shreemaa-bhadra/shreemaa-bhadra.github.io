@@ -15,7 +15,6 @@ listing_summary: "Bharwan Bhindi is a north Indian dish. The spicy filling makes
 listing_image: "/assets/uploads/2015/05/DSC_3596.jpg"
 ---
 
-![bharwan-bhindi image](/assets/uploads/2015/05/DSC_3596.jpg)
 
 The tale of this dish is quite special to my family. This dish first wooed my dad's heart when my grand mom cooked for him on his first day at my mom's place. It played the magic to win my husband's heart for my mom's culinary skills.
 

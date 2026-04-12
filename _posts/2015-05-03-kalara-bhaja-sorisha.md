@@ -15,7 +15,6 @@ listing_summary: "Kalara Bhaja tempered in sorisha batta. The beauty of this is 
 listing_image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
 ---
 
-![kalara-bhaja-sorisha image](/assets/uploads/2015/05/Kalachorchori_02.jpg)
 
 **Kalara Bhaja in Sorisha Batta/ Karela Sarson Fry /Bitter gourd in cooked mustard sauce**
 

@@ -16,7 +16,6 @@ listing_summary: "Kanika is a mildly sweet fragrant rice flavored with some spic
 listing_image: "/assets/uploads/2017/09/DSC_2738.jpg"
 ---
 
-![kanika-sweet-rice-odisha image](/assets/uploads/2017/09/DSC_2738.jpg)
 
 "Autumn is the second Spring, the only difference is the color expressed by the foliage"; I got this caption from the local botanical garden advertisement. And not to say fell in the love with nature once again. If you ask me, how I want to connect my love and memories, I do explicitly with the season. Truly, these two seasons are the medley of the extremes and go well with their delicate transitions, giving the hope that things do mend well. Every culture celebrates it in various ways. Well, it's again that time of the year, which gives me immense nostalgia.
 

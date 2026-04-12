@@ -16,7 +16,6 @@ listing_summary: "No onion no Garlic version of Mutter Paneer is a creamy, tangy
 listing_image: "/assets/uploads/2015/12/DSC_6111.jpg"
 ---
 
-![mutter-paneer-no-onion-no-garlic image](/assets/uploads/2015/12/DSC_6111.jpg)
 
 Aha !! Long time has passed since my last post. More to that, when I hovered my site, no Paneer recipe yet!! The trade mark recipe of every Indian vegetarian favorite was missing !!
 

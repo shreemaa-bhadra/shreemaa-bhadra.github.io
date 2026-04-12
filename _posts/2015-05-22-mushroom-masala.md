@@ -14,7 +14,6 @@ listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavo
 listing_image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 ---
 
-![mushroom-masala image](/assets/uploads/2015/05/Mushroom-Masala.jpg)
 
 Let's play a riddle today. The king of today's dish is neither a vegetable nor a fruit. It's a controversial topic among vegetarian and non-vegetarian. Guess! Guess!
 
