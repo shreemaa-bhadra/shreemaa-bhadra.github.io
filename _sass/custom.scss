@@ -3,6 +3,7 @@
 $preview-muted: #767676;
 $preview-rule: #e8e8e8;
 $preview-thumb-bg: #f0f0f0;
+$theme-color: #e6a117;
 
 /* Modern, polished font stack */
 $system-font-stack:
@@ -81,7 +82,7 @@ body {
 
   &:hover,
   &:focus-within {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(230, 161, 23, 0.15);
   }
 }
 
@@ -337,11 +338,11 @@ a:focus {
 .recipe-meta {
   background: #f8f9fa;
   border: 1px solid #e9ecef;
-  border-left: 4px solid #e6a117;
+  border-left: 4px solid $theme-color;
   padding: 1.25rem 1.5rem;
   margin: 1.5rem 0;
   border-radius: 0 8px 8px 0;
-  box-shadow: 0 2px 4px rgba(230, 161, 23, 0.08);
+  box-shadow: 0 2px 4px rgba(230, 161, 23, 0.12);
 
   p {
     margin: 0.5rem 0;
@@ -359,7 +360,7 @@ a:focus {
     }
 
     strong {
-      color: #e6a117;
+      color: $theme-color;
       font-weight: 600;
       display: inline-block;
       min-width: 100px;
