@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
     <div class="wrapper">
-        <a class="site-logo-link" href="{{ "/" | relative_url }}">
+        <a class="site-logo-link" href="{{ " /" | relative_url }}">
             <img class="site-logo" src="{{ '/assets/logo.png' | relative_url }}" alt="{{ site.title }}" />
         </a>
 
@@ -17,9 +17,9 @@
             </label>
 
             <div class="trigger">
-                <a class="page-link" href="{{ "/" | relative_url }}">Home</a>
-                <a class="page-link" href="{{ "/about/" | relative_url }}">About</a>
-                <a class="page-link" href="{{ "categories/" | relative_url }}">Categories</a>
+                <a class="page-link" href="{{ " /" | relative_url }}">Home</a>
+                <a class="page-link" href="{{ " /about/" | relative_url }}">About</a>
+                <a class="page-link" href="{{ " categories/" | relative_url }}">Categories</a>
                 {%- for path in page_paths -%}
                 {%- assign my_page = site.pages | where: "path", path | first -%}
                 {%- if my_page.title and my_page.hide_header != true -%}
