@@ -314,3 +314,23 @@ a:focus {
   font-family: $system-font-stack;
   line-height: 1.6;
 }
+
+/* Site header logo and title */
+.site-title-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-logo {
+  height: 50px;
+  width: auto;
+  max-width: 100%;
+  display: block;
+}
+
+@media screen and (max-width: 640px) {
+  .site-logo {
+    height: 40px;
+  }
+}

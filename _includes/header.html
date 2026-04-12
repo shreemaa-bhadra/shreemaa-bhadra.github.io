@@ -1,6 +1,9 @@
 <header class="site-header" role="banner">
     <div class="wrapper">
-        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <div class="site-title-wrapper">
+            <img class="site-logo" src="{{ '/assets/logo.png' | relative_url }}" alt="{{ site.title }}" />
+            <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        </div>
 
         {%- if page_header_menu != false -%}
         <nav class="site-nav">
