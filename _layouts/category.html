@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div class="category-page">
+    <header class="category-header">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <p class="category-subtitle">Showing all recipes in the {{ page.category }} category</p>
+    </header>
+
+    <div class="post-previews" role="feed" aria-label="Recipe posts">
+        {%- for post in site.posts -%}
+        {%- if post.categories contains page.category -%}
+        <article class="post-preview">
+            {%- if post.listing_image -%}
+            <div class="post-preview__thumb">
+                <a href="{{ post.url | relative_url }}" class="post-preview__image-link">
+                    <img src="{{ post.listing_image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy"
+                        decoding="async" width="800" height="534" />
+                </a>
+            </div>
+            {%- endif -%}
+            <div class="post-preview__body">
+                <a class="post-preview__card" href="{{ post.url | relative_url }}">
+                    {%- assign _df = site.minima.date_format | default: "%b %-d, %Y" -%}
+                    <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: _df
+                        }}</time>
+                    <h3 class="post-preview__title">{{ post.title | escape }}</h3>
+                </a>
+                {%- if post.listing_summary -%}
+                <p class="post-preview__summary">{{ post.listing_summary | escape }}</p>
+                {%- endif -%}
+            </div>
+        </article>
+        {%- endif -%}
+        {%- endfor -%}
+    </div>
+</div>
+
+<style>
+    .category-header {
+        margin-bottom: 2rem;
+    }
+
+    .category-subtitle {
+        color: #767676;
+        font-size: 0.95rem;
+        margin: 0.5rem 0 0;
+    }
+</style>

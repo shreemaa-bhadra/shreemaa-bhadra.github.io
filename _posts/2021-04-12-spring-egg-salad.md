@@ -1,30 +1,24 @@
 ---
 layout: post
 title: Spring Egg Salad
-date: '2021-04-12 00:00:00 +0000'
+date: "2021-04-12 00:00:00 +0000"
 categories:
-- egg
-- salads-2
+  - egg
+  - salads
 tags:
-- easy
-- eggs
-- healthy-home-recipes
-- keto
-- low-carb
-- prep-10-mins
-- summer
+  - easy
+  - eggs
+  - healthy-home-recipes
+  - keto
+  - low-carb
+  - prep-10-mins
+  - summer
 image: "/assets/uploads/2021/04/IMG_1760-scaled-e1618179756577.jpeg"
 listing_summary: "Spring Egg Salad is a delectable combination of boiled eggs and the bounty of Spring. This salad has a perfect balance of sourness from the dressing and sweetness from the berries. It's ideal for weekday lunches. Let's Get CookingSpring Egg Salad"
 listing_image: "/assets/uploads/2021/04/IMG_1760-scaled-e1618179756577.jpeg"
 ---
+
 ![spring-egg-salad image](/assets/uploads/2021/04/IMG_1760-scaled-e1618179756577.jpeg)
-
-
-
-
-
-
-
 
 Spring is the season of new beginnings. There are sprouting greens, a pleasant breeze, bright flowers, and a promise of lot of happiness. It is  nature's way of saying that we've made it through the harsh winters and are on our way to happier times. I also enjoy spring because of the abundance of fresh produce; there are tender greens all around that are ideal for a plateful of salad. I always try to make a sumptuous salad bowl out of whatever I have in the pantry. I use different textures and a light vinaigrette dressing. Because it was Easter last weekend and there were [eggs](https://cookspan.com/category/non-vegeterian/egg/) everywhere, I decided to keep my Spring Egg Salad bowl in the theme, adding so much spring to my platter. It's colorful, bright, and vibrant, with a sweet and citrusy flavor.
 

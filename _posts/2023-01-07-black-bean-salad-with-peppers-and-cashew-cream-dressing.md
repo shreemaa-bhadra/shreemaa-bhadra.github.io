@@ -1,21 +1,15 @@
 ---
 layout: post
 title: Black bean Salad with Peppers and Cashew cream dressing
-date: '2023-01-07 00:00:00 +0000'
+date: "2023-01-07 00:00:00 +0000"
 categories:
-- salads-2
+  - salads
 image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
 listing_summary: "Healthy Black bean Salad with Peppers and Cashew cream dressing is a scrumptious one pot meal. Let's Get CookingBlack bean Salad with Peppers and Cashew cream dressing"
 listing_image: "/assets/uploads/2023/01/DSC0196-scaled.jpeg"
 ---
+
 ![black-bean-salad-with-peppers-and-cashew-cream-dressing image](/assets/uploads/2023/01/DSC0196-scaled.jpeg)
-
-
-
-
-
-
-
 
 After moving to the States, Mexican cuisine has taken a special place in our heart. Ingredients like Chipotle, chilli powder, Jalapeno, Black beans have become our home staples. And with the Ingredients in hands reach and soaked and boiled beans in my fridge or kitchen, it takes few minutes to whip this salad. We usually enjoy these salad stuffing sometimes with tortillas and sometimes the bowl is good enough for the lunch due to it's wholesomeness.
 
@@ -105,4 +99,3 @@ Instructions
 2. Chop all the veggies to small cubes.
 3. Grind the soaked cashews and Garlic to a fine paste and then mix all the dried spices with the yogurt and cashew cream.
 4. Mix the veggies , beans and dressings.
-
