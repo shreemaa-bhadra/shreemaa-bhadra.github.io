@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Chocolate Cake with a Hint of Orange Flavor
-date: '2021-04-02 00:00:00 +0000'
+date: "2021-04-02 00:00:00 +0000"
 categories:
-- baking
-- cake
-- dessert
+  - baking
+  - cake
+  - dessert
 tags:
-- all-purpose-flour
-- chocolate
-- orange
-- pistachios
-- prep-more-60mins
+  - all-purpose-flour
+  - chocolate
+  - orange
+  - pistachios
+  - prep-more-60mins
 image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
 listing_summary: "This Chocolate Cake is a small cake for a family of three to celebrate occasions. The chocolate flavor is elevated through the orange syrup and topped with candied oranges to impose the citrusy flavor."
 listing_image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
@@ -103,4 +103,9 @@ Being a novice baker, provided me with a sense of accomplishment. I went with pl
 
 ![](/assets/uploads/2021/04/DSC0619-scaled.jpg)
 
-I hope you'll have a memorable day baking this Chocolate Cake with a hint of Orange Flavor.
+I hope you'll have a memorable day baking this Chocolate Cake with a hint of Orange Flavor.
+
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> International</p>
+</div>

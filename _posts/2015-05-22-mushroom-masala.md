@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Mushroom Masala | Spiced Mushroom Gravy
-date: '2015-05-22 00:00:00 +0000'
+date: "2015-05-22 00:00:00 +0000"
 categories:
-- north-indian
-- vegeterian
+  - north-indian
+  - vegeterian
 tags:
-- medium
-- mushroom
-- prep-less-60-mins
+  - medium
+  - mushroom
+  - prep-less-60-mins
 image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris."
 listing_image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 ---
-
 
 Let's play a riddle today. The king of today's dish is neither a vegetable nor a fruit. It's a controversial topic among vegetarian and non-vegetarian. Guess! Guess!
 
@@ -29,7 +28,7 @@ May it be veg or non-veg. A fruit or a vegetable, I am a crazy fan of it. This i
 
 Mushroom Masala Ingredient
 
-\[the\_ad id="355"\]
+\[the_ad id="355"\]
 
 The recipe of the Mushroom Masala goes like this:
 
@@ -76,7 +75,9 @@ Mushroom Masala
 
 There comes the yummy spice loaded Mushroom Masala for you. Garnish it with the chopped green chilies and finely chopped coriander leaves. The color, odor and taste are going to compel you to salivate.
 
-Recipe Type: Main Course
-Cuisine: Indian
-Prep time: 15 mins
-Total time: 35 mins
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main Course</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 15 mins</p>
+  <p><strong>Total time:</strong> 35 mins</p>
+</div>

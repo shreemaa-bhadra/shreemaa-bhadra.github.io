@@ -61,3 +61,8 @@ Here goes my detailed recipe for the Spring Egg Salad:
 ![](/assets/uploads/2021/04/IMG_1760-scaled.jpeg)
 
 You can enjoy the salad as it is or stuff in a tortilla to make a wrap or stuff in between the bread for a sandwich.
+
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Salad</p>
+  <p><strong>Cuisine:</strong> International</p>
+</div>

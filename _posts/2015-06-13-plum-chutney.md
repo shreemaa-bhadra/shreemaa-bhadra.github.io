@@ -1,18 +1,17 @@
 ---
 layout: post
 title: Plum Chutney
-date: '2015-06-13 00:00:00 +0000'
+date: "2015-06-13 00:00:00 +0000"
 categories:
-- chutneydip
+  - chutneydip
 tags:
-- easy
-- plum
-- prep-less-60-mins
+  - easy
+  - plum
+  - prep-less-60-mins
 image: "/assets/uploads/2015/06/Plum-Chutney.jpg"
 listing_summary: "Plum chutney is a blend of sweetness and Sourness and can act as an exotic dip or sauce for many dishes."
 listing_image: "/assets/uploads/2015/06/Plum-Chutney.jpg"
 ---
-
 
 Was rushing for last weekend shopping for veggies when my eyes caught red luscious fruit on the roadside. I was pleased to see Plum a.k.a Aloo Bukhara. It's always a pleasure to try out new fruits and veggies. I unhesitatingly fetched 250gms of it. All I could recall was, when I was a kid, Daddy once brought this and was telling mom about a chutney he tasted when he was at one of his friend's places. Mom tried the chutney and it was a yummy delight to all of us.
 
@@ -47,38 +46,31 @@ Plum Chutney -Flavorings
 
 1. Wash the plums and pat dry it.
 2. Cut the plums into small cubes.
-   
+
 [](/assets/uploads/2015/06/Plum-cubes.jpg)
 
 ![Plum cubes](/assets/uploads/2015/06/Plum-cubes.jpg)
 
-Plum cubes
-3. Heat a pan, and add the Vegetable oil to it.
-4. Once the oil is hot, add the Panch Phoron. If you don't have the Panch Phoron you can add some Cumin seeds along with some fennel seeds.
-5. Then add the red chilies and stir it for 1-2 mins adding curry leaves to the pan.
-   
+Plum cubes 3. Heat a pan, and add the Vegetable oil to it. 4. Once the oil is hot, add the Panch Phoron. If you don't have the Panch Phoron you can add some Cumin seeds along with some fennel seeds. 5. Then add the red chilies and stir it for 1-2 mins adding curry leaves to the pan.
+
 [](/assets/uploads/2015/06/Plum-Chutney-Step-01.jpg)
 
 ![Plum Chutney - Step 01](/assets/uploads/2015/06/Plum-Chutney-Step-01.jpg)
 
-Plum Chutney - Step 05
-6. After the flavors are released into the oil, add the cut plum pieces and stir it for 2-3 minutes.
-   
+Plum Chutney - Step 05 6. After the flavors are released into the oil, add the cut plum pieces and stir it for 2-3 minutes.
+
 [](/assets/uploads/2015/06/Plum-Chutney-Step-02.jpg)
 
 ![Plum Chutney - Step 02](/assets/uploads/2015/06/Plum-Chutney-Step-02.jpg)
 
-Plum Chutney - Step 06
-7. Then add the salt according to taste and turmeric powder and stir it.
-   
+Plum Chutney - Step 06 7. Then add the salt according to taste and turmeric powder and stir it.
+
 [](/assets/uploads/2015/06/Plum-Chutney-Step-03.jpg)
 
 ![Plum Chutney - Step 03](/assets/uploads/2015/06/Plum-Chutney-Step-03.jpg)
 
-Plum Chutney - Step 07
-8. Cover the pan with a lid and let it cook for 2-3 mins.
-9. At some time, you see the juices are released from the cooked plums. Add the sugar and saute it for 2-3 minutes.
-   
+Plum Chutney - Step 07 8. Cover the pan with a lid and let it cook for 2-3 mins. 9. At some time, you see the juices are released from the cooked plums. Add the sugar and saute it for 2-3 minutes.
+
 [](/assets/uploads/2015/06/DSC_3802.jpg)
 
 ![Plum Chutney - Step 9](/assets/uploads/2015/06/DSC_3802.jpg)
@@ -93,7 +85,9 @@ The chutney is a delightful blend of sweetness and sourness of plum. Try serving
 
 Plum Chutney
 
-Recipe Type: Dip/Sauce
-Cuisine: Indian
-Prep time: 10 mins
-Total time: 20 mins
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dip/Sauce</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 10 mins</p>
+  <p><strong>Total time:</strong> 20 mins</p>
+</div>

@@ -19,7 +19,6 @@ listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to alm
 listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
 
-
 ![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
 The rain in the evening almost pulled me back to the childhood memories when guests arrived at home. I could recollect, every turn on the street of Bhubaneswar had amazing roadside food stalls, frying Aloo chop, Bara Ghuguni (Bara, Shingada (a.k.a Samosa) with the complementary Ghuguni (Yellow peas curry)).
@@ -107,7 +106,9 @@ Wait for more yummy and slightly varied recipes.
 
  
 
-Recipe Type: Appetizer
-Cuisine: Indian
-Prep time: 6 hours
-Total time: 7 hours
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Appetizer</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+  <p><strong>Prep time:</strong> 6 hours</p>
+  <p><strong>Total time:</strong> 7 hours</p>
+</div>

@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Watermelon Granita
-date: '2020-06-28 00:00:00 +0000'
+date: "2020-06-28 00:00:00 +0000"
 categories:
-- dessert
-- frozen-dessert
+  - dessert
+  - frozen-dessert
 tags:
-- easy
-- prep-more-60mins
-- summer
-- watermelon
+  - easy
+  - prep-more-60mins
+  - summer
+  - watermelon
 image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
 listing_summary: "Watermelon Granita is a semi-frozen dessert from the land of Sicily. It's an Italian Dessert relished during summer, made with basics of sugar, water, and fruit juice of your choice."
 listing_image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
 ---
-
 
 Granita is one of the semi-frozen [desserts](https://cookspan.com/category/dessert/frozen-dessert/) from Italy. It's basically made from simple ingredients fruit juice (any of your choice watermelon, berries, lime), sugar, and water. It's the basic science of freezing and forming the crystalline structure. I love the ice lollies served Indian way with all basic flavors. But in the States, I got very rare chances of enjoying the ice lollies. So I decided to make the Granita which looked to be the closest cousin of the ice lollies. I used the watermelon.
 
@@ -43,3 +42,8 @@ Here goes the recipe of the watermelon Granita:
 ![Watermelon Granita](/assets/uploads/2020/06/DSC_9388-scaled.jpg)
 
 Watermelon Granita
+
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Dessert</p>
+  <p><strong>Cuisine:</strong> Italian</p>
+</div>

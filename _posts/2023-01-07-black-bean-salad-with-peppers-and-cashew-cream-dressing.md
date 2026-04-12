@@ -57,9 +57,7 @@ Black Bean Salad
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Lunch</p>
-  <p><strong>Cuisine:</strong> Breakfast</p>
   <p><strong>Prep time:</strong> 20 mins</p>
   <p><strong>Total time:</strong> 20 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

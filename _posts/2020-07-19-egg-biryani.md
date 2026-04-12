@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Egg Biryani
-date: '2020-07-19 00:00:00 +0000'
+date: "2020-07-19 00:00:00 +0000"
 categories:
-- egg
-- rice
+  - egg
+  - rice
 image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
 listing_summary: "Egg biryani is a wholesome one-pot meal cooked with a wide range of spices. This biryani recipe is a wholesome, enriched, flavorful, and a great source of protein. This main course is generally served with coolants like cucumber raita or boondi raita."
 listing_image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
@@ -64,3 +64,7 @@ Garnish the Egg Biryani with the caramelized onions, mint leaves, and coriander 
 
 ![Egg Biryani](/assets/uploads/2020/07/DSC_9824-scaled.jpg)
 
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+</div>

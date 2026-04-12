@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Ram Navami Thali / Satvik Odia Thali - 1
-date: '2017-04-04 00:00:00 +0000'
+date: "2017-04-04 00:00:00 +0000"
 categories:
-- odia
-- thali
+  - odia
+  - thali
 image: "/assets/uploads/2017/04/DSC_7610.jpg"
 listing_summary: "Thali is a collection of Indian dishes served on a platter. The Satvik Odia Thali is a collection of dishes of Odia cuisine without onion and garlic."
 listing_image: "/assets/uploads/2017/04/DSC_7610.jpg"
 ---
-
 
 It's Ram Navami in India, a very happy and auspicious day to all of you. Last year, I was with Mom and Dad as Baby Darsheel was just a newborn and we had this lovely platter all Mom cooked. Miss those lovely Mom cooked foods and those amazing days of pampering. Wish I can go back soon to India to enjoy all of these.
 
@@ -50,3 +49,8 @@ Saga Bhaja
 ![Baigani](/assets/uploads/2017/04/DSC_7623.jpg)
 
 Baigani
+
+<div class="recipe-meta">
+  <p><strong>Recipe Type:</strong> Main</p>
+  <p><strong>Cuisine:</strong> Indian</p>
+</div>
