@@ -337,11 +337,11 @@ a:focus {
 .recipe-meta {
   background: #f8f9fa;
   border: 1px solid #e9ecef;
-  border-left: 4px solid #6c757d;
+  border-left: 4px solid #e6a117;
   padding: 1.25rem 1.5rem;
   margin: 1.5rem 0;
   border-radius: 0 8px 8px 0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 4px rgba(230, 161, 23, 0.08);
 
   p {
     margin: 0.5rem 0;
@@ -359,7 +359,7 @@ a:focus {
     }
 
     strong {
-      color: #212529;
+      color: #e6a117;
       font-weight: 600;
       display: inline-block;
       min-width: 100px;
