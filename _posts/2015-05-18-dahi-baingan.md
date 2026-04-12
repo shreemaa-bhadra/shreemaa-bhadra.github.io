@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dahi Baingan | Baingan ka Raita |Eggplant dipped in yogurt sauce
+title: Dahi Baingan | Baingan Ka Raita |Eggplant Dipped in Yogurt Sauce
 date: "2015-05-18 00:00:00 +0000"
 categories:
   - odia
@@ -28,7 +28,9 @@ This recipe has a great connection with my life. It made me uniquely identified 
 
 The Dahi Baingan recipe goes like this:
 
-[![Dahi Baingan Ingredient](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg) Dahi Baingan Ingredient
+[![Dahi Baingan Ingredient](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)
+
+Dahi Baingan Ingredient
 
 **Ingredients:**
 

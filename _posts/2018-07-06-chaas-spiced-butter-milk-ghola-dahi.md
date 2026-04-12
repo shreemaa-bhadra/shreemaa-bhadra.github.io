@@ -12,13 +12,6 @@ listing_image: "/assets/uploads/2018/07/Ghola-Dahi.jpg"
 ---
 ![chaas-spiced-butter-milk-ghola-dahi image](/assets/uploads/2018/07/Ghola-Dahi.jpg)
 
-
-
-
-
-
-
-
 This is my first summer in Pacific North West and so far the summer had eluded this part. Seattle area is blessed with ample of greenery and all the beautiful landscapes, huge and lush rain forests. However, I was eagerly looking for bright sunshine and a summery weather. No, not because I love hot weather or want to get drenched in sweat, but because I was longing for a long time to cherish all the summer refreshing drinks, yummy popsicles and some comfortable cold dishes. So, when finally today Mr. Sun decided to make his presence in this part of the world, I jumped in no time to prepare Chaas or Spiced Butter Milk or Ghola Dahi for our evening drink.
 
 ## Ingredients for Chaas or Spiced Butter Milk or Ghola Dahi:

@@ -15,18 +15,13 @@ listing_image: "/assets/uploads/2020/04/IMG_4769-scaled.jpg"
 ---
 ![almond-granola image](/assets/uploads/2020/04/IMG_4769-scaled.jpg)
 
-
-
-
-
-
-
-
 Almond granola is one of those things, once you start making you are never gonna buy them. Honestly, it's fascinating to have your house smell fresh granola and who doesn't like a yummy smelling house. I got into this granola making once I got into checking the sugar levels of the packed ones. Now, I make a big batch, knowing what's going into it and I use good quality materials and it is still much economical and [healthy](https://cookspan.com/tag/healthy-home-recipes/) to the store brought ones.
 
 I don't cook them every time the same way, neither I eat them the same way. Summers, I prefer it with cold yogurt with a mix of berries or fruits available to me. Winters, I prefer it with warm milk. Some days it goes as a topping with my morning smoothies. Some days I simply munch them for my mid-afternoon snacks.
 
-![Granola yogurt with fruits](/assets/uploads/2020/04/IMG_4802-scaled.jpg) Granola yogurt with fruits
+![Granola yogurt with fruits](/assets/uploads/2020/04/IMG_4802-scaled.jpg)
+
+Granola yogurt with fruits
 
 Here goes a simple Granola Recipe:
 

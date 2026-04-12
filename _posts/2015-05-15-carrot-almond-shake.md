@@ -18,13 +18,6 @@ listing_image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
 ---
 ![carrot-almond-shake image](/assets/uploads/2015/05/Carrot-Almond.jpg)
 
-
-
-
-
-
-
-
 Dates fixed!! Finally the dates are fixed... I am about to marry.. And the timeline seems stricter than any project release.
 
 So many things need to be sorted.
@@ -52,7 +45,9 @@ The Carrot almond shake recipe goes like this:
 
  
 
-[![Carrot Almond Shake Ingredient](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg) Carrot Almond Shake Ingredient
+[![Carrot Almond Shake Ingredient](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)
+
+Carrot Almond Shake Ingredient
 
 ## **Ingredients:**
 
@@ -70,7 +65,9 @@ The Carrot almond shake recipe goes like this:
 4. Add the sugar and ice cubes and grind it for 1-2 mins.
 5. Then shake would come in lighter orange color.
 
-[![Carrot Almond Shake](/assets/uploads/2015/05/Carrot-Almond.jpg)](/assets/uploads/2015/05/Carrot-Almond.jpg) Carrot Almond Shake
+[![Carrot Almond Shake](/assets/uploads/2015/05/Carrot-Almond.jpg)](/assets/uploads/2015/05/Carrot-Almond.jpg)
+
+Carrot Almond Shake
 
 It's a Vitamin A rich carotene loaded yummy drink. A must try!! This would make you believe healthier things do come in tasty packages. :)
 

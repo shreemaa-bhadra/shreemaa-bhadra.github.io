@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eggless Whole Wheat Banana Bread - a perfect toast to my friendship over chai
+title: Eggless Whole Wheat Banana Bread - A Perfect Toast to My Friendship Over Chai
   shai
 date: '2016-10-23 00:00:00 +0000'
 categories:
@@ -21,20 +21,15 @@ listing_image: "/assets/uploads/2016/10/DSC_9386.jpg"
 ---
 ![eggless-whole-wheat-banana-bread-a-perfect-toast-to-my-friendship-over-chai-shai image](/assets/uploads/2016/10/DSC_9386.jpg)
 
-
-
-
-
-
-
-
 ### How to make an Eggless Whole Wheat Banana Bread step wise
 
 When today I was sitting and mashing the ripe bananas to feed my 8 month old baby, I was caught amongst the memories of Bangalore days. The group of friends I have are definitely for a lifetime. But the memory that was drawing me was the loaf of banana bread, which we relished with a cup of tea sitting near the tea stall while we chattered with all possible gossips, news and fun. Oh, I miss them! Who? Friends or the Bread? Ah! Both! All I can do to recreate the memory is; Go and bake a really fresh one and then call these friends of mine.
 
 Truly, food connects people. When you are a foodie, you can associate all your favorite food to some memories. And this Bangalore group of mine is a real foodie. What not we do, to not miss a food event. We utilize every small opportunity to gorge on any delicacy of near by restaurant. May it be a real lavish exotic restaurant or the small stalls of Golgappas or Samosa or Momos. That was our true love for food. We bonded, life changed, but the feelings we carry are intact and hopefully that stays for years to come.
 
-[![Banana Bread](/assets/uploads/2016/10/DSC_9386.jpg)](/assets/uploads/2016/10/DSC_9386.jpg) Banana Bread
+[![Banana Bread](/assets/uploads/2016/10/DSC_9386.jpg)](/assets/uploads/2016/10/DSC_9386.jpg)
+
+Banana Bread
 
 Here comes the recipe for making Banana bread:
 
@@ -59,33 +54,53 @@ Here comes the recipe for making Banana bread:
 
 1. Preheat the oven at 180 deg Celsius or 350 deg Farenheit for 30 mins.
 2. Remove the skin of bananas and mash them well.
-    
-    [![Banana Bread \_Step 2](/assets/uploads/2016/10/DSC_9339.jpg)](/assets/uploads/2016/10/DSC_9339.jpg) Banana Bread \_Step 2
+   
+  [![Banana Bread \_Step 2](/assets/uploads/2016/10/DSC_9339.jpg)](/assets/uploads/2016/10/DSC_9339.jpg)
+
+Banana Bread \_Step 2
 3. Add sugar to the mashed bananas, mix them well so that sugar dissolved well into bananas.
-    
-    [![Banana Bread \_Step 3](/assets/uploads/2016/10/DSC_9340.jpg)](/assets/uploads/2016/10/DSC_9340.jpg) Banana Bread \_Step 3
-    
-    [![Banana Bread \_Step 3](/assets/uploads/2016/10/DSC_9343.jpg)](/assets/uploads/2016/10/DSC_9343.jpg) Banana Bread \_Step 3
+   
+  [![Banana Bread \_Step 3](/assets/uploads/2016/10/DSC_9340.jpg)](/assets/uploads/2016/10/DSC_9340.jpg)
+
+Banana Bread \_Step 3
+   
+  [![Banana Bread \_Step 3](/assets/uploads/2016/10/DSC_9343.jpg)](/assets/uploads/2016/10/DSC_9343.jpg)
+
+Banana Bread \_Step 3
 4. Add oil to the mixture and mix them well.
-    
-    [![Banana Bread \_Step 4](/assets/uploads/2016/10/DSC_9348.jpg)](/assets/uploads/2016/10/DSC_9348.jpg) Banana Bread \_Step 4
-    
-    [![Banana Bread \_Step 4](/assets/uploads/2016/10/DSC_9353.jpg)](/assets/uploads/2016/10/DSC_9353.jpg) Banana Bread \_Step 4
+   
+  [![Banana Bread \_Step 4](/assets/uploads/2016/10/DSC_9348.jpg)](/assets/uploads/2016/10/DSC_9348.jpg)
+
+Banana Bread \_Step 4
+   
+  [![Banana Bread \_Step 4](/assets/uploads/2016/10/DSC_9353.jpg)](/assets/uploads/2016/10/DSC_9353.jpg)
+
+Banana Bread \_Step 4
 5. Sieve all the dry ingredients (Baking powder, Baking Soda, Wheat flour, Nutmeg Powder, Cinnamon powder) and add to the mixture so that there is no lump created.
-    
-    [![Banana Bread \_Step 5](/assets/uploads/2016/10/DSC_9356-2.jpg)](/assets/uploads/2016/10/DSC_9356-2.jpg) Banana Bread \_Step 5
-    
-    [![Banana Bread \_Step 5](/assets/uploads/2016/10/DSC_9358-2.jpg)](/assets/uploads/2016/10/DSC_9358-2.jpg) Banana Bread \_Step 5
+   
+  [![Banana Bread \_Step 5](/assets/uploads/2016/10/DSC_9356-2.jpg)](/assets/uploads/2016/10/DSC_9356-2.jpg)
+
+Banana Bread \_Step 5
+   
+  [![Banana Bread \_Step 5](/assets/uploads/2016/10/DSC_9358-2.jpg)](/assets/uploads/2016/10/DSC_9358-2.jpg)
+
+Banana Bread \_Step 5
 6. Add the crushed almonds and Choco chips to the batter.
-    
-    [![Banana Bread \_Step 6](/assets/uploads/2016/10/DSC_9364.jpg)](/assets/uploads/2016/10/DSC_9364.jpg) Banana Bread \_Step 6
+   
+  [![Banana Bread \_Step 6](/assets/uploads/2016/10/DSC_9364.jpg)](/assets/uploads/2016/10/DSC_9364.jpg)
+
+Banana Bread \_Step 6
 7. Grease the bread mould and dust with some dry flour.
 8. Then pour in the bread batter into the mould and bake for 35-40 mins.
-    
-    [![Banana Bread \_Step 8](/assets/uploads/2016/10/DSC_9371-2.jpg)](/assets/uploads/2016/10/DSC_9371-2.jpg) Banana Bread \_Step 8
+   
+  [![Banana Bread \_Step 8](/assets/uploads/2016/10/DSC_9371-2.jpg)](/assets/uploads/2016/10/DSC_9371-2.jpg)
+
+Banana Bread \_Step 8
 9. Prick the cake with a toothpick. If it comes out clean the bread is done else bake for 5 more mins.
-    
-    [![Banana Bread \_Step 9](/assets/uploads/2016/10/DSC_9373.jpg)](/assets/uploads/2016/10/DSC_9373.jpg) Banana Bread \_Step 9
+   
+  [![Banana Bread \_Step 9](/assets/uploads/2016/10/DSC_9373.jpg)](/assets/uploads/2016/10/DSC_9373.jpg)
+
+Banana Bread \_Step 9
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Tea Time Snack</p>

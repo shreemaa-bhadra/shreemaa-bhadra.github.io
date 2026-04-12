@@ -20,18 +20,13 @@ listing_image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
 ---
 ![smashed-potato-chaat image](/assets/uploads/2020/11/DSC0003-scaled.jpg)
 
-
-
-
-
-
-
-
 Smashed potato chaat was something unconventional, but it was a hit in our family.
 
 [Chaats](https://cookspan.com/category/snacks/chaats/) are absolute love for me. It's a perfect amalgamation of the flavor, taste, and texture. A single bite of chaat gives a platter full of tastes. A perfect chaat is one with a filling base, a pea or chickpea topping, with amazing chutneys which is the heart and soul of chaat (one sour n spicy and the other sweet and sour), and some chickpea crips (namkeens or sev) and veggies (cucumber, tomatoes, and onions) for toppings.
 
-![Crispy Smashed Potatoes Served in a Chaat](/assets/uploads/2020/11/DSC0024-scaled.jpg) Crispy Smashed Potatoes Served in a Chaat
+![Crispy Smashed Potatoes Served in a Chaat](/assets/uploads/2020/11/DSC0024-scaled.jpg)
+
+Crispy Smashed Potatoes Served in a Chaat
 
 Traditional aloo chaat is made up of potato patty and here I replaced it with a tray baked smashed potato. Smashed potatoes are often served as a side to the burger. The crisp potatoes seasoned with the basic spices and baked to a crisp will serve as a wonderful base for the chaat. This fusion recipe was derived when we were driving one evening and talking about the smashed potatoes. We were talking about seasoning the smashed potatoes with Indian spices and serving next to a chickpea salad and that very moment my 4-year-old son prompted, " Mamma it would be a chaat". There came the idea to form this, and what better time than Diwali night feast.
 
@@ -74,7 +69,9 @@ Here goes the Recipe for the Smashed Potato Chaat:
 4. After that, top with the chopped veggies of your choice (cucumber and onion, you can add tomatoes, carrots, beetroot).
 5. Finally, sprinkle another layer of chutneys and top with some sev and serve.
 
-![Chaat Served](/assets/uploads/2020/11/DSC0010-scaled.jpg) Chaat Served
+![Chaat Served](/assets/uploads/2020/11/DSC0010-scaled.jpg)
+
+Chaat Served
 
 Recipe Type: Snack
 Cuisine: Indian

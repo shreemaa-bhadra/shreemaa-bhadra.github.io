@@ -17,13 +17,6 @@ listing_image: "/assets/uploads/2015/06/Sattu-Paratha.jpg"
 ---
 ![sattu-paratha image](/assets/uploads/2015/06/Sattu-Paratha.jpg)
 
-
-
-
-
-
-
-
 Sattu Paratha | Spicy Roasted Bengal Gram powder stuffed Indian Flat Bread
 
 Last week was really a hectic one. In a life with this speed, balancing both personal and professional lives and maintaining standards both at home and the office seems like a Herculean task. The work at the office is so much that nothing else seems to be doable. Uff !! And a normal weekend seems like greeting a thirsty person in hot desert with 2 drops of water, whose thirst increases instead of getting satisfied.
@@ -77,28 +70,38 @@ _Steps of Preparation for Stuffing:_
 1. Mix the Sattu ka atta or Roasted Bengal gram flour with the Onions, garlic, ginger.
 2. Add the green chilies, coriander leaves, carom seeds,salt and mix well with the flour.
 3. Then add the lime juice and dry mango powder to the mixture and add the mustard oil and bind the stuffing. Add 1-2 tsp of water to the stuffing .
-    
-    [![Sattu Paratha - Stuffing](/assets/uploads/2015/06/Sattu-Paratha-Stuffing.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Stuffing.jpg) Sattu Paratha - Stuffing
+   
+  [![Sattu Paratha - Stuffing](/assets/uploads/2015/06/Sattu-Paratha-Stuffing.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Stuffing.jpg)
+
+Sattu Paratha - Stuffing
 
 _Steps of Preparation of Paratha:_
 
 1. Make a large sized ball and roll it into the circle of 2.5 cm radius a look alike of small puri.
 2. Put the stuffing inthecentre of the Puri or the rolled dough.
-    
-    [![Sattu Paratha Roll 01](/assets/uploads/2015/06/Sattu-Paratha-Roll-01.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-01.jpg) Sattu Paratha Roll 01
+   
+  [![Sattu Paratha Roll 01](/assets/uploads/2015/06/Sattu-Paratha-Roll-01.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-01.jpg)
+
+Sattu Paratha Roll 01
 3. After adding the stuffing, try pinching off the excess dough after enclosing the stuffing inthecentre of the small ball.
-    
-    [![Sattu Paratha Roll 02](/assets/uploads/2015/06/Sattu-Paratha-Roll-02.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-02.jpg) Sattu Paratha Roll 02
-    
-    [![Sattu Paratha Roll 03](/assets/uploads/2015/06/Sattu-Paratha-Roll-03.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-03.jpg) Sattu Paratha Roll 03
+   
+  [![Sattu Paratha Roll 02](/assets/uploads/2015/06/Sattu-Paratha-Roll-02.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-02.jpg)
+
+Sattu Paratha Roll 02
+   
+  [![Sattu Paratha Roll 03](/assets/uploads/2015/06/Sattu-Paratha-Roll-03.jpg)](/assets/uploads/2015/06/Sattu-Paratha-Roll-03.jpg)
+
+Sattu Paratha Roll 03
 4. Roll the small round shaped dough into the round shaped paratha.
 5. Heat a griddle (tawa), place the rolled paratha.
 6. Heat the paratha till bubble comes. Flip it once and let the other side brown properly.
 7. Add 1 tsp of ghee / clarified butter and brush it to the top facing side.
 8. Flip the paratha and repeat the previous step.
 9. Heat the paratha till it is golden brown.
-    
-    [![Sattu Paratha](/assets/uploads/2015/06/Sattu-Paratha.jpg)](/assets/uploads/2015/06/Sattu-Paratha.jpg) Sattu Paratha
+   
+  [![Sattu Paratha](/assets/uploads/2015/06/Sattu-Paratha.jpg)](/assets/uploads/2015/06/Sattu-Paratha.jpg)
+
+Sattu Paratha
 
 Here comes the amazing tangy Sattu paratha, ideally it goes great with Baingan ka bharta or serve it with curd or butter.
 

@@ -11,16 +11,11 @@ listing_image: "/assets/uploads/2020/07/DSC_9825-scaled.jpg"
 ---
 ![egg-biryani image](/assets/uploads/2020/07/DSC_9825-scaled.jpg)
 
-
-
-
-
-
-
-
 Biryani is an Epic, I dare not say it's the traditional recipe. Biryani has evolved a lot, it's evolved over places across. The local spices play a crucial role in the recipe. Neither this Biryani is traditional to core nor egg is the traditional hero of the dish. Meat plays an important role in biryani, but somehow the spices have taken the front seat to define this one-pot rice dish. The meat is replaced by a variety choice of proteins and veggies according to a choice of the palate. And, this [Egg](https://cookspan.com/category/non-vegeterian/egg/) Biryani recipe is basic which is wholesome, enriched, flavorful. My boys are absolutely Biryani Lovers. Come weekends and I keep getting the request for making Biryani. I keep trying to make the Biryani, all I can say is I have improved over the years. With every recipe, I learned a small trick to bring it better. And I hope to keep learning.
 
-![Egg Biryani](/assets/uploads/2020/07/DSC_9821-scaled.jpg) Egg Biryani
+![Egg Biryani](/assets/uploads/2020/07/DSC_9821-scaled.jpg)
+
+Egg Biryani
 
 ### Ingredients for Egg Biryani:
 

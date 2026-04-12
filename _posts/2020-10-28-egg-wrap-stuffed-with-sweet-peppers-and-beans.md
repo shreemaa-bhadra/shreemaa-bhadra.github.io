@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Egg Wrap stuffed with Sweet peppers and Beans
+title: Egg Wrap Stuffed with Sweet Peppers and Beans
 date: '2020-10-28 00:00:00 +0000'
 categories:
 - breakfast
@@ -18,13 +18,6 @@ listing_summary: "Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-base
 listing_image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
 ---
 ![egg-wrap-stuffed-with-sweet-peppers-and-beans image](/assets/uploads/2020/10/IMG_9236-scaled.jpg)
-
-
-
-
-
-
-
 
 What did I have for my Sunday Breakfast? It's the **_Egg Wrap stuffed with Sweet Peppers and Beans_** !!
 
@@ -53,7 +46,9 @@ Sweet Peppers are always a delight. I absolutely love them, sometimes I munch th
 6. Add the boiled beans, lemon juice, salt, and pepper.
 7. Once the tortilla with eggs is cooled to a temperature you can hold comfortably, stuff the salad, and serve.
 
-![Stuffed Egg Wrap](/assets/uploads/2020/10/IMG_9236-scaled.jpg) Egg Wrap Stuffed with Sweet Peppers and Beans
+![Stuffed Egg Wrap](/assets/uploads/2020/10/IMG_9236-scaled.jpg)
+
+Egg Wrap Stuffed with Sweet Peppers and Beans
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Breakfast</p>

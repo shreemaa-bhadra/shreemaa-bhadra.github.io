@@ -16,13 +16,6 @@ listing_image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
 ---
 ![kalara-bhaja-sorisha image](/assets/uploads/2015/05/Kalachorchori_02.jpg)
 
-
-
-
-
-
-
-
 **Kalara Bhaja in Sorisha Batta/ Karela Sarson Fry /Bitter gourd in cooked mustard sauce**
 
 Every kid has his own tale of avoiding Bitter Gourd or Karela. The meal haunts our life like anything when your platter has a portion of bitter gourd. But, every Indian mom would be stubborn and determined in this affair to make the kid eat his share of bitterness to get a "_Super Shakti_" to avoid diseases.
@@ -44,8 +37,10 @@ The mustard flavored kalara bhaja goes like this:
 7. Turmeric Powder - 1 tsp
 8. Badi or Sun dried Urad daal dumplings - 2-3 medium pieces
 9. Vegetable oil - 3 tbsp
-    
-    [![Kalara Bhaja Ingredients](/assets/uploads/2015/05/Kalachorchori_01.jpg)](/assets/uploads/2015/05/Kalachorchori_01.jpg) Kalara Bhaja Ingredients
+   
+  [![Kalara Bhaja Ingredients](/assets/uploads/2015/05/Kalachorchori_01.jpg)](/assets/uploads/2015/05/Kalachorchori_01.jpg)
+
+Kalara Bhaja Ingredients
 
 ## Steps of Preparation:
 
@@ -60,8 +55,10 @@ The mustard flavored kalara bhaja goes like this:
 9. Fry it till the veggies are half cooked. Add the mustard paste and mix the veggies and cover back the lid.
 10. After the veggies are properly cooked in the mustard falvor. Crush the badis and add to veggies.
 11. After a minute you can serve the Kalara Sorisha Bhaja with Pakhala or rice platter.
-     
-     [![Kalara Bhaja flavored in Mustard Paste](/assets/uploads/2015/05/Kalachorchori_02.jpg)](/assets/uploads/2015/05/Kalachorchori_02.jpg) Kalara Bhaja flavored in Mustard Paste
+   
+  [![Kalara Bhaja flavored in Mustard Paste](/assets/uploads/2015/05/Kalachorchori_02.jpg)](/assets/uploads/2015/05/Kalachorchori_02.jpg)
+
+Kalara Bhaja flavored in Mustard Paste
 
 _It's bitter but has nutrients that will make you feel better !_
 

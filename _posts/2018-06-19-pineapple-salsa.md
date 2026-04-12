@@ -14,18 +14,13 @@ listing_image: "/assets/uploads/2018/06/DSC_5976.jpg"
 ---
 ![pineapple-salsa image](/assets/uploads/2018/06/DSC_5976.jpg)
 
-
-
-
-
-
-
-
 Ah!! Finally the man of the house gets a room in the blog. Oh! You got me wrong! He didn't cook it or make it. It's just that his favorites are getting some place in the blog. After he moved to the US, he developed certain attachment for Mexican cuisine. But it took me around 4 years to get the hang of it. I could cook it, but it's only after I watched Pati's Mexican Table hosted by [Pati Jinich](https://patijinich.com/), I started liking the dishes more. The summer time in US is overloaded with tropical fruits, which makes you even crave for this kind of Mexican Salsa. One fine weekend, when I was clearing my kitchen shelves, I found a packet of tortilla chips sitting unnoticed. And then I went on to prepare this Pineapple Salsa for the side to the chips.
 
 Believe me, fruit salsa like Mango and Pineapple go perfect for any summer-time snacking. All you need is a bowl full of salsa and few tortilla chips to munch on to spend the amazing sunny evening time in home. Without wasting a moment, I want to jot down this yummy delicious salsa.
 
-![Tortilla chips with a generous bite of salsa](/assets/uploads/2018/05/DSC_5992.jpg) Tortilla chips with a generous bite of salsa
+![Tortilla chips with a generous bite of salsa](/assets/uploads/2018/05/DSC_5992.jpg)
+
+Tortilla chips with a generous bite of salsa
 
 ## Ingredients for Pineapple Salsa:
 
@@ -50,7 +45,9 @@ Believe me, fruit salsa like Mango and Pineapple go perfect for any summer-time 
 1. Bring a large mixing bowl, add all the ingredients.
 2. Mix all the ingredients so the spices and juices mix uniformly with all the ingredient. Serve it fresh to bring out the best of all the ingredients.
 
-![Pineapple Salsa](/assets/uploads/2018/05/DSC_5976.jpg) Pineapple Salsa
+![Pineapple Salsa](/assets/uploads/2018/05/DSC_5976.jpg)
+
+Pineapple Salsa
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Sides</p>

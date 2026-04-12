@@ -16,18 +16,13 @@ listing_image: "/assets/uploads/2017/10/DSC_1605-1.jpg"
 ---
 ![buta-daali-bara-tarkari-or-chana-dal-vada-curry image](/assets/uploads/2017/10/DSC_1605-1.jpg)
 
-
-
-
-
-
-
-
 Being a part of a conservative Odiya family, non veg is far from the bay in my kitchen in this holy month of Kartik. But Sunday needs some remarkable recipe to enrich our platter. It's all mundane when the weekend goes without any special dish.
 
 When I was lost in my thoughts and wondering what to cook for the lunch, the left over [Buta Daali Bara](http://cookspan.com/fritters/buta-daali-bara-or-channa-dal-vada/1140/) (Chana Dal Vada) caught my attention. My mom used to make this in winter or rainy times. And they are no less than a meat curry both taste wise or nutrient wise. The Bengal Gram fried dumplings are one of the good source of protein when cooked with potato, it's a perfect curry to relish on. Without wasting much time, I jumped over to cook this yummy spicy delight to serve my Sunday lunch.
 
-[![Channa Dal Vada or Buta Dali Bara](/assets/uploads/2017/10/DSC_1575.jpg)](/assets/uploads/2017/10/DSC_1575.jpg) Channa Dal Vada or Buta Dali Bara
+[![Channa Dal Vada or Buta Dali Bara](/assets/uploads/2017/10/DSC_1575.jpg)](/assets/uploads/2017/10/DSC_1575.jpg)
+
+Channa Dal Vada or Buta Dali Bara
 
 The recipe of the Buta Daali Bara Tarkari goes like this :
 
@@ -53,35 +48,51 @@ The recipe of the Buta Daali Bara Tarkari goes like this :
 **Steps of Preparation:**
 
 1. Blend together Ginger, Garlic, Cumin seeds, Coriander seeds, dried red chilies, dried Kashmiri red chilies and tomatoes to make a smooth paste.
-    
-    [![Making of the Puree](/assets/uploads/2017/10/DSC_1560.jpg)](/assets/uploads/2017/10/DSC_1560.jpg) Making of the Puree
-2. Heat a pan and add the 2 tbsp of vegetable oil, add the whole spices, cardamom, cinnamon stick and bay leaves to it and let the fragrance ooze into the oil.
-    
-    [![Whole spices added ](/assets/uploads/2017/10/DSC_1563.jpg)](/assets/uploads/2017/10/DSC_1563.jpg) Whole spices added
-3. Add the chopped onions and cook till it softens and caramelize to light golden brown.
-    
-    [![Onions added](/assets/uploads/2017/10/DSC_1565.jpg)](/assets/uploads/2017/10/DSC_1565.jpg) Onions added
-    
-    [![Cooked Onions](/assets/uploads/2017/10/DSC_1567.jpg)](/assets/uploads/2017/10/DSC_1567.jpg) Cooked Onions
-4. Then add the blended paste, turmeric powder and salt and cook till the oil separate from the mixture.
-    
-    [![Adding the Blended puree ](/assets/uploads/2017/10/DSC_1568.jpg)](/assets/uploads/2017/10/DSC_1568.jpg) Adding the Blended puree
-    
-    [![Cooked Masala](/assets/uploads/2017/10/DSC_1570.jpg)](/assets/uploads/2017/10/DSC_1570.jpg) Cooked Masala
-5. Add 2 cups of water to the cooked spices and let it simmer for 5-7 mins.
-    
-    [![Making the gravy](/assets/uploads/2017/10/DSC_1574.jpg)](/assets/uploads/2017/10/DSC_1574.jpg) Making the gravy
-6. Then add the boiled potatoes and the fried channa dal vada and give it quick stir and let it cook in the gravy for 5 mins.
-    
-    [![Adding the Boiled Potatoes ](/assets/uploads/2017/10/DSC_1583.jpg)](/assets/uploads/2017/10/DSC_1583.jpg) Adding the Boiled Potatoes
-    
-    [![](/assets/uploads/2017/10/DSC_1589.jpg)](/assets/uploads/2017/10/DSC_1589.jpg)
+   
+  [![Making of the Puree](/assets/uploads/2017/10/DSC_1560.jpg)](/assets/uploads/2017/10/DSC_1560.jpg)
 
- 
+Making of the Puree
+2. Heat a pan and add the 2 tbsp of vegetable oil, add the whole spices, cardamom, cinnamon stick and bay leaves to it and let the fragrance ooze into the oil.
+   
+  [![Whole spices added ](/assets/uploads/2017/10/DSC_1563.jpg)](/assets/uploads/2017/10/DSC_1563.jpg)
+
+Whole spices added
+3. Add the chopped onions and cook till it softens and caramelize to light golden brown.
+   
+  [![Onions added](/assets/uploads/2017/10/DSC_1565.jpg)](/assets/uploads/2017/10/DSC_1565.jpg)
+
+Onions added
+   
+  [![Cooked Onions](/assets/uploads/2017/10/DSC_1567.jpg)](/assets/uploads/2017/10/DSC_1567.jpg)
+
+Cooked Onions
+4. Then add the blended paste, turmeric powder and salt and cook till the oil separate from the mixture.
+   
+  [![Adding the Blended puree ](/assets/uploads/2017/10/DSC_1568.jpg)](/assets/uploads/2017/10/DSC_1568.jpg)
+
+Adding the Blended puree
+   
+  [![Cooked Masala](/assets/uploads/2017/10/DSC_1570.jpg)](/assets/uploads/2017/10/DSC_1570.jpg)
+
+Cooked Masala
+5. Add 2 cups of water to the cooked spices and let it simmer for 5-7 mins.
+   
+  [![Making the gravy](/assets/uploads/2017/10/DSC_1574.jpg)](/assets/uploads/2017/10/DSC_1574.jpg)
+
+Making the gravy
+6. Then add the boiled potatoes and the fried channa dal vada and give it quick stir and let it cook in the gravy for 5 mins.
+   
+  [![Adding the Boiled Potatoes ](/assets/uploads/2017/10/DSC_1583.jpg)](/assets/uploads/2017/10/DSC_1583.jpg)
+
+Adding the Boiled Potatoes
+   
+  [![](/assets/uploads/2017/10/DSC_1589.jpg)](/assets/uploads/2017/10/DSC_1589.jpg)
 
 You can separately adjust the quantity of water according to the thickness of the gravy. As, I planned it to eat it with plain rice I preferred it thinner and added one more cup of water.
 
-[![Buta daali bara tarkari](/assets/uploads/2017/10/DSC_1605-1.jpg)](/assets/uploads/2017/10/DSC_1605-1.jpg) Buta daali bara tarkari
+[![Buta daali bara tarkari](/assets/uploads/2017/10/DSC_1605-1.jpg)](/assets/uploads/2017/10/DSC_1605-1.jpg)
+
+Buta daali bara tarkari
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Black bean Salad with Peppers and Cashew cream dressing
+title: Black Bean Salad with Peppers and Cashew Cream Dressing
 date: "2023-01-07 00:00:00 +0000"
 categories:
   - salads
@@ -51,7 +51,9 @@ Here is the recipe for the Black bean Salad:
 
 You can enjoy it your tortilla, tortilla chips or as a wholesome bowl itself or as a side for Grilled chicken, fish.
 
-![Black Bean Salad](/assets/uploads/2023/01/DSC0203-scaled.jpeg) Black Bean Salad
+![Black Bean Salad](/assets/uploads/2023/01/DSC0203-scaled.jpeg)
+
+Black Bean Salad
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Lunch</p>

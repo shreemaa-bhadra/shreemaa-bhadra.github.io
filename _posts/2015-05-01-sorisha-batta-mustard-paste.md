@@ -15,13 +15,6 @@ listing_image: "/assets/uploads/2015/05/DSC_2955.jpg"
 ---
 ![sorisha-batta-mustard-paste image](/assets/uploads/2015/05/DSC_2955.jpg)
 
-
-
-
-
-
-
-
 Sorisha Batta or Mustard Paste is a flavoring used in Odiya cuisine for recipes like besara, bhaja's and all. The flavoring varies from region to region based on the availability of the ingredient or the variations of acceptance of taste. This is what continues in my family from my ancestors' time. We have it ready every time in our fridge as it can be stored easily for a week or two.
 
 Sorisha Batta or Mustard Paste is the result of mustard, ground into a thick paste with complimentary ingredients. Mustard carries a pungent flavor that enhances the veggies or fishes cooked with it.
@@ -35,7 +28,9 @@ The recipe for the mustard paste or Sorisha Batta goes like this:
 3. Red chilies - 3-4
 4. Garlic - 7-8 big cloves
 
-[![Sorisha Bata](/assets/uploads/2015/05/DSC_2955.jpg)](/assets/uploads/2015/05/DSC_2955.jpg) Sorisha Bata / Mustard Paste
+[![Sorisha Bata](/assets/uploads/2015/05/DSC_2955.jpg)](/assets/uploads/2015/05/DSC_2955.jpg)
+
+Sorisha Bata / Mustard Paste
 
 ## **Steps of Preparation:**
 

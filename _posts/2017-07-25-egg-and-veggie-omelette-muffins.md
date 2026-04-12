@@ -19,13 +19,6 @@ listing_image: "/assets/uploads/2017/07/DSC_1855.jpg"
 ---
 ![egg-and-veggie-omelette-muffins image](/assets/uploads/2017/07/DSC_1855.jpg)
 
-
-
-
-
-
-
-
 Hola!!
 
 Long time no see!!
@@ -34,7 +27,9 @@ That's so getting usual for me. I keep on deciding to be very regular with my 
 
 I sing more of his rhymes than any songs. It's his toys which are more in my mind than my phone. And our dinning table gets more of his style food than ours. The taste and nutrition go hand in hand for the baby and family. It's more fun to cook for your kids. And as every mother I too feel the same about this. While the entire day is packed up with so many routines and stuff, but dining time is getting funnier, playful and messier after the little one joined the deck. Sometimes it's annoying, especially when he gets picky. However, this Omelette Muffin loaded with veggies comes to my rescue.
 
-[![Stack of muffins ](/assets/uploads/2017/07/DSC_1855.jpg)](/assets/uploads/2017/07/DSC_1855.jpg) Stack of muffins
+[![Stack of muffins ](/assets/uploads/2017/07/DSC_1855.jpg)](/assets/uploads/2017/07/DSC_1855.jpg)
+
+Stack of muffins
 
 Here, I officially start my toddler section with much love and passion, which basically will have the recipes I cook for him. And I assume this food journey is making me connect generations of the past to the ongoing present in the budding future.
 
@@ -60,17 +55,25 @@ The super easy savory Egg and Veggie Omelette Muffins Recipe:
 1. Before starting to chop the vegetables, preheat the oven to 350 F or 180 deg Celsius.
 2. Mix all the vegetables. \[gallery columns="2" size="medium" ids="1180,1182,1181,1183"\]
 3. Beat the eggs and oats together and season with salt and pepper.
-    
-    [![Oats and Egg](/assets/uploads/2017/07/DSC_1846.jpg)](/assets/uploads/2017/07/DSC_1846.jpg) Oats and Egg
+   
+  [![Oats and Egg](/assets/uploads/2017/07/DSC_1846.jpg)](/assets/uploads/2017/07/DSC_1846.jpg)
+
+Oats and Egg
 4. Grease the muffin pans, equally serve the veggies on the mold.
-    
-    [![Egg and Veggie mixture on the tray](/assets/uploads/2017/07/DSC_1849.jpg)](/assets/uploads/2017/07/DSC_1849.jpg) Egg and Veggie mixture on the tray
+   
+  [![Egg and Veggie mixture on the tray](/assets/uploads/2017/07/DSC_1849.jpg)](/assets/uploads/2017/07/DSC_1849.jpg)
+
+Egg and Veggie mixture on the tray
 5. Pour the beaten egg mixture and top with the grated cheese.
-    
-    [![Cheese topped and ready to be baked](/assets/uploads/2017/07/DSC_1852.jpg)](/assets/uploads/2017/07/DSC_1852.jpg) Cheese topped and ready to be baked
+   
+  [![Cheese topped and ready to be baked](/assets/uploads/2017/07/DSC_1852.jpg)](/assets/uploads/2017/07/DSC_1852.jpg)
+
+Cheese topped and ready to be baked
 6. Bake the omelette muffins for 25 mins.
-    
-    [![Omelette Muffin with veggies](/assets/uploads/2017/07/DSC_1864.jpg)](/assets/uploads/2017/07/DSC_1864.jpg) Omelette Muffin
+   
+  [![Omelette Muffin with veggies](/assets/uploads/2017/07/DSC_1864.jpg)](/assets/uploads/2017/07/DSC_1864.jpg)
+
+Omelette Muffin
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Breakfast</p>

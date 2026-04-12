@@ -16,16 +16,11 @@ listing_image: "/assets/uploads/2018/03/DSC_5054.jpg"
 ---
 ![chicken-kasa-or-chicken-kasha image](/assets/uploads/2018/03/DSC_5054.jpg)
 
-
-
-
-
-
-
-
 Winter in Plano has subsided and Spring has sprung with much grace. As they say, you are happiest when the weather is pleasant so am I. There is a ton of things going on in life some very pleasant some not at all, but being a mother and wife all you know - food is constant. And a toddler running out of food is a pure sin. Spring blossom suddenly turns the world colorful. When I am this happy, I prefer easy food that is pleasant to cook and definitely great on my mouth and tummy. One of this food is Odia dry Chicken Dish called Chicken Kasa or Chicken Kasha.
 
-[![Chicken Kassa](/assets/uploads/2018/03/DSC_5054.jpg)](/assets/uploads/2018/03/DSC_5054.jpg) Chicken Kasa
+[![Chicken Kassa](/assets/uploads/2018/03/DSC_5054.jpg)](/assets/uploads/2018/03/DSC_5054.jpg)
+
+Chicken Kasa
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>

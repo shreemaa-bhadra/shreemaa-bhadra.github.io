@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shakarkandi Paratha or Sweet Potato Paratha - No Onion No Garlic
+title: Shakarkandi Paratha or Sweet Potato Paratha - No Onion no Garlic
 date: '2017-12-26 00:00:00 +0000'
 categories:
 - bread
@@ -20,20 +20,17 @@ listing_image: "/assets/uploads/2017/12/DSC_3793.jpg"
 ---
 ![shakarkandi-paratha-sweet-potato-paratha image](/assets/uploads/2017/12/DSC_3793.jpg)
 
-
-
-
-
-
-
-
 Sweet potatoes were never regular into the family menus until last year when the little one started taking solid food. It soon became his favorite along with carrots. But as he grew from a nicer infant to a terrible toddler, he got picky with lots of options and started ignoring the baked or boiled sweet potato pieces. However, upon experimentation, I've found his liking for Sweet Potato pancakes or Sweet Potato Paratha. This one is [no onion no garlic](http://cookspan.com/tag/no-onion-no-garlic/) recipe.
 
-[![Sweet Potato Paratha](/assets/uploads/2017/12/DSC_3787.jpg)](/assets/uploads/2017/12/DSC_3787.jpg) Sweet Potato Paratha
+[![Sweet Potato Paratha](/assets/uploads/2017/12/DSC_3787.jpg)](/assets/uploads/2017/12/DSC_3787.jpg)
+
+Sweet Potato Paratha
 
 Sweet Potato Paratha with a cup of tea is a yummy breakfast. These have the unique earthy flavors, which do wonder when paired with a few Indian spices and you can simply munch on them without any accompaniment. I don't pair them unless it is lunch time. During lunch time, I love it bit heavy with Dal Tadka or Dal Makhani or Raita.
 
-[![Paratha](/assets/uploads/2017/12/DSC_3791.jpg)](/assets/uploads/2017/12/DSC_3791.jpg) Paratha
+[![Paratha](/assets/uploads/2017/12/DSC_3791.jpg)](/assets/uploads/2017/12/DSC_3791.jpg)
+
+Paratha
 
 Here goes the recipe of Shakarkandi Parathas or Sweet Potato Parathas:
 
@@ -52,48 +49,78 @@ Here goes the recipe of Shakarkandi Parathas or Sweet Potato Parathas:
 ## Steps of Preparation for Sweet Potato Paratha:
 
 1. In a large mixing bowl take all the spices (Cumin Powder, Carom seeds, Coriander Powder, Red Chili Powder, Turmeric Powder, Salt).
-    
-    [![Powdered spices](/assets/uploads/2017/12/DSC_3757.jpg)](/assets/uploads/2017/12/DSC_3757.jpg) Powdered spices
+   
+  [![Powdered spices](/assets/uploads/2017/12/DSC_3757.jpg)](/assets/uploads/2017/12/DSC_3757.jpg)
+
+Powdered spices
 2. In another bowl, peel off the sweet potatoes and mash it.
-    
-    [![Boiled Sweet Potato](/assets/uploads/2017/12/DSC_3758.jpg)](/assets/uploads/2017/12/DSC_3758.jpg) Boiled Sweet Potato
-    
-    [![Mashed Sweet Potato](/assets/uploads/2017/12/DSC_3761.jpg)](/assets/uploads/2017/12/DSC_3761.jpg) Mashed Sweet Potato
+   
+  [![Boiled Sweet Potato](/assets/uploads/2017/12/DSC_3758.jpg)](/assets/uploads/2017/12/DSC_3758.jpg)
+
+Boiled Sweet Potato
+   
+  [![Mashed Sweet Potato](/assets/uploads/2017/12/DSC_3761.jpg)](/assets/uploads/2017/12/DSC_3761.jpg)
+
+Mashed Sweet Potato
 3. Add the Whole Wheat Flour to the spices and add 2 tbsp of clarified butter or ghee.
-    
-    [![Wheat Flour and Ghee Added ](/assets/uploads/2017/12/DSC_3763.jpg)](/assets/uploads/2017/12/DSC_3763.jpg) Wheat Flour and Ghee Added
+   
+  [![Wheat Flour and Ghee Added ](/assets/uploads/2017/12/DSC_3763.jpg)](/assets/uploads/2017/12/DSC_3763.jpg)
+
+Wheat Flour and Ghee Added
 4. To the Flour and spices add the mashed sweet potato.
-    
-    [![Mashed Sweet Potato Added ](/assets/uploads/2017/12/DSC_3764.jpg)](/assets/uploads/2017/12/DSC_3764.jpg) Mashed Sweet Potato Added
+   
+  [![Mashed Sweet Potato Added ](/assets/uploads/2017/12/DSC_3764.jpg)](/assets/uploads/2017/12/DSC_3764.jpg)
+
+Mashed Sweet Potato Added
 5. Slowly mix the dough and knead it to form a soft smooth dough.
-    
-    [![Kneading the Dough](/assets/uploads/2017/12/DSC_3765.jpg)](/assets/uploads/2017/12/DSC_3765.jpg) Kneading the Dough
-    
-    [![Dough](/assets/uploads/2017/12/DSC_3766.jpg)](/assets/uploads/2017/12/DSC_3766.jpg) Dough
+   
+  [![Kneading the Dough](/assets/uploads/2017/12/DSC_3765.jpg)](/assets/uploads/2017/12/DSC_3765.jpg)
+
+Kneading the Dough
+   
+  [![Dough](/assets/uploads/2017/12/DSC_3766.jpg)](/assets/uploads/2017/12/DSC_3766.jpg)
+
+Dough
 6. Pinch out small portions to make small spheres.
-    
-    [![Small round portions of Dough](/assets/uploads/2017/12/DSC_3768.jpg)](/assets/uploads/2017/12/DSC_3768.jpg) Small round portions of Dough
+   
+  [![Small round portions of Dough](/assets/uploads/2017/12/DSC_3768.jpg)](/assets/uploads/2017/12/DSC_3768.jpg)
+
+Small round portions of Dough
 7. Dust the small portion of dough with dry flour and roll to make a flat bread of round shape.
-    
-    [![Dough all set to be rolled](/assets/uploads/2017/12/DSC_3770.jpg)](/assets/uploads/2017/12/DSC_3770.jpg) Dough all set to be rolled
-    
-    [![Rolled Paratha](/assets/uploads/2017/12/DSC_3771.jpg)](/assets/uploads/2017/12/DSC_3771.jpg) Rolled Paratha
+   
+  [![Dough all set to be rolled](/assets/uploads/2017/12/DSC_3770.jpg)](/assets/uploads/2017/12/DSC_3770.jpg)
+
+Dough all set to be rolled
+   
+  [![Rolled Paratha](/assets/uploads/2017/12/DSC_3771.jpg)](/assets/uploads/2017/12/DSC_3771.jpg)
+
+Rolled Paratha
 8. Heat an iron griddle, add the flat bread. Flip it once bubbles appear on the surface.
-    
-    [![Paratha on the Griddle](/assets/uploads/2017/12/DSC_3773.jpg)](/assets/uploads/2017/12/DSC_3773.jpg) Paratha on the Griddle
+   
+  [![Paratha on the Griddle](/assets/uploads/2017/12/DSC_3773.jpg)](/assets/uploads/2017/12/DSC_3773.jpg)
+
+Paratha on the Griddle
 9. Cook the other side, till you see golden brown spots.
 10. Add 1 tsp of ghee and brush it on the surface facing upwards.
-     
-     [![Brushing with Clarified Butter](/assets/uploads/2017/12/DSC_3776.jpg)](/assets/uploads/2017/12/DSC_3776.jpg) Brushing with Clarified Butter
-     
-     [![Almost done Sweet Potato Paratha](/assets/uploads/2017/12/DSC_3777.jpg)](/assets/uploads/2017/12/DSC_3777.jpg) Almost done Sweet Potato Paratha
+   
+  [![Brushing with Clarified Butter](/assets/uploads/2017/12/DSC_3776.jpg)](/assets/uploads/2017/12/DSC_3776.jpg)
+
+Brushing with Clarified Butter
+   
+  [![Almost done Sweet Potato Paratha](/assets/uploads/2017/12/DSC_3777.jpg)](/assets/uploads/2017/12/DSC_3777.jpg)
+
+Almost done Sweet Potato Paratha
 11. Flip the Paratha and repeat the previous step.
-     
-     [![Toddler's Choice ](/assets/uploads/2017/12/DSC_3781.jpg)](/assets/uploads/2017/12/DSC_3781.jpg) Toddler's Choice
+   
+  [![Toddler's Choice ](/assets/uploads/2017/12/DSC_3781.jpg)](/assets/uploads/2017/12/DSC_3781.jpg)
+
+Toddler's Choice
 
 Serve the Parathas with the choice of your condiments like pickles or curd.
 
-[![Decked up Paratha](/assets/uploads/2017/12/DSC_3793.jpg)](/assets/uploads/2017/12/DSC_3793.jpg) Decked up Paratha
+[![Decked up Paratha](/assets/uploads/2017/12/DSC_3793.jpg)](/assets/uploads/2017/12/DSC_3793.jpg)
+
+Decked up Paratha
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>

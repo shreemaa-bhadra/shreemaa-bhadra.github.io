@@ -19,13 +19,6 @@ listing_image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 ---
 ![crunchy-apple-smoothie image](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
 
-
-
-
-
-
-
-
 Summer !! Summer !!
 
 1. Sunscreen - Checked
@@ -58,7 +51,9 @@ N.B. : The quantity serves 2.
 5. Sugar  - According to the taste (preferably 2 tbsp)
 6. Ice cubes - 2-3
 
-[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg) Ingredients of Crunchy Apple Smoothie
+[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)
+
+Ingredients of Crunchy Apple Smoothie
 
 ## Steps of Preparation:
 
@@ -68,7 +63,9 @@ N.B. : The quantity serves 2.
 
  The corn flakes/meusli will give the crunchiness and would make you summer morning delightful.
 
-[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg) Refreshing Crunchy Apple Smoothie
+[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
+
+Refreshing Crunchy Apple Smoothie
 
 > _Chef's Tip: As soon as you cut the apple, grind it and serve it. Exposing in the air gets apple oxidized which is an unhealthy option to consume._
 

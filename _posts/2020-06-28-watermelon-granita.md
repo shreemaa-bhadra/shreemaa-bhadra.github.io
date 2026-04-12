@@ -16,16 +16,11 @@ listing_image: "/assets/uploads/2020/06/DSC_9388-scaled.jpg"
 ---
 ![watermelon-granita image](/assets/uploads/2020/06/DSC_9388-scaled.jpg)
 
-
-
-
-
-
-
-
 Granita is one of the semi-frozen [desserts](https://cookspan.com/category/dessert/frozen-dessert/) from Italy. It's basically made from simple ingredients fruit juice (any of your choice watermelon, berries, lime), sugar, and water. It's the basic science of freezing and forming the crystalline structure. I love the ice lollies served Indian way with all basic flavors. But in the States, I got very rare chances of enjoying the ice lollies. So I decided to make the Granita which looked to be the closest cousin of the ice lollies. I used the watermelon.
 
-![Watermelon Granita](/assets/uploads/2020/06/DSC_9386-scaled.jpg) Watermelon Granita
+![Watermelon Granita](/assets/uploads/2020/06/DSC_9386-scaled.jpg)
+
+Watermelon Granita
 
 The real trick of the Granita recipe is to bring the texture of the Granita by scraping multiple times.
 
@@ -45,4 +40,6 @@ Here goes the recipe of the watermelon Granita:
 4. Keep doing this for the next 2-3 times and then serve the dessert.
 5. Finally, I added some homegrown chocolate mint while serving to bring some extra flavors.
 
-![Watermelon Granita](/assets/uploads/2020/06/DSC_9388-scaled.jpg) Watermelon Granita
+![Watermelon Granita](/assets/uploads/2020/06/DSC_9388-scaled.jpg)
+
+Watermelon Granita

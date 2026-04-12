@@ -15,16 +15,11 @@ listing_image: "/assets/uploads/2017/10/DSC_2064.jpg"
 ---
 ![mushroom-pepper-fry image](/assets/uploads/2017/10/DSC_2064.jpg)
 
-
-
-
-
-
-
-
 Sunday afternoon gets busy at times. So, cooking an elaborate meal gets tough. However, cooking something quick and easy helps feed my family on time. This yummy delight of Mushroom Pepper fry is always a family favorite when mushrooms are in a hand's distance.
 
-[![Mushroom Pepper Fry](/assets/uploads/2017/10/DSC_2062.jpg)](/assets/uploads/2017/10/DSC_2062.jpg) Mushroom Pepper Fry
+[![Mushroom Pepper Fry](/assets/uploads/2017/10/DSC_2062.jpg)](/assets/uploads/2017/10/DSC_2062.jpg)
+
+Mushroom Pepper Fry
 
 As Navratri was around the corner, we had no involvement with the non-veg dishes in the kitchen. Indian festivals are always so much of grandeur, that sometimes indulgence often leads you to seek the subtle and comfort food. And this recipe of Mushroom Pepper Fry is such one. This recipe has minimal spices which makes the elegant mushrooms more ravishing. This dish was quite a favorite in our Bangalore days, where we used to pick it up with food on busy weeknights. The small restaurants make them better than any fancy recipe.
 
@@ -59,34 +54,54 @@ So here goes the recipe:
 
 1. Heat a skillet, add 2 tbsp of vegetable oil.
 2. Add the cumin seeds and let it splutter in the hot oil.
-    
-    [![Steps of Preparation](/assets/uploads/2017/10/DSC_2027.jpg)](/assets/uploads/2017/10/DSC_2027.jpg) Steps of Preparation: Spluttering of Cumin Seeds
+   
+  [![Steps of Preparation](/assets/uploads/2017/10/DSC_2027.jpg)](/assets/uploads/2017/10/DSC_2027.jpg)
+
+Steps of Preparation: Spluttering of Cumin Seeds
 3. Add the sliced white onions and let it fry till it softens.
-    
-    [![Steps of Preparation](/assets/uploads/2017/10/DSC_2029.jpg)](/assets/uploads/2017/10/DSC_2029.jpg) Steps of Preparation: Addition of White Onions
+   
+  [![Steps of Preparation](/assets/uploads/2017/10/DSC_2029.jpg)](/assets/uploads/2017/10/DSC_2029.jpg)
+
+Steps of Preparation: Addition of White Onions
 4. Then add the 2tbsp of chili-garlic paste and let it cook till the raw smell of garlic goes away.
-    
-    [![Addition of Chili Garlic Paste](/assets/uploads/2017/10/DSC_2030.jpg)](/assets/uploads/2017/10/DSC_2030.jpg) Addition of Chili Garlic Paste
-    
-    [![Cooked Onions and Chili Garlic](/assets/uploads/2017/10/DSC_2033.jpg)](/assets/uploads/2017/10/DSC_2033.jpg) Cooked Onions and Chili Garlic
+   
+  [![Addition of Chili Garlic Paste](/assets/uploads/2017/10/DSC_2030.jpg)](/assets/uploads/2017/10/DSC_2030.jpg)
+
+Addition of Chili Garlic Paste
+   
+  [![Cooked Onions and Chili Garlic](/assets/uploads/2017/10/DSC_2033.jpg)](/assets/uploads/2017/10/DSC_2033.jpg)
+
+Cooked Onions and Chili Garlic
 5. Now, add the mushroom and cook it for 10-15 mins on a medium flame till the water dries up.
-    
-    [![Addition of Mushroom](/assets/uploads/2017/10/DSC_2034.jpg)](/assets/uploads/2017/10/DSC_2034.jpg) Addition of Mushroom
-    
-    [![Half cooked Mushrooms](/assets/uploads/2017/10/DSC_2035.jpg)](/assets/uploads/2017/10/DSC_2035.jpg) Half cooked Mushrooms
+   
+  [![Addition of Mushroom](/assets/uploads/2017/10/DSC_2034.jpg)](/assets/uploads/2017/10/DSC_2034.jpg)
+
+Addition of Mushroom
+   
+  [![Half cooked Mushrooms](/assets/uploads/2017/10/DSC_2035.jpg)](/assets/uploads/2017/10/DSC_2035.jpg)
+
+Half cooked Mushrooms
 6. After this, add the sliced green bell pepper.
-    
-    [![Addition of Green Bell Pepper](/assets/uploads/2017/10/DSC_2036.jpg)](/assets/uploads/2017/10/DSC_2036.jpg) Addition of Green Bell Pepper
+   
+  [![Addition of Green Bell Pepper](/assets/uploads/2017/10/DSC_2036.jpg)](/assets/uploads/2017/10/DSC_2036.jpg)
+
+Addition of Green Bell Pepper
 7. Add the powdered spices like, crushed black pepper, salt and turmeric and stir it.
-    
-    [![Addition of Dry spices](/assets/uploads/2017/10/DSC_2039.jpg)](/assets/uploads/2017/10/DSC_2039.jpg) Addition of Dry spices
+   
+  [![Addition of Dry spices](/assets/uploads/2017/10/DSC_2039.jpg)](/assets/uploads/2017/10/DSC_2039.jpg)
+
+Addition of Dry spices
 8. Mix the spices well and add the spring onion greens to elevate the flavor and color of the dish.
-    
-    [![Addition of Dry spices](/assets/uploads/2017/10/DSC_2041.jpg)](/assets/uploads/2017/10/DSC_2041.jpg) Addition of Dry spices
+   
+  [![Addition of Dry spices](/assets/uploads/2017/10/DSC_2041.jpg)](/assets/uploads/2017/10/DSC_2041.jpg)
+
+Addition of Dry spices
 
 Serve it with hot rotis or Dal-Rice. The crunch of white onions and green bell pepper is a perfect company to the subtle mushroom.
 
-[![Mushroom Pepper Fry](/assets/uploads/2017/10/DSC_2064.jpg)](/assets/uploads/2017/10/DSC_2064.jpg) Mushroom Pepper Fry
+[![Mushroom Pepper Fry](/assets/uploads/2017/10/DSC_2064.jpg)](/assets/uploads/2017/10/DSC_2064.jpg)
+
+Mushroom Pepper Fry
 
  
 

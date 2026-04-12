@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overnight oats with Berries and Almonds
+title: Overnight Oats with Berries and Almonds
 date: '2018-07-17 00:00:00 +0000'
 categories:
 - breakfast
@@ -12,18 +12,13 @@ listing_image: "/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg"
 ---
 ![overnight-oats-with-berries-and-almonds image](/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg)
 
-
-
-
-
-
-
-
 Summers are refreshing with so many fruits and berries to choose from. Ever since we moved to the States, berries have gotten a special place in the pantry. Summers are bright and all you want are refreshing cool delights. I eat Oats in the form of Oats chilla, the Indian way or overnight oats with Berries and Almonds. And what better when you can have your summer breakfast in no time with all your favorite berries.
 
 So here goes the recipe of the no cook Overnight oats with berries and almonds:
 
-![Overnight Oats with Berries and almonds](/assets/uploads/2018/07/IMG_0165.jpg) Overnight Oats with Berries and almonds
+![Overnight Oats with Berries and almonds](/assets/uploads/2018/07/IMG_0165.jpg)
+
+Overnight Oats with Berries and almonds
 
 ### Ingredients for Overnight Oats with Berries and Almonds:
 

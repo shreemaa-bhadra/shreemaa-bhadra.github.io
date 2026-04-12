@@ -17,13 +17,6 @@ listing_image: "/assets/uploads/2020/06/IMG_3088-scaled.jpg"
 ---
 ![kaju-katli image](/assets/uploads/2020/06/IMG_3088-scaled.jpg)
 
-
-
-
-
-
-
-
 Kaju Katli or the Cashew Fudge is one of those simplest recipes, which taught me cooking is a perfect amalgamation of science and art. Generally, with my knowledge of taste, I keep thinking at times I can recreate recipes in my first try. But this sweet disappointed me. It disappointed me for not only one time, but three times. I caught it right on the fourth attempt. It taught me the beauty of patience and tasted the fruit of success after multiple failures.
 
 ![](/assets/uploads/2020/06/IMG_6446-scaled.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instant pot Chicken Curry
+title: Instant Pot Chicken Curry
 date: "2022-12-11 00:00:00 +0000"
 categories:
   - chicken
@@ -44,11 +44,15 @@ And the chicken curry has established itself as a regular fixture for weeknight 
 5. Add a cup of water and the potatoes and pressure cook for 7 mins. ![](/assets/uploads/2022/12/IMG_3434-scaled.jpg)
 6. After it's cooked let the pressure release naturally or wait atleast for 14-15 mins before releasing it manually.
 
-   ![Completed Instant Pot Chicken Curry](/assets/uploads/2022/12/IMG_3442-scaled.jpg) Completed Instant Pot Chicken Curry
+  ![Completed Instant Pot Chicken Curry](/assets/uploads/2022/12/IMG_3442-scaled.jpg)
+
+Completed Instant Pot Chicken Curry
 
 Enjoy the bowl of chicken curry with rotis, parathas or rice.
 
-![Instant Pot Chicken Curry](/assets/uploads/2022/12/DSC0175-scaled.jpeg) Instant Pot Chicken Curry
+![Instant Pot Chicken Curry](/assets/uploads/2022/12/DSC0175-scaled.jpeg)
+
+Instant Pot Chicken Curry
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>

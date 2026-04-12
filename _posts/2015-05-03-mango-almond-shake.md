@@ -19,13 +19,6 @@ listing_image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
 ---
 ![mango-almond-shake image](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
 
-
-
-
-
-
-
-
 Sunny Sunday Morning! A late wake up, and a growling stomach.
 
 As Sunday is the last day of the weekend, we try getting lazy to the extent we could. So also was I. But the last day's fun with friends was making me recall all those fun we had in Bhubaneswar. Those days were all filled with girly stuff, chatter, gossips and crazily shopping.
@@ -44,7 +37,9 @@ The recipe of Mango Shake with the almond twist goes like this:
 4. Ice cubes- 3-4
 5. Sugar - based on the taste (preferably 2 tbsp)
 
-[![Yummy Mangoes](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)](/assets/uploads/2015/05/Mango_almond_shake_01.jpg) Yummy Mangoes
+[![Yummy Mangoes](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)
+
+Yummy Mangoes
 
 ## Steps of preparation:
 
@@ -54,7 +49,9 @@ The recipe of Mango Shake with the almond twist goes like this:
 4. Grind for 2-3 mins till it's properly mixed into a smoothie.
 5. After its blended smoothly, transfer it in a glass and garnish with the finely chopped almonds.
 
-[![Mango Shake with Almost Twist](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)](/assets/uploads/2015/05/Mango_almond_shake_02.jpg) Mango Shake with Almost Twist
+[![Mango Shake with Almost Twist](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
+
+Mango Shake with Almost Twist
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Juice</p>

@@ -31,7 +31,9 @@ The guest who came down were treated with those mouth-watering delicacies. As a 
 
 All this nostalgia pulled my eyes towards the residing Urad Daal(Black Grams) in the Kitchen cabinet. I felt like treating my husband with a delightful Sunday morning breakfast in a pure Odiya way: "Bara - Ghugni".
 
-[![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg) Bara Ghuguni Recipe
+[![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
+
+Bara Ghuguni Recipe
 
 The Bara Ghuguni recipe goes like this:
 
@@ -92,7 +94,9 @@ _Preparation Time : Overnight / 6 hrs_ _Cooking Time: 25 mins_
 
 Nothing can be more satisfying as this finger-licking delightful combo. Try it and serve with some Green chutney or Mango chutney.
 
-[![Bara Ghuguni 2](/assets/uploads/2015/04/Bara-Ghuguni-21.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-21.jpg) Bara Ghuguni Served with Mango Chutney and Hot Tea
+[![Bara Ghuguni 2](/assets/uploads/2015/04/Bara-Ghuguni-21.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-21.jpg)
+
+Bara Ghuguni Served with Mango Chutney and Hot Tea
 
 Wait for more yummy and slightly varied recipes.
 
