@@ -18,8 +18,8 @@ image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 listing_summary: "Bara Ghuguni is an authentic Odiya snack, that is close to almost every person. The munchy snack is loved by all age groups. Let's Get CookingBara Ghuguni"
 listing_image: "/assets/uploads/2015/04/Bara-Ghuguni-11.jpg"
 ---
-![bara-ghuguni image](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
+![bara-ghuguni image](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
 ![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)
 
@@ -32,8 +32,6 @@ The guest who came down were treated with those mouth-watering delicacies. As a 
 All this nostalgia pulled my eyes towards the residing Urad Daal(Black Grams) in the Kitchen cabinet. I felt like treating my husband with a delightful Sunday morning breakfast in a pure Odiya way: "Bara - Ghugni".
 
 [![Bara Ghuguni Recipe](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg)](/assets/uploads/2015/04/Bara-Ghuguni-11.jpg) Bara Ghuguni Recipe
-
-\[the_ad id="355"\]
 
 The Bara Ghuguni recipe goes like this:
 
