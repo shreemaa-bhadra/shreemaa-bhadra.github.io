@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign _df = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: _df }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if page.categories -%}
+  <footer class="post-footer">
+    <div class="post-categories">
+      <strong>Categories:</strong>
+      {%- for category in page.categories -%}
+        <a class="post-category-link" href="{{ '/categories/' | relative_url }}{{ category | slugify }}/">{{ category | escape }}</a>
+        {%- unless forloop.last %}<span class="category-separator">, </span>{% endunless -%}
+      {%- endfor -%}
+    </div>
+  </footer>
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+<style>
+  .post-footer {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #efefef;
+  }
+
+  .post-categories {
+    font-size: 0.9rem;
+    color: #666;
+  }
+
+  .post-category-link {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    margin: 0 0.25rem 0.5rem 0;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #2a2a2a;
+    transition: background-color 0.2s ease;
+  }
+
+  .post-category-link:hover {
+    background-color: #e8e8e8;
+    text-decoration: none;
+  }
+
+  .category-separator {
+    color: #ccc;
+    margin: 0 0.25rem;
+  }
+</style>
