@@ -12,6 +12,7 @@ image: "/assets/uploads/2018/06/DSC_5976.jpg"
 listing_summary: "Pineapple salsa \u2013 mix of chunky fresh Pineapples with the choice of veggies & herbs & some hot peppers, seasoned with Mexican spices like cumin & paprika."
 listing_image: "/assets/uploads/2018/06/DSC_5976.jpg"
 ---
+
 ![pineapple-salsa image](/assets/uploads/2018/06/DSC_5976.jpg)
 
 Ah!! Finally the man of the house gets a room in the blog. Oh! You got me wrong! He didn't cook it or make it. It's just that his favorites are getting some place in the blog. After he moved to the US, he developed certain attachment for Mexican cuisine. But it took me around 4 years to get the hang of it. I could cook it, but it's only after I watched Pati's Mexican Table hosted by [Pati Jinich](https://patijinich.com/), I started liking the dishes more. The summer time in US is overloaded with tropical fruits, which makes you even crave for this kind of Mexican Salsa. One fine weekend, when I was clearing my kitchen shelves, I found a packet of tortilla chips sitting unnoticed. And then I went on to prepare this Pineapple Salsa for the side to the chips.

@@ -45,45 +45,45 @@ This year, on the first day of the Navratri, when the home was filled with festi
 
 1. Soak the Channa Dal for about 2-3 hs.
 
-  ![Soaking the Channa Dal](/assets/uploads/2018/10/IMG_3244.jpg)
+![Soaking the Channa Dal](/assets/uploads/2018/10/IMG_3244.jpg)
 
 Soaking the Channa Dal
 
 2. Take a wide bottomed sauce pan or vessel and add 2 cups of water to the Channa dal and let it cook for about 30-40 mins.
 
-  ![Boiling the Channa Dal](/assets/uploads/2018/10/IMG_3248.jpg)
+![Boiling the Channa Dal](/assets/uploads/2018/10/IMG_3248.jpg)
 
 Boiling the Channa Dal
 
    
 
-  ![Almost cooked](/assets/uploads/2018/10/IMG_3250.jpg)
+![Almost cooked](/assets/uploads/2018/10/IMG_3250.jpg)
 
 Almost cooked
 
 3. Then after the Channa Dal is cooked you can mash it and add the clarified butter, Jaggery, salt and Cardamom Powder.
 
-  ![Adding Ghee](/assets/uploads/2018/10/IMG_3255.jpg)
+![Adding Ghee](/assets/uploads/2018/10/IMG_3255.jpg)
 
 Adding Ghee
 
-  ![Adding the Jaggery and Cardamom Powder](/assets/uploads/2018/10/IMG_3261.jpg)
+![Adding the Jaggery and Cardamom Powder](/assets/uploads/2018/10/IMG_3261.jpg)
 
 Adding the Jaggery and Cardamom Powder
 
 4. Mix thoroughly the mashed mixture and cook for about more 15 mins until the entire stuffing is dehydrated.
 
-  ![Mashing the Channa Dal](/assets/uploads/2018/10/IMG_3252.jpg)
+![Mashing the Channa Dal](/assets/uploads/2018/10/IMG_3252.jpg)
 
 Mashing the Channa Dal
 
-  ![The stuffing](/assets/uploads/2018/10/IMG_3265.jpg)
+![The stuffing](/assets/uploads/2018/10/IMG_3265.jpg)
 
 The stuffing
 
 5. Let the mixture cool, so you can scoop out the small portion and make a small laddoo shaped balls.
 
-  ![The stuffing balls ](/assets/uploads/2018/10/IMG_3267.jpg)
+![The stuffing balls ](/assets/uploads/2018/10/IMG_3267.jpg)
 
 The stuffing balls
 
@@ -97,46 +97,46 @@ The stuffing balls
 
 1. Make a large sized ball and roll it into a small round of radius 2.5 cm, which is similar to the size of a poori.
 
-  ![The atta Dough balls](/assets/uploads/2018/10/IMG_3271.jpg)
+![The atta Dough balls](/assets/uploads/2018/10/IMG_3271.jpg)
 
 The atta Dough balls
 
-  ![Rolling the dough to a small circle](/assets/uploads/2018/10/IMG_3273.jpg)
+![Rolling the dough to a small circle](/assets/uploads/2018/10/IMG_3273.jpg)
 
 Rolling the dough to a small circle
 
 2. Put the stuffing in the center of the rolled dough.
 
-  ![Enclosing the stuffing](/assets/uploads/2018/10/IMG_3276.jpg)
+![Enclosing the stuffing](/assets/uploads/2018/10/IMG_3276.jpg)
 
 Enclosing the stuffing
 
 3. After adding the stuffing, try pinching off the excess dough after enclosing the stuffing in the centre of the small ball.
 
-  ![Pinching off the excess dough](/assets/uploads/2018/10/IMG_3277.jpg)
+![Pinching off the excess dough](/assets/uploads/2018/10/IMG_3277.jpg)
 
 Pinching off the excess dough
 
-  ![Stuffed Dough set to roll ](/assets/uploads/2018/10/IMG_3279.jpg)
+![Stuffed Dough set to roll ](/assets/uploads/2018/10/IMG_3279.jpg)
 
 Stuffed Dough set to roll
 
 4. Roll the small round shaped dough into the round shaped poli or paratha.
 
-  ![Rolled Poli](/assets/uploads/2018/10/IMG_3280.jpg)
+![Rolled Poli](/assets/uploads/2018/10/IMG_3280.jpg)
 
 Rolled Poli
 
 5. Heat a griddle (tawa), place the rolled Poli.
 6. Heat the Poli till bubble comes. Flip it once and let the other side brown properly.
 
-  ![Brown spots on the Puran Poli](/assets/uploads/2018/10/IMG_3281.jpg)
+![Brown spots on the Puran Poli](/assets/uploads/2018/10/IMG_3281.jpg)
 
 Brown spots on the Puran Poli
 
 7. Add 1 tsp of ghee / clarified butter and brush it to the top facing side.
 
-  ![Adding Ghee to season the Poli](/assets/uploads/2018/10/IMG_3289.jpg)
+![Adding Ghee to season the Poli](/assets/uploads/2018/10/IMG_3289.jpg)
 
 Adding Ghee to season the Poli
 

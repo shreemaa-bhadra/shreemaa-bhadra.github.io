@@ -13,6 +13,7 @@ image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 listing_summary: "Mushroom Masala a spiced gravy Mushroom. Its texture and flavors perfectly blends with rice or chapatis or pooris."
 listing_image: "/assets/uploads/2015/05/Mushroom-Masala.jpg"
 ---
+
 ![mushroom-masala image](/assets/uploads/2015/05/Mushroom-Masala.jpg)
 
 Let's play a riddle today. The king of today's dish is neither a vegetable nor a fruit. It's a controversial topic among vegetarian and non-vegetarian. Guess! Guess!
@@ -23,7 +24,9 @@ You are right. It's Mushroom!
 
 May it be veg or non-veg. A fruit or a vegetable, I am a crazy fan of it. This is one of my personal favorite dishes. I order it often when I go to restaurants. It's a spicy gravy main course served with either chapatis or rice or pooris. The beauty of this dish is its thick gravy. It is made with different variations in different parts of India based on the availability of  ingredients.
 
-[![Mushroom Masala Ingredient](/assets/uploads/2015/05/Mushroom-Masala-Ingredient.jpg)](/assets/uploads/2015/05/Mushroom-Masala-Ingredient.jpg)
+[](/assets/uploads/2015/05/Mushroom-Masala-Ingredient.jpg)
+
+![Mushroom Masala Ingredient](/assets/uploads/2015/05/Mushroom-Masala-Ingredient.jpg)
 
 Mushroom Masala Ingredient
 
@@ -66,7 +69,9 @@ The recipe of the Mushroom Masala goes like this:
 11. Extra water is not required to be added as mushroom releases water.
 12. Cook till the mushroom get's softened.
 
-[![Mushroom Masala](/assets/uploads/2015/05/Mushroom-Masala.jpg)](/assets/uploads/2015/05/Mushroom-Masala.jpg)
+[](/assets/uploads/2015/05/Mushroom-Masala.jpg)
+
+![Mushroom Masala](/assets/uploads/2015/05/Mushroom-Masala.jpg)
 
 Mushroom Masala
 

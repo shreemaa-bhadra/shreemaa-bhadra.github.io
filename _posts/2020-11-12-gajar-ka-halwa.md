@@ -17,6 +17,7 @@ image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
 listing_summary: "Gajar ka Halwa or Carrot halwa is a sweet pudding made of carrots, clarified butter, and sugar. It's seasoned with cardamom and topped with cashew nuts and almonds."
 listing_image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
 ---
+
 ![gajar-ka-halwa image](/assets/uploads/2020/11/IMG_9707-1-scaled.jpg)
 
 Halwa is the most common form of Indian [dessert](https://cookspan.com/category/dessert/indian-sweets/), cooking with ghee (clarified butter) and sugar. The basic form of Halwa's is flour-based loaded with ghee and sugar. But this is not a flour-based. Gajar ka Halwa is primarily made of shredded carrots (gajar). Often it's made with milk solids (khoya) but I tweaked the recipe using some condensed milk.

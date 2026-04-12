@@ -19,6 +19,7 @@ image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
 listing_summary: "Dahi Bara Aloo Dum is one of the famous chats served in Odisha. For a hot climate, the curd in the bara gives comfort. The tangy flavor tickles the tongue."
 listing_image: "/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg"
 ---
+
 ![dahi-bara-aloo-dum image](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
 
 As I am an Odiya, I am simply crazy about Dahi Bara (Dahi Vada) and Aloo Dum. Cuttack based story of Dahi Bara and Aloo Dum goes like this: Some Bara(vada) -  aloo chop(aloo Bonda) vendor found his Bara getting wasted on a daily basis . Then an idea struck him, if he could soak those bara in the curd and serves it like a chat with spicy Aloo dum, it would probably be a good dish. It wasn't just any dish, it's the most acknowledged chat and a comfort snack that people prefer in sunny summers of twin city (Bhubaneswar & Cuttack) crazily like nothing other.
@@ -79,7 +80,9 @@ The Dahi Bara Aloo Dum recipe goes like this:
 7. Add a cup of water to the 2 cups of the curd to make of thinner consistency and all salt to it.
 8. Add the pinch of the black pepper powder to the curd and add the soaked baras in the mixture.
 
-[![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_2.jpg)](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_2.jpg)
+[](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_2.jpg)
+
+![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_2.jpg)
 
 Dahi Bara
 
@@ -97,7 +100,9 @@ Dahi Bara
 10. Add the potato cubes and cook it for 2 mins and then add 2 cups of water and let it simmer for 3-4 mins.
 11. Turn off the cook top after the gravy has come into a medium consistency.
 
-[![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/DSC_0393.jpg)](/assets/uploads/2015/04/DSC_0393.jpg)
+[](/assets/uploads/2015/04/DSC_0393.jpg)
+
+![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/DSC_0393.jpg)
 
 Aloo Dum
 
@@ -107,7 +112,9 @@ Aloo Dum
 
    _Cooking Time_ : _0_ 
 
-[![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_1.jpg)](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_1.jpg)
+[](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_1.jpg)
+
+![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_1.jpg)
 
 Dahi Bara, Aloo Dum and Garnishing ingredient
 
@@ -117,7 +124,9 @@ Dahi Bara, Aloo Dum and Garnishing ingredient
 
 I bet this would look yummilicious and colorful. If you are a sour lover, you can keep that version.
 
-[![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
+[](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
+
+![Dahi Bara Aloo Dum Recipe](/assets/uploads/2015/04/Dahi_Bara_Aloo_Dum_4.jpg)
 
 Dahi Bara Aloo Dum Recipe
 

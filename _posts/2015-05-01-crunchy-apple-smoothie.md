@@ -17,6 +17,7 @@ image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 listing_summary: "The Crunchy apple smoothie is a refresher and a relief drink during summers. The creamy blend of apple, milk and cashew nuts feels like heaven."
 listing_image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 ---
+
 ![crunchy-apple-smoothie image](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
 
 Summer !! Summer !!
@@ -51,7 +52,9 @@ N.B. : The quantity serves 2.
 5. Sugar  - According to the taste (preferably 2 tbsp)
 6. Ice cubes - 2-3
 
-[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)
+[](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)
+
+![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_01.jpg)
 
 Ingredients of Crunchy Apple Smoothie
 
@@ -63,7 +66,9 @@ Ingredients of Crunchy Apple Smoothie
 
  The corn flakes/meusli will give the crunchiness and would make you summer morning delightful.
 
-[![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
+[](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
+
+![Crunchy Apple Smoothie](/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg)
 
 Refreshing Crunchy Apple Smoothie
 

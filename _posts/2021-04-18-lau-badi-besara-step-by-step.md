@@ -14,6 +14,7 @@ image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 listing_summary: "Lau Badi Besara is an Odia dish cooked with bottle gourd in a pungent mustard gravy, topped with crunchy badis (sun dried lentil dumpling)."
 listing_image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 ---
+
 ![lau-badi-besara-step-by-step image](/assets/uploads/2021/04/IMG_2318-scaled.jpeg)
 
 If there is one food that I inherited that I adore, it is unquestionably besara. Besara is a garlicky mustard paste that improves the flavor of a number of dishes. It's cooked with seafood, a wide range of leafy greens, vegetables, and mushrooms to spike and elevate the flavors with the pungency of mustard. One of them is Lau Badi Besara. Lau refers to the bottle gourd, and Badi is a sun-dried lentil dumpling used in many [Odia](https://cookspan.com/category/odia/) dishes to add crunch and flavor to the gravy.
@@ -40,12 +41,26 @@ Let's get cooking and get into the details of this everyday comfort Odia recipe 
 ### Steps of Preparation for Lau Badi Besara:
 
 1. First, wash and peel the lau (bottle gourd) and saru skins (taro root). Cut them into medium-sized (1-inch) cubes.
-2. Next, in a cooking pot, combine the cleaned vegetables, salt, and turmeric. Cook for 15 minutes, covered.. ![](/assets/uploads/2021/04/IMG_2345-scaled.jpeg) ![](/assets/uploads/2015/05/IMG_2326-scaled.jpeg)
-3. Then, once it's cooked, add the besara paste and cook for 15 mins (when all the veggies are cooked properly). ![](/assets/uploads/2015/05/IMG_2323-scaled.jpeg)
+2. Next, in a cooking pot, combine the cleaned vegetables, salt, and turmeric. Cook for 15 minutes, covered..
+
+![](/assets/uploads/2021/04/IMG_2345-scaled.jpeg)
+
+![](/assets/uploads/2015/05/IMG_2326-scaled.jpeg)
+
+3. Then, once it's cooked, add the besara paste and cook for 15 mins (when all the veggies are cooked properly).
+
+![](/assets/uploads/2015/05/IMG_2323-scaled.jpeg)
+
 4. There after, switch off the flame and keep the veggies aside.
 5. Next, take a frying pan and add mustard oil.
-6. Then to the heated oil, add the pancha phutana, red chillies. Once it crackles, add the crushed garlic. ![](/assets/uploads/2015/05/IMG_2321-scaled.jpeg)
-7. Next, to it add the crushed Badi and saute until everything is golden brown. ![](/assets/uploads/2015/05/IMG_2343-scaled.jpeg)
+6. Then to the heated oil, add the pancha phutana, red chillies. Once it crackles, add the crushed garlic.
+
+![](/assets/uploads/2015/05/IMG_2321-scaled.jpeg)
+
+7. Next, to it add the crushed Badi and saute until everything is golden brown.
+
+![](/assets/uploads/2015/05/IMG_2343-scaled.jpeg)
+
 8. Finally, add the tempering to the cooked vegetables, mix well, and serve with a hot bowl of rice or hot rotis.
 
 ![](/assets/uploads/2021/04/IMG_2350-scaled.jpeg)

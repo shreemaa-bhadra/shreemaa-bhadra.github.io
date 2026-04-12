@@ -18,6 +18,7 @@ image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
 listing_summary: "Smashed potato Chaat is an Indo \u2013 American fusion recipe. It's a perfect platter or starter for any celebration times. This is loaded with sweet, savory flavors with multiple textures with a potato base. This chat an inspiration drawn from Aloo Tikki Chaat."
 listing_image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
 ---
+
 ![smashed-potato-chaat image](/assets/uploads/2020/11/DSC0003-scaled.jpg)
 
 Smashed potato chaat was something unconventional, but it was a hit in our family.

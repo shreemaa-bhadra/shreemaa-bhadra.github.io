@@ -26,13 +26,17 @@ Cooking is an art, where you play with the ingredient to vary the taste. It's am
 
 While cooking for this dish I was in the United States and it was my first snow. Being in the coastal Indian climate, which is hot and humid, snow was a surprise and witnessing it was a dream come true. The snowy white morning encouraged me to have a recipe which kept me comfortable and matched the white mood.
 
-[![Snowy Day](/assets/uploads/2015/04/Egg_Mayo_Sandwich_03.jpg)](/assets/uploads/2015/04/Egg_Mayo_Sandwich_03.jpg)
+[](/assets/uploads/2015/04/Egg_Mayo_Sandwich_03.jpg)
+
+![Snowy Day](/assets/uploads/2015/04/Egg_Mayo_Sandwich_03.jpg)
 
 Snowy Day
 
 That very thought tossed my eyes to three ingredients in the fridge: Bread, Egg and mayonnaise sauce. My husband is a health freak (though not in actual, but pretends to be one) always prefers salads. That put me under pressure to cook a salad. And me being a breakfast buff wanted something heavy to wipe out my entire nights long fast. So, the solution for that was to prepare a salad for him and stuff it with the bread to make a sandwich for my ever growling stomach.
 
-[![Egg Mayo Salad - Sandwich](/assets/uploads/2015/04/Egg_Mayo_Sandwich_02.jpg)](/assets/uploads/2015/04/Egg_Mayo_Sandwich_02.jpg)
+[](/assets/uploads/2015/04/Egg_Mayo_Sandwich_02.jpg)
+
+![Egg Mayo Salad - Sandwich](/assets/uploads/2015/04/Egg_Mayo_Sandwich_02.jpg)
 
 Egg Mayo Salad - Sandwich
 
@@ -61,7 +65,9 @@ So the recipe and mood goes as below:
 6. After the mix is done, cut the bread pieces to two diagonally n stuff to the salad mix.
 7. Place the sandwich in the hot pan and grill it for 2 mins.
 
-[![Egg Mayo Salad- Sandwich](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)
+[](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)
+
+![Egg Mayo Salad- Sandwich](/assets/uploads/2015/04/Egg_Mayo_Sandwich_01.jpg)
 
 Egg Mayo Salad Stuffed Sandwich
 

@@ -35,7 +35,9 @@ Here goes my detailed recipe for the Spring Egg Salad:
 5. Cherry Tomates : 1/2 cup
 6. Boiled Eggs : 4
 7. Sunflower Seeds : 1/4 cup, roasted
-8. English Cucumber :  1![Spring Egg Salad Ingredients](/assets/uploads/2021/04/IMG_2212-scaled.jpeg)
+8. English Cucumber :  1
+
+![Spring Egg Salad Ingredients](/assets/uploads/2021/04/IMG_2212-scaled.jpeg)
 
 ### Ingredients for Dressing :
 

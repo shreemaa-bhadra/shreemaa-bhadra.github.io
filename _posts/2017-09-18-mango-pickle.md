@@ -12,11 +12,14 @@ image: "/assets/uploads/2017/09/DSC_1531.jpg"
 listing_summary: "This is the sour garlicky mango pickle made in the summer and stored for a long time to relish with meals or as a dip for various tea time snacks."
 listing_image: "/assets/uploads/2017/09/DSC_1531.jpg"
 ---
+
 ![mango-pickle image](/assets/uploads/2017/09/DSC_1531.jpg)
 
 The summer is slowly slipping away. Probably this is the best summer after my childhood. The little man is running, the park times are increasing and we wait for the evening to come so that we go on long walks and play. This is exactly what I had imagined at my Lamaze meditation sessions during pregnancy, which is indeed fun to live.
 
-[![Canning of the pickle](/assets/uploads/2017/09/DSC_1531.jpg)](/assets/uploads/2017/09/DSC_1531.jpg)
+[](/assets/uploads/2017/09/DSC_1531.jpg)
+
+![Canning of the pickle](/assets/uploads/2017/09/DSC_1531.jpg)
 
 Canning of the pickle
 
@@ -46,49 +49,70 @@ Here goes the recipe of the Mango Pickle:
 1. Wash the ingredients and towel dry all till the last drop of water vaporizes.
 2. Peel the mangoes and grate it.
    
-  [![Peeled Mangoes](/assets/uploads/2017/09/DSC_1502.jpg "Peeled Mangoes")](/assets/uploads/2017/09/DSC_1502.jpg)
+[](/assets/uploads/2017/09/DSC_1502.jpg)
+
+![Peeled Mangoes](/assets/uploads/2017/09/DSC_1502.jpg "Peeled Mangoes")
 
 Peeled Mangoes
 3. Crush the garlic using mortar pestle and add to the grated mango.
    
-  [![Garlic added to the grated mango](/assets/uploads/2017/09/DSC_1511.jpg)](/assets/uploads/2017/09/DSC_1511.jpg)
+[](/assets/uploads/2017/09/DSC_1511.jpg)
+
+![Garlic added to the grated mango](/assets/uploads/2017/09/DSC_1511.jpg)
 
 Garlic added to the grated mango
 4. Add the coarsely ground yellow mustard.
    
-  [![Addition of the coarsely ground Mustard](/assets/uploads/2017/09/DSC_1515.jpg)](/assets/uploads/2017/09/DSC_1515.jpg)
+[](/assets/uploads/2017/09/DSC_1515.jpg)
+
+![Addition of the coarsely ground Mustard](/assets/uploads/2017/09/DSC_1515.jpg)
 
 Addition of the coarsely ground Mustard
 5. Remove the stems of the chilies and slit it in the middle, make sure the parts remain intact and appear as whole.
    
-  [![Chilies](/assets/uploads/2017/09/DSC_1507.jpg "Chilies")](/assets/uploads/2017/09/DSC_1507.jpg)
+[](/assets/uploads/2017/09/DSC_1507.jpg)
+
+![Chilies](/assets/uploads/2017/09/DSC_1507.jpg "Chilies")
 
 Chilies
 6. Heat a pan and add 2 tbsp of mustard oil and fry the chilies till shiny, but make sure not to cook them.
    
-  [![Frying of chilies](/assets/uploads/2017/09/DSC_1520.jpg)](/assets/uploads/2017/09/DSC_1520.jpg)
+[](/assets/uploads/2017/09/DSC_1520.jpg)
+
+![Frying of chilies](/assets/uploads/2017/09/DSC_1520.jpg)
 
 Frying of chilies
-7. Add the chilies to the grated mango. [![](/assets/uploads/2017/09/DSC_1522.jpg)](/assets/uploads/2017/09/DSC_1522.jpg)
+7. Add the chilies to the grated mango. [](/assets/uploads/2017/09/DSC_1522.jpg)
+
+![](/assets/uploads/2017/09/DSC_1522.jpg)
+
 8. Heat the rest of the oil to a medium temperature for about 3-4 mins.
    
-  [![Heating the mustard oil](/assets/uploads/2017/09/DSC_1524.jpg)](/assets/uploads/2017/09/DSC_1524.jpg)
+[](/assets/uploads/2017/09/DSC_1524.jpg)
+
+![Heating the mustard oil](/assets/uploads/2017/09/DSC_1524.jpg)
 
 Heating the mustard oil
 9. Add the heated oil and the salt and give it a quick stir to coat all the ingredients in the mango uniformly.
    
-  [![Addition of Salt](/assets/uploads/2017/09/DSC_1526.jpg)](/assets/uploads/2017/09/DSC_1526.jpg)
+[](/assets/uploads/2017/09/DSC_1526.jpg)
+
+![Addition of Salt](/assets/uploads/2017/09/DSC_1526.jpg)
 
 Addition of Salt
 10. Then store them in sterilized air tight jar.
    
-  [![The almost ready pickle](/assets/uploads/2017/09/DSC_1528.jpg)](/assets/uploads/2017/09/DSC_1528.jpg)
+[](/assets/uploads/2017/09/DSC_1528.jpg)
+
+![The almost ready pickle](/assets/uploads/2017/09/DSC_1528.jpg)
 
 The almost ready pickle
 
  
 
-[![Mango Pickle](/assets/uploads/2017/09/DSC_2016.jpg)](/assets/uploads/2017/09/DSC_2016.jpg)
+[](/assets/uploads/2017/09/DSC_2016.jpg)
+
+![Mango Pickle](/assets/uploads/2017/09/DSC_2016.jpg)
 
 Tasty mango pickle
 

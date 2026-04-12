@@ -13,13 +13,16 @@ image: "/assets/uploads/2017/01/DSC_0196.jpg"
 listing_summary: "Mutton Jhola is a spicy thick gravy mutton curry which goes very well with rice, rotis or naans. The dish is made up of minimal spice."
 listing_image: "/assets/uploads/2017/01/DSC_0196.jpg"
 ---
+
 ![odia-mutton-jhola image](/assets/uploads/2017/01/DSC_0196.jpg)
 
 After many days, the Sun appeared. Yes!! A bright, lovely sunny day. Like our Bangalore home, the apartment we have leased in Plano is blessed with lovely light and sunshine. We didn't want to miss any of this. So, we planned for a lovely patio lunch. I and hubby love non-vegetarian food, unlike our parents who are vegetarians. But, going by the family way, [non-veg](https://cookspan.com/category/non-vegeterian/) has never become our everyday ritual. Forget every day, it's not even a part of our weekly ritual too. We still follow the family norm to go and pick the seasonal veggies and cook them with dal, rice, and Chapati.
 
 This day, we made plans for a mutton special. Darsheel, my 11-month-old infant was cranky staying enclosed for winter. So, I wanted to give more of my time to him so that he enjoyed the sunny day with Mommy and Daddy. I just wanted some special stuff with less effort. Therefore, I prepared a simple pressure cooker mutton jhola with minimal spice and effort.
 
-[![Mutton Jhola](/assets/uploads/2017/01/DSC_0196.jpg)](/assets/uploads/2017/01/DSC_0196.jpg)
+[](/assets/uploads/2017/01/DSC_0196.jpg)
+
+![Mutton Jhola](/assets/uploads/2017/01/DSC_0196.jpg)
 
 Mutton Jhola
 
@@ -43,7 +46,9 @@ The recipe goes like this:
 14. Sugar - 1tsp
 15. Mustard oil - 3 tbsp
 
-[![Served with Rotis/Chapatis](/assets/uploads/2017/01/DSC_0199.jpg)](/assets/uploads/2017/01/DSC_0199.jpg)
+[](/assets/uploads/2017/01/DSC_0199.jpg)
+
+![Served with Rotis/Chapatis](/assets/uploads/2017/01/DSC_0199.jpg)
 
 Served with Rotis/Chapatis
 
@@ -60,7 +65,9 @@ Served with Rotis/Chapatis
 9. After the oil separated from the meat, add 1 cup of water and pressure cook till 5-7 whistles till the meat is well cooked and soft.
 10. Then season the curry with garam masala and cinnamon powder.
 
-[![Served with Rice and salad](/assets/uploads/2017/01/DSC_0212.jpg)](/assets/uploads/2017/01/DSC_0212.jpg)
+[](/assets/uploads/2017/01/DSC_0212.jpg)
+
+![Served with Rice and salad](/assets/uploads/2017/01/DSC_0212.jpg)
 
 Served with rice and salad
 

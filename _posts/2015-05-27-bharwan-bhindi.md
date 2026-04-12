@@ -14,6 +14,7 @@ image: "/assets/uploads/2015/05/DSC_3596.jpg"
 listing_summary: "Bharwan Bhindi is a north Indian dish. The spicy filling makes the Okra yummy. This dish is variation from the original as it's my grand mom's way ! Try it ! You will love it !!"
 listing_image: "/assets/uploads/2015/05/DSC_3596.jpg"
 ---
+
 ![bharwan-bhindi image](/assets/uploads/2015/05/DSC_3596.jpg)
 
 The tale of this dish is quite special to my family. This dish first wooed my dad's heart when my grand mom cooked for him on his first day at my mom's place. It played the magic to win my husband's heart for my mom's culinary skills.
@@ -24,7 +25,9 @@ She used to make loads of typical variations of Odiya dishes and lots of fusion 
 
 The recipe for Bharwan Bhindi/ Gotta Bhendi / Okra stuffed with Chili Garlic goes like this:
 
-[![Gotta Bhendi Bhaja Ingredients](/assets/uploads/2015/05/DSC_3560.jpg)](/assets/uploads/2015/05/DSC_3560.jpg)
+[](/assets/uploads/2015/05/DSC_3560.jpg)
+
+![Gotta Bhendi Bhaja Ingredients](/assets/uploads/2015/05/DSC_3560.jpg)
 
 Gotta Bhendi Bhaja Ingredients
 
@@ -42,7 +45,9 @@ Gotta Bhendi Bhaja Ingredients
 3. Wash the Okra/ Ladies finger and make a slit in one face of it, ensuring it stays whole.
 4. Stuff the chili garlic paste within the Okra.
    
-  [![Gotta Bhendi Bhaja Preparation](/assets/uploads/2015/05/DSC_3593.jpg)](/assets/uploads/2015/05/DSC_3593.jpg)
+[](/assets/uploads/2015/05/DSC_3593.jpg)
+
+![Gotta Bhendi Bhaja Preparation](/assets/uploads/2015/05/DSC_3593.jpg)
 
 Gotta Bhendi Bhaja Preparation
 5. Heat a pan, add 1tbsp mustard oil, preferably, else if you don't have mustard oil, vegetable oil is well and good.

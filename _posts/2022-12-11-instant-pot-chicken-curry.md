@@ -38,13 +38,27 @@ And the chicken curry has established itself as a regular fixture for weeknight 
 ## Steps of Preparation:
 
 1. Keep the Instant Pot in "Saute Mode" for 2 mins,  add the mustard oil and add the whole spices ( cumin seeds, whole red chillies, bay leaves, cinnamon stick, cardamom pods and whole pepper corns) and saute for 1 min.
-2. Then add the finely sliced onions and saute till its wilted or slightly brown in color. ![](/assets/uploads/2022/12/IMG_3421-scaled.jpg)
-3. Add the crushed Ginger Garlic paste and saute until the raw smell goes away. ![](/assets/uploads/2022/12/IMG_3425-scaled.jpg)
-4. Then add the chicken pieces and saute it, throw in all the powdered spices (cumin, coriander, red chilli and turmeric) saute for a minute. ![](/assets/uploads/2022/12/IMG_3428-scaled.jpg) ![](/assets/uploads/2022/12/IMG_3430-scaled.jpg)
-5. Add a cup of water and the potatoes and pressure cook for 7 mins. ![](/assets/uploads/2022/12/IMG_3434-scaled.jpg)
+2. Then add the finely sliced onions and saute till its wilted or slightly brown in color.
+
+![](/assets/uploads/2022/12/IMG_3421-scaled.jpg)
+
+3. Add the crushed Ginger Garlic paste and saute until the raw smell goes away.
+
+![](/assets/uploads/2022/12/IMG_3425-scaled.jpg)
+
+4. Then add the chicken pieces and saute it, throw in all the powdered spices (cumin, coriander, red chilli and turmeric) saute for a minute.
+
+![](/assets/uploads/2022/12/IMG_3428-scaled.jpg)
+
+![](/assets/uploads/2022/12/IMG_3430-scaled.jpg)
+
+5. Add a cup of water and the potatoes and pressure cook for 7 mins.
+
+![](/assets/uploads/2022/12/IMG_3434-scaled.jpg)
+
 6. After it's cooked let the pressure release naturally or wait atleast for 14-15 mins before releasing it manually.
 
-  ![Completed Instant Pot Chicken Curry](/assets/uploads/2022/12/IMG_3442-scaled.jpg)
+![Completed Instant Pot Chicken Curry](/assets/uploads/2022/12/IMG_3442-scaled.jpg)
 
 Completed Instant Pot Chicken Curry
 

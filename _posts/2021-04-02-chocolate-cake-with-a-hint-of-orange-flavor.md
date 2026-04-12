@@ -16,6 +16,7 @@ image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
 listing_summary: "This Chocolate Cake is a small cake for a family of three to celebrate occasions. The chocolate flavor is elevated through the orange syrup and topped with candied oranges to impose the citrusy flavor."
 listing_image: "/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg"
 ---
+
 ![chocolate-cake-with-a-hint-of-orange-flavor image](/assets/uploads/2021/04/DSC0639-scaled-e1617379975640.jpg)
 
 Birthdays are remarkable, and they're even more so when it's your child's. When the entire state of Texas was struck by a snowstorm a few months ago, my little man turned five. We were fortunate to have the power (though there was still the feeling that it could be taken away at any time), and there were so many close friends and family members, without power. Since the little fella requested a chocolate cake, and I am not a huge fan of chocolate cake, I decided to add some flavor enhancements. I discovered some oranges in the fruit basket, which greatly aided the chocolate cake's flavor growth. I enlisted the help of my friend Nicky ([themuffinbowl](https://www.instagram.com/themuffinbowl/)), an incredible baker who came to my rescue and gave me the courage to finish the job. Chatting with her and [baking](https://cookspan.com/category/baking/) the cake was almost a cakewalk. Following is the recipe for Chocolate Cake with a hint of Orange Flavor.

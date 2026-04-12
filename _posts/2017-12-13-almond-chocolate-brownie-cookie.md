@@ -16,13 +16,16 @@ image: "/assets/uploads/2017/12/DSC_3738.jpg"
 listing_summary: "Almond Chocolate Brownie cookie is a perfect cookie, which tastes like brownie having crispy edges. The dough is considerably thinner than general cookie. This can be enjoyed with a glass of milk or a cup of cappuccino."
 listing_image: "/assets/uploads/2017/12/DSC_3738.jpg"
 ---
+
 ![almond-chocolate-brownie-cookie image](/assets/uploads/2017/12/DSC_3738.jpg)
 
 The Holiday season has begun. The neighborhood is decked up with tons and tons of lights. The evenings are bright and colorful. Last weekend we had a small trip to the city of San Antonio, we enjoyed the river walk with a millions of light dazzling high above. Though the trip was a bit hectic, my little one had enough enthusiasm to stay up late till midnight to enjoy this amazing river drive. The city was beautifully ornamented with lots of colorful light, giving happiness to the eyes and heart.
 
 All these celebrations around made me crave for the Christmas special cookies while the other half of me was craving for some brownies. The help came from Gemma Stafford's [youtube](https://www.youtube.com/channel/UCB9IPcQ_x8dO66s1Y9FZUDg) channel "[Bigger Bolder Baking](https://www.biggerbolderbaking.com/)", that aided me a lot to bake Brownie cookies. The beauty of this cookie is that with just a few ingredients you get a crunchy outer layer and a soft inner core, which indeed turned out to be a hit with both my boys. And not to mention it was all gone in no time.
 
-[![Almond Choco Brownie Cookie](/assets/uploads/2017/12/DSC_3750.jpg)](/assets/uploads/2017/12/DSC_3750.jpg)
+[](/assets/uploads/2017/12/DSC_3750.jpg)
+
+![Almond Choco Brownie Cookie](/assets/uploads/2017/12/DSC_3750.jpg)
 
 Almond Choco Brownie Cookie
 
@@ -34,11 +37,15 @@ Here goes the recipe of the Almond-chocolate brownie cookie:
 
 ## Ingredients:
 
-[![Crushed Almonds](/assets/uploads/2017/12/DSC_3689.jpg)](/assets/uploads/2017/12/DSC_3689.jpg)
+[](/assets/uploads/2017/12/DSC_3689.jpg)
+
+![Crushed Almonds](/assets/uploads/2017/12/DSC_3689.jpg)
 
 Crushed Almonds
 
-[![Unsalted Butter](/assets/uploads/2017/12/DSC_3695.jpg)](/assets/uploads/2017/12/DSC_3695.jpg)
+[](/assets/uploads/2017/12/DSC_3695.jpg)
+
+![Unsalted Butter](/assets/uploads/2017/12/DSC_3695.jpg)
 
 Unsalted Butter
 
@@ -57,46 +64,64 @@ Unsalted Butter
 
 1. Cream the butter, sugar mixture (white and brown) and Vanilla Extract using a electric mixer for 2-3 mins.
    
-  [![Molten Butter, Brown and White Sugar](/assets/uploads/2017/12/DSC_3698.jpg)](/assets/uploads/2017/12/DSC_3698.jpg)
+[](/assets/uploads/2017/12/DSC_3698.jpg)
+
+![Molten Butter, Brown and White Sugar](/assets/uploads/2017/12/DSC_3698.jpg)
 
 Molten Butter, Brown and White Sugar
    
-  [![Creaming the Sugar and Butter](/assets/uploads/2017/12/DSC_3704.jpg)](/assets/uploads/2017/12/DSC_3704.jpg)
+[](/assets/uploads/2017/12/DSC_3704.jpg)
+
+![Creaming the Sugar and Butter](/assets/uploads/2017/12/DSC_3704.jpg)
 
 Creaming the Sugar and Butter
 2. Then add the eggs and beat it for 2 mins, until the mixture is nice and fluffy.
    
-  [![Adding the Egg](/assets/uploads/2017/12/DSC_3708.jpg)](/assets/uploads/2017/12/DSC_3708.jpg)
+[](/assets/uploads/2017/12/DSC_3708.jpg)
+
+![Adding the Egg](/assets/uploads/2017/12/DSC_3708.jpg)
 
 Adding the Egg
    
-  [![Adding the Egg](/assets/uploads/2017/12/DSC_3710.jpg)](/assets/uploads/2017/12/DSC_3710.jpg)
+[](/assets/uploads/2017/12/DSC_3710.jpg)
+
+![Adding the Egg](/assets/uploads/2017/12/DSC_3710.jpg)
 
 Adding the Egg
 3. Sieve the dry ingredients (Baking soda, almond flour, Cocoa and salt) and mix it into the wet mixture. Add some crushed almonds for extra crunch.
    
-  [![Adding the Dry Ingredients](/assets/uploads/2017/12/DSC_3715.jpg)](/assets/uploads/2017/12/DSC_3715.jpg)
+[](/assets/uploads/2017/12/DSC_3715.jpg)
+
+![Adding the Dry Ingredients](/assets/uploads/2017/12/DSC_3715.jpg)
 
 Adding the Dry Ingredients
    
-  [![Mixing the Flour](/assets/uploads/2017/12/DSC_3716.jpg)](/assets/uploads/2017/12/DSC_3716.jpg)
+[](/assets/uploads/2017/12/DSC_3716.jpg)
+
+![Mixing the Flour](/assets/uploads/2017/12/DSC_3716.jpg)
 
 Mixing the Flour
    
-  [![The final dough](/assets/uploads/2017/12/DSC_3719.jpg)](/assets/uploads/2017/12/DSC_3719.jpg)
+[](/assets/uploads/2017/12/DSC_3719.jpg)
+
+![The final dough](/assets/uploads/2017/12/DSC_3719.jpg)
 
 The final dough
 4. Freeze the cookie mixture for minimum 30 mins for a firm texture, I froze it overnight and baked them early morning.
 5. Scoop out the cookie dough of the size of 1/8 cup and place it in the cookie sheet over the parchment paper.
    
-  [![Ready to bake](/assets/uploads/2017/12/DSC_3724.jpg)](/assets/uploads/2017/12/DSC_3724.jpg)
+[](/assets/uploads/2017/12/DSC_3724.jpg)
+
+![Ready to bake](/assets/uploads/2017/12/DSC_3724.jpg)
 
 Ready to bake
 6. To get the texture of a brownie cookie which is firm on sides and softer in the core, bake it at 375 F for 10-12 mins.
 
 Enjoy the yum cookie with milk or over a hot cappuccino.
 
-[![Almond Choco Brownie Cookie](/assets/uploads/2017/12/DSC_3753.jpg)](/assets/uploads/2017/12/DSC_3753.jpg)
+[](/assets/uploads/2017/12/DSC_3753.jpg)
+
+![Almond Choco Brownie Cookie](/assets/uploads/2017/12/DSC_3753.jpg)
 
 Almond Choco Brownie Cookie
 

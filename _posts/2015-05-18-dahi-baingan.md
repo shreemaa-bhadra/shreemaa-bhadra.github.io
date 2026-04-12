@@ -28,7 +28,9 @@ This recipe has a great connection with my life. It made me uniquely identified 
 
 The Dahi Baingan recipe goes like this:
 
-[![Dahi Baingan Ingredient](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)
+[](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)
+
+![Dahi Baingan Ingredient](/assets/uploads/2015/05/Dahi-Baingan-Ingredient.jpg)
 
 Dahi Baingan Ingredient
 

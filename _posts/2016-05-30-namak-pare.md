@@ -11,6 +11,7 @@ image: "/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg"
 listing_summary: "Step by step process with pictures to make Namak Pare, Namak Pare is fried or baked salt snack served in the festivities or as a teatime snack."
 listing_image: "/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg"
 ---
+
 ![namak-pare image](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)
 
 Packaged food versus Home cooked food has been in debate for a long time. In most modern Indian family, where both the members are busy working for their targets, packaged food gets a cozy position in the kitchen cabinet. Whereas making home cooked food especially munching snacks looks like a tedious ritual. This was not the case earlier. Every bit of snacks was made at home. And it was stacked in a big airtight container and served for teatime. It was relished with the chit chat sessions. Some snacks were specially prepared during festivals and distributed to all the relatives and friends as a part of goodwill. One such favorite tea time snack is Namak Pare or Nimki or crispy fried-flour chip.
@@ -19,7 +20,9 @@ Packaged food versus Home cooked food has been in debate for a long time. In mos
 
 It is a favorite Holi and Diwali delicacy. The beauty of this dish is that it is a savory snack, that's crispy and is a perfect match for the hot tea at evenings. You can make it in large quantity and store it for a long time in air tight containers. There are many variations that can be prepared with mild addition of flavors to the dough, but I made the simplest one.
 
-[![NAMAK PARE](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)
+[](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)
+
+![NAMAK PARE](/assets/uploads/2016/05/DSC_7338_WITH-TEXT.jpg)
 
 NAMAK PARE
 
@@ -38,28 +41,38 @@ The recipe goes like this:
 1. Take 1 cup of all purpose flour in a wide bottomed vessel.
 2. Add 2 tablespoons of clarified butter.
    
-  [![All Purpose Flour](/assets/uploads/2016/05/DSC_7171-1.jpg)](/assets/uploads/2016/05/DSC_7171-1.jpg)
+[](/assets/uploads/2016/05/DSC_7171-1.jpg)
+
+![All Purpose Flour](/assets/uploads/2016/05/DSC_7171-1.jpg)
 
 All Purpose Flour
 3. Rub the flour along with the clarified butter to bring it to a proper consistency.
 4. Slowly add the water to the flour and knead the dough.
 5. The dough should not be extremely soft  or watery or extremely hard.
    
-  [![Dough](/assets/uploads/2016/05/DSC_7175-1.jpg)](/assets/uploads/2016/05/DSC_7175-1.jpg)
+[](/assets/uploads/2016/05/DSC_7175-1.jpg)
+
+![Dough](/assets/uploads/2016/05/DSC_7175-1.jpg)
 
 Dough
 6. Divide the dough into 2-3 balls and roll into a large round shape.
    
-  [![Dough](/assets/uploads/2016/05/DSC_7240-1.jpg)](/assets/uploads/2016/05/DSC_7240-1.jpg)
+[](/assets/uploads/2016/05/DSC_7240-1.jpg)
+
+![Dough](/assets/uploads/2016/05/DSC_7240-1.jpg)
 
 Dough
    
-  [![Dough rolled into a round shape](/assets/uploads/2016/05/DSC_7242-1.jpg)](/assets/uploads/2016/05/DSC_7242-1.jpg)
+[](/assets/uploads/2016/05/DSC_7242-1.jpg)
+
+![Dough rolled into a round shape](/assets/uploads/2016/05/DSC_7242-1.jpg)
 
 Dough rolled into a round shape
 7. Cut the round shaped dough into diamond shape.
    
-  [![Cut into Diamond Shape](/assets/uploads/2016/05/DSC_7270-1.jpg)](/assets/uploads/2016/05/DSC_7270-1.jpg)
+[](/assets/uploads/2016/05/DSC_7270-1.jpg)
+
+![Cut into Diamond Shape](/assets/uploads/2016/05/DSC_7270-1.jpg)
 
 Cut into Diamond Shape
    
@@ -69,20 +82,28 @@ Cut into Diamond Shape
    
 8. Take a wide bottomed vessel, heat the vegetable oil or clarified butter in it.
    
-  [![Heating the Oil in the Pan](/assets/uploads/2016/05/DSC_7216-1.jpg)](/assets/uploads/2016/05/DSC_7216-1.jpg)
+[](/assets/uploads/2016/05/DSC_7216-1.jpg)
+
+![Heating the Oil in the Pan](/assets/uploads/2016/05/DSC_7216-1.jpg)
 
 Heating the Oil in the Pan
 9. Fry the diamond shaped in the hot oil till golden brown. Stain the excessive oil and sprinkle salt and chili powder and store it for teatime snacks.
    
-  [![Frying the diamond shape](/assets/uploads/2016/05/DSC_7281-1.jpg)](/assets/uploads/2016/05/DSC_7281-1.jpg)
+[](/assets/uploads/2016/05/DSC_7281-1.jpg)
+
+![Frying the diamond shape](/assets/uploads/2016/05/DSC_7281-1.jpg)
 
 Frying the diamond shape
    
-  [![Frying the diamond shape till golden brown](/assets/uploads/2016/05/DSC_7289-2.jpg)](/assets/uploads/2016/05/DSC_7289-2.jpg)
+[](/assets/uploads/2016/05/DSC_7289-2.jpg)
+
+![Frying the diamond shape till golden brown](/assets/uploads/2016/05/DSC_7289-2.jpg)
 
 Frying the diamond shape till golden brown
    
-  [![Seasoning it with Salt and Chili Powder](/assets/uploads/2016/05/DSC_7306-1.jpg)](/assets/uploads/2016/05/DSC_7306-1.jpg)
+[](/assets/uploads/2016/05/DSC_7306-1.jpg)
+
+![Seasoning it with Salt and Chili Powder](/assets/uploads/2016/05/DSC_7306-1.jpg)
 
 Seasoning it with Salt and Chili Powder
 

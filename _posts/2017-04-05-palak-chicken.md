@@ -15,13 +15,16 @@ image: "/assets/uploads/2017/04/DSC_0924.jpg"
 listing_summary: "Palak Chicken or Chicken cooked in Spinach Gravy is an Indian curry served as a main course with flattened bread and is generally subtle in its flavors with a high index of nutrition and health."
 listing_image: "/assets/uploads/2017/04/DSC_0924.jpg"
 ---
+
 ![palak-chicken image](/assets/uploads/2017/04/DSC_0924.jpg)
 
 Sundays are special and they are meant to be enjoyed with special food. Furthermore, with the whole family back on couch, lazing around with TV and browsing tons of movies, you can't miss the yummy non veg delights. In addition, this Sunday was going to be chicken Sunday. We didn't want the Chicken cooked with tons of Indian spices, rather we settled for the Palak Chicken cause our fridge was overloaded with spinach.
 
 The restaurant version of this dish is loaded with heavy cream, but I substituted with yogurt, which consequently gives that creamy texture and avoid tons of unwanted calories. The dish is best accompanied with Chapati or Plain Paratha or Naan. I personally don't like it much with rice. The dish is loaded with greens like Spinach but you can add other varieties of greens like Kale or Mustard Greens.
 
-[![Palak Chicken or Chicken cooked in Spinach Gravy](/assets/uploads/2017/04/DSC_0921.jpg)](/assets/uploads/2017/04/DSC_0921.jpg)
+[](/assets/uploads/2017/04/DSC_0921.jpg)
+
+![Palak Chicken or Chicken cooked in Spinach Gravy](/assets/uploads/2017/04/DSC_0921.jpg)
 
 Palak Chicken or Chicken cooked in Spinach Gravy
 
@@ -64,7 +67,9 @@ Palak Chicken or Chicken cooked in Spinach Gravy
 8. Add the green puree and cook for 5-7 mins, till all the raw flavor goes off.
 9. Add a pinch of turmeric and salt and cook for 2-3 mins.
 
-[![Palak Chicken served with Chapati](/assets/uploads/2017/04/DSC_0924.jpg)](/assets/uploads/2017/04/DSC_0924.jpg)
+[](/assets/uploads/2017/04/DSC_0924.jpg)
+
+![Palak Chicken served with Chapati](/assets/uploads/2017/04/DSC_0924.jpg)
 
 Palak Chicken served with Chapati
 

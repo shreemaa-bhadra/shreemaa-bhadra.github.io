@@ -15,6 +15,7 @@ image: "/assets/uploads/2017/01/DSC_0018.jpg"
 listing_summary: "Aloo Chop is a pillowy fritter made up of chickpea flour stuffed with a spicy potato. It's an amazing street food found in almost all corners of India."
 listing_image: "/assets/uploads/2017/01/DSC_0018.jpg"
 ---
+
 ![aloo-chop-or-batata-vada image](/assets/uploads/2017/01/DSC_0018.jpg)
 
 Staying away from home always pulls you into nostalgia. Recently, I received an invitation for one of my close friend's wedding. But staying miles away from home and that too with an infant made it impossible for me to attend. Odiya marriage, like any other Indian marriage is an event filled with a sea of colors alongside never ending rituals, fun and loads of emotional dramas. All these pulled me back to sit back and see my own wedding photos. I was really drawn seeing my family. Every photo spoke thousands of emotion. There were people who I wanted to be with, there were close friends, family and so many unknown faces where I had to impose a known smile.
@@ -23,7 +24,9 @@ There were many people from my side whom my husband had met only once. I was giv
 
 Aloo Chop, as it's famously known as in [Odisha](http://cookspan.com/category/odiya/) and [Bengal](http://cookspan.com/category/bengali/) is spicy mashed potato coated with a thick layer of chickpea flour batter and fried generously with oil. It's known as Batata Vada in Maharashtra and Aloo Bonda in [Southern](http://cookspan.com/category/south-indian/) parts of India. The best part of the dish is when you munch it, the pillowy chickpea floor coating discloses a sudden burst of flavors. Loads of spices, nuts and the very favorite potato. I remember in my childhood days the roadside vendor use to pack them with some fried green chilies and raw onion rings with a sprinkle of black salt.
 
-[![Another angle to the served plate](/assets/uploads/2017/01/DSC_9999.jpg)](/assets/uploads/2017/01/DSC_9999.jpg)
+[](/assets/uploads/2017/01/DSC_9999.jpg)
+
+![Another angle to the served plate](/assets/uploads/2017/01/DSC_9999.jpg)
 
 Another angle to the served plate
 
@@ -49,7 +52,9 @@ And the recipe goes like this:
 14. Salt - According to the taste
 15. Vegetable Oil or Mustard Oil - 2 tbsp
    
-  [![Ingredients for Filing ](/assets/uploads/2017/01/DSC_9946.jpg)](/assets/uploads/2017/01/DSC_9946.jpg)
+[](/assets/uploads/2017/01/DSC_9946.jpg)
+
+![Ingredients for Filing ](/assets/uploads/2017/01/DSC_9946.jpg)
 
 Ingredients for Filing
 
@@ -70,55 +75,77 @@ Ingredients for Filing
 
 1. Boil the potatoes, after it cools down, peel off and mash it.
    
-  [![Boiled Potatoes](/assets/uploads/2017/01/DSC_9928.jpg)](/assets/uploads/2017/01/DSC_9928.jpg)
+[](/assets/uploads/2017/01/DSC_9928.jpg)
+
+![Boiled Potatoes](/assets/uploads/2017/01/DSC_9928.jpg)
 
 Boiled Potatoes
    
-  [![Mashed Potatoes](/assets/uploads/2017/01/DSC_9950.jpg)](/assets/uploads/2017/01/DSC_9950.jpg)
+[](/assets/uploads/2017/01/DSC_9950.jpg)
+
+![Mashed Potatoes](/assets/uploads/2017/01/DSC_9950.jpg)
 
 Mashed Potatoes
 2. Heat a pan, add 2tbsp vegetable oil or mustard oil to it. I've used vegetable oil here.
    
-  [![Heating oil in the Pan](/assets/uploads/2017/01/DSC_9952.jpg)](/assets/uploads/2017/01/DSC_9952.jpg)
+[](/assets/uploads/2017/01/DSC_9952.jpg)
+
+![Heating oil in the Pan](/assets/uploads/2017/01/DSC_9952.jpg)
 
 Heating oil in the Pan
 3. After the oil is heated up, add cumin seeds and let it splutter.
    
-  [![Tampering with Cumin Seeds](/assets/uploads/2017/01/DSC_9953.jpg)](/assets/uploads/2017/01/DSC_9953.jpg)
+[](/assets/uploads/2017/01/DSC_9953.jpg)
+
+![Tampering with Cumin Seeds](/assets/uploads/2017/01/DSC_9953.jpg)
 
 Tampering with Cumin Seeds
 4. Add the finely chopped green chilies and saute it.
    
-  [![Adding Green chilies](/assets/uploads/2017/01/DSC_9955.jpg)](/assets/uploads/2017/01/DSC_9955.jpg)
+[](/assets/uploads/2017/01/DSC_9955.jpg)
+
+![Adding Green chilies](/assets/uploads/2017/01/DSC_9955.jpg)
 
 Adding Green chilies
 5. To the mixture, add the grated ginger and grated garlic and saute it till the raw flavors goes away.
    
-  [![Adding grated Ginger and Garlic ](/assets/uploads/2017/01/DSC_9956.jpg)](/assets/uploads/2017/01/DSC_9956.jpg)
+[](/assets/uploads/2017/01/DSC_9956.jpg)
+
+![Adding grated Ginger and Garlic ](/assets/uploads/2017/01/DSC_9956.jpg)
 
 Adding grated Ginger and Garlic
 6. Add the chopped onion and cook it till it turns golden.
    
-  [![Adding the onions to fry](/assets/uploads/2017/01/DSC_9959.jpg)](/assets/uploads/2017/01/DSC_9959.jpg)
+[](/assets/uploads/2017/01/DSC_9959.jpg)
+
+![Adding the onions to fry](/assets/uploads/2017/01/DSC_9959.jpg)
 
 Adding the onions to fry
 7. To the mixture, add the dry spices (cumin powder, coriander powder, red chili powder and turmeric powder) and cook it.
    
-  [![Adding dry spices to the mixture](/assets/uploads/2017/01/DSC_9985.jpg)](/assets/uploads/2017/01/DSC_9985.jpg)
+[](/assets/uploads/2017/01/DSC_9985.jpg)
+
+![Adding dry spices to the mixture](/assets/uploads/2017/01/DSC_9985.jpg)
 
 Adding dry spices to the mixture
 8. Add the mashed potato and boiled yellow peas to the mixture and cook till the spices are coated evenly with the potato. Some people add roasted peanuts but my hubby asked to exclude it.
    
-  [![Adding Potatoes and mixing the spices](/assets/uploads/2017/01/DSC_9988.jpg)](/assets/uploads/2017/01/DSC_9988.jpg)
+[](/assets/uploads/2017/01/DSC_9988.jpg)
+
+![Adding Potatoes and mixing the spices](/assets/uploads/2017/01/DSC_9988.jpg)
 
 Adding Potatoes and mixing the spices
 9. Put the pan off the flames. Once the mixture cools down add the mango ginger or white turmeric and coriander leaves to make it more aromatic and add freshness to the taste.
    
-  [![Adding Mango Ginger or white turmeric](/assets/uploads/2017/01/DSC_9989.jpg)](/assets/uploads/2017/01/DSC_9989.jpg)
+[](/assets/uploads/2017/01/DSC_9989.jpg)
+
+![Adding Mango Ginger or white turmeric](/assets/uploads/2017/01/DSC_9989.jpg)
 
 Adding Mango Ginger or white turmeric
    
-  [![Adding Corriander Leaves](/assets/uploads/2017/01/DSC_9991.jpg)](/assets/uploads/2017/01/DSC_9991.jpg)
+[](/assets/uploads/2017/01/DSC_9991.jpg)
+
+![Adding Corriander Leaves](/assets/uploads/2017/01/DSC_9991.jpg)
 
 Adding Coriander Leaves
 
@@ -126,17 +153,23 @@ Adding Coriander Leaves
 
 1. Sieve the chickpea flour or _besan_ to avoid the lumps.
    
-  [![Seiving the Chickpea Flour](/assets/uploads/2017/01/DSC_9958.jpg)](/assets/uploads/2017/01/DSC_9958.jpg)
+[](/assets/uploads/2017/01/DSC_9958.jpg)
+
+![Seiving the Chickpea Flour](/assets/uploads/2017/01/DSC_9958.jpg)
 
 Seiving the Chickpea Flour
 2. Add the rest dry ingredients i.e. Baking soda, salt and Red chili powder.
    
-  [![Adding dry ingredients to the Chickpea Flour](/assets/uploads/2017/01/DSC_9962.jpg)](/assets/uploads/2017/01/DSC_9962.jpg)
+[](/assets/uploads/2017/01/DSC_9962.jpg)
+
+![Adding dry ingredients to the Chickpea Flour](/assets/uploads/2017/01/DSC_9962.jpg)
 
 Adding dry ingredients to the Chickpea Flour
 3. Add water and beat the mixture to a smooth and thick consistency.
    
-  [![Making the Batter](/assets/uploads/2017/01/DSC_9979.jpg)](/assets/uploads/2017/01/DSC_9979.jpg)
+[](/assets/uploads/2017/01/DSC_9979.jpg)
+
+![Making the Batter](/assets/uploads/2017/01/DSC_9979.jpg)
 
 Making the Batter
 
@@ -144,22 +177,30 @@ Making the Batter
 
 1. Make small sized balls of the potato mix and press it to a flat disc shape.
    
-  [![Potato Filing Disc](/assets/uploads/2017/01/DSC_9993.jpg)](/assets/uploads/2017/01/DSC_9993.jpg)
+[](/assets/uploads/2017/01/DSC_9993.jpg)
+
+![Potato Filing Disc](/assets/uploads/2017/01/DSC_9993.jpg)
 
 Potato Filing Disc
 2. Dip the potato discs into the chickpea batter and let it, deep fry till golden brown on both sides.
    
-  [![Dipping in the Batter](/assets/uploads/2017/01/DSC_9995.jpg)](/assets/uploads/2017/01/DSC_9995.jpg)
+[](/assets/uploads/2017/01/DSC_9995.jpg)
+
+![Dipping in the Batter](/assets/uploads/2017/01/DSC_9995.jpg)
 
 Dipping in the Batter
    
-  [![Frying it in the oil](/assets/uploads/2017/01/DSC_9997.jpg)](/assets/uploads/2017/01/DSC_9997.jpg)
+[](/assets/uploads/2017/01/DSC_9997.jpg)
+
+![Frying it in the oil](/assets/uploads/2017/01/DSC_9997.jpg)
 
 Frying it in the oil
 
 Enjoy the hot Aloo chop with your favorite chutney.
 
-[![Aloo Chop Served with Onion and Green chilies](/assets/uploads/2017/01/DSC_0018.jpg)](/assets/uploads/2017/01/DSC_0018.jpg)
+[](/assets/uploads/2017/01/DSC_0018.jpg)
+
+![Aloo Chop Served with Onion and Green chilies](/assets/uploads/2017/01/DSC_0018.jpg)
 
 Aloo Chop Served with Onion and Green chilies
 

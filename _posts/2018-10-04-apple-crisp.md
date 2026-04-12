@@ -9,6 +9,7 @@ image: "/assets/uploads/2018/10/IMG_3948.jpg"
 listing_summary: "Apple Crisp is a perfect Fall Dessert with juicy apple flavored with spices stuffed underneath buttery crisp crust of oats and flour to give that extra crunch, best when enjoyed with ice cream."
 listing_image: "/assets/uploads/2018/10/IMG_3948.jpg"
 ---
+
 ![apple-crisp image](/assets/uploads/2018/10/IMG_3948.jpg)
 
 We had crazy fun in picking the apples this year. As the little man is growing, his interest in exploring the nature is increasing. He wants to be away from the home and have fun. And this year, he thoroughly enjoyed apple picking and was excited to see so many of them. Biting the freshest of the fruit is the joy of fruit picking. The little one was insisting on pie baking, but I wanted an easy recipe to accomplish my sweet tooth and also there was ice cream sitting on the freezer corner. So, I planned a small batch of apple crisp.
@@ -56,30 +57,33 @@ Ingredients
 
 1. In a mixing bowl, add all the topping ingredients and mix the entire mixture.
    
-  ![Topping to be prepared](/assets/uploads/2018/10/IMG_3891.jpg)
+![Topping to be prepared](/assets/uploads/2018/10/IMG_3891.jpg)
 
 Topping to be prepared
 2. Mix the butter with the flour and other dry ingredients to form a crumb.
    
-  ![Making the topping](/assets/uploads/2018/10/IMG_3894.jpg)
+![Making the topping](/assets/uploads/2018/10/IMG_3894.jpg)
 
 Making the topping
 3. Freeze the topping while making the filling.
    
-  ![Freezing the topping](/assets/uploads/2018/10/IMG_3902.jpg)
+![Freezing the topping](/assets/uploads/2018/10/IMG_3902.jpg)
 
 Freezing the topping
 
 ### Steps of Preparation of Filling:
 
-1. Peel and chop the apples to medium sized cubes. ![](/assets/uploads/2018/10/IMG_3903.jpg)
+1. Peel and chop the apples to medium sized cubes.
+
+![](/assets/uploads/2018/10/IMG_3903.jpg)
+
 2. Add all the other ingredients and gently toss it.
    
-  ![Ingredients for filling](/assets/uploads/2018/10/IMG_3909.jpg)
+![Ingredients for filling](/assets/uploads/2018/10/IMG_3909.jpg)
 
 Ingredients for filling
    
-  ![The Filling](/assets/uploads/2018/10/IMG_3910.jpg)
+![The Filling](/assets/uploads/2018/10/IMG_3910.jpg)
 
 The Filling
 
@@ -87,22 +91,22 @@ The Filling
 
 1. Grease a small baking tray with butter or cooking oil spray.
    
-  ![Greasing the baking tray](/assets/uploads/2018/10/IMG_3912.jpg)
+![Greasing the baking tray](/assets/uploads/2018/10/IMG_3912.jpg)
 
 Greasing the baking tray
 2. Add the filling to it.
    
-  ![Adding the filling to the baking tray](/assets/uploads/2018/10/IMG_3915.jpg)
+![Adding the filling to the baking tray](/assets/uploads/2018/10/IMG_3915.jpg)
 
 Adding the filling to the baking tray
 3. Then spread the Topping mixture.
    
-  ![The filling and topping](/assets/uploads/2018/10/IMG_3920.jpg)
+![The filling and topping](/assets/uploads/2018/10/IMG_3920.jpg)
 
 The filling and topping
 4. Bake it for 20-25 mins at 350 F until the crust changes to a golden brown color.
    
-  ![It's Baking](/assets/uploads/2018/10/IMG_3923.jpg)
+![It's Baking](/assets/uploads/2018/10/IMG_3923.jpg)
 
 It's Baking
 

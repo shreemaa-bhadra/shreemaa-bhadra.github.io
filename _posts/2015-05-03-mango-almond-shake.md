@@ -17,6 +17,7 @@ image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
 listing_summary: "Mango Shake is a refreshing drink for the summer. It's seasonal and the creamy pulpy texture is like a light bite and fills your stomach and loads you with nutrients."
 listing_image: "/assets/uploads/2015/05/Mango_almond_shake_02.jpg"
 ---
+
 ![mango-almond-shake image](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
 
 Sunny Sunday Morning! A late wake up, and a growling stomach.
@@ -37,7 +38,9 @@ The recipe of Mango Shake with the almond twist goes like this:
 4. Ice cubes- 3-4
 5. Sugar - based on the taste (preferably 2 tbsp)
 
-[![Yummy Mangoes](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)
+[](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)
+
+![Yummy Mangoes](/assets/uploads/2015/05/Mango_almond_shake_01.jpg)
 
 Yummy Mangoes
 
@@ -49,7 +52,9 @@ Yummy Mangoes
 4. Grind for 2-3 mins till it's properly mixed into a smoothie.
 5. After its blended smoothly, transfer it in a glass and garnish with the finely chopped almonds.
 
-[![Mango Shake with Almost Twist](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
+[](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
+
+![Mango Shake with Almost Twist](/assets/uploads/2015/05/Mango_almond_shake_02.jpg)
 
 Mango Shake with Almost Twist
 

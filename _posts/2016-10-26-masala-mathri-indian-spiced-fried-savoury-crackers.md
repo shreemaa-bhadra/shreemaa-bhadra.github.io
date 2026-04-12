@@ -11,6 +11,7 @@ image: "/assets/uploads/2016/10/DSC_9459.jpg"
 listing_summary: "Mathri is a crispy fried snack served during Diwali or at tea time or on a rainy day. This can be enjoyed dipped with some spicy Indian pickle too."
 listing_image: "/assets/uploads/2016/10/DSC_9459.jpg"
 ---
+
 ![masala-mathri-indian-spiced-fried-savoury-crackers image](/assets/uploads/2016/10/DSC_9459.jpg)
 
 ### How to make Masala Mathri/Indian Spiced Fried Savoury Crackers  step wise:
@@ -19,7 +20,9 @@ See, what did I gather for you today? Fall leaves from my backyard! Did you rea
 
 Mathri is a traditional Indian snack which is crispy, either fried or baked. I generously fried them this time as it's Diwali and I didn't want to limit my indulgence. It can be eaten fresh or stored for 2 months when kept in air tight containers. They are a delight to the tea time or can be enjoyed with pickles.
 
-[![Mathri](/assets/uploads/2016/10/DSC_9459.jpg)](/assets/uploads/2016/10/DSC_9459.jpg)
+[](/assets/uploads/2016/10/DSC_9459.jpg)
+
+![Mathri](/assets/uploads/2016/10/DSC_9459.jpg)
 
 Mathri
 
@@ -52,67 +55,91 @@ So here is what I have for my Diwali and Halloween:
 
 1. Sieve the flours (all purpose flour, wheat flour, chickpea flour) in the mixing bowl.
    
-  [![Matri - Step 1](/assets/uploads/2016/10/DSC_9398.jpg)](/assets/uploads/2016/10/DSC_9398.jpg)
+[](/assets/uploads/2016/10/DSC_9398.jpg)
+
+![Matri - Step 1](/assets/uploads/2016/10/DSC_9398.jpg)
 
 Step 1
 2. Crush the dry spices in a mortar pestle or a dry grinder, coarsely and add to the sieved dry flours.
    
-  [![Mathri - Step 2](/assets/uploads/2016/10/DSC_9400.jpg)](/assets/uploads/2016/10/DSC_9400.jpg)
+[](/assets/uploads/2016/10/DSC_9400.jpg)
+
+![Mathri - Step 2](/assets/uploads/2016/10/DSC_9400.jpg)
 
 Step 2
 3. Add the 1/4 cup of the vegetable oil to the dry ingredients and start mixing using your hands so that no lump is created.
    
-  [![Mathri - Step 3](/assets/uploads/2016/10/DSC_9403.jpg)](/assets/uploads/2016/10/DSC_9403.jpg)
+[](/assets/uploads/2016/10/DSC_9403.jpg)
+
+![Mathri - Step 3](/assets/uploads/2016/10/DSC_9403.jpg)
 
 Step 3
    
    
    
-  [![Mathri - Step 4](/assets/uploads/2016/10/DSC_9418.jpg)](/assets/uploads/2016/10/DSC_9418.jpg)
+[](/assets/uploads/2016/10/DSC_9418.jpg)
+
+![Mathri - Step 4](/assets/uploads/2016/10/DSC_9418.jpg)
 
 Step 4
 4. Then add water slowly and knead the dough to make one of a firm consistency.
    
-  [![Mathri - Step 5](/assets/uploads/2016/10/DSC_9421.jpg)](/assets/uploads/2016/10/DSC_9421.jpg)
+[](/assets/uploads/2016/10/DSC_9421.jpg)
+
+![Mathri - Step 5](/assets/uploads/2016/10/DSC_9421.jpg)
 
 Step 5
 5. After the dough is made, cover it and let it rest for around 20 mins.
 6. Then divide the entire dough to around 4 - 5 medium sized balls.
    
-  [![Mathri - Step 6](/assets/uploads/2016/10/DSC_9422.jpg)](/assets/uploads/2016/10/DSC_9422.jpg)
+[](/assets/uploads/2016/10/DSC_9422.jpg)
+
+![Mathri - Step 6](/assets/uploads/2016/10/DSC_9422.jpg)
 
 Step 6
 7. Roll those balls of dough to thick disc or Chapati. Using the cookie cutter scoop out the rolled shapes. You can use any cookie cutter of your choice. Traditionally it's made in a round shape or a flattened conical shape.
    
-  [![Mathri - Step 7](/assets/uploads/2016/10/DSC_9423.jpg)](/assets/uploads/2016/10/DSC_9423.jpg)
+[](/assets/uploads/2016/10/DSC_9423.jpg)
+
+![Mathri - Step 7](/assets/uploads/2016/10/DSC_9423.jpg)
 
 Step 7
    
    
    
-  [![Mathri - Step 8](/assets/uploads/2016/10/DSC_9424.jpg)](/assets/uploads/2016/10/DSC_9424.jpg)
+[](/assets/uploads/2016/10/DSC_9424.jpg)
+
+![Mathri - Step 8](/assets/uploads/2016/10/DSC_9424.jpg)
 
 Step 8
 8. After the cutting in the desired shape, prick with a fork to avoid puffing like a poori.
    
-  [![Mathri - Step 9](/assets/uploads/2016/10/DSC_9432.jpg)](/assets/uploads/2016/10/DSC_9432.jpg)
+[](/assets/uploads/2016/10/DSC_9432.jpg)
+
+![Mathri - Step 9](/assets/uploads/2016/10/DSC_9432.jpg)
 
 Step 9
    
    
    
-  [![Mathri - Step 10](/assets/uploads/2016/10/DSC_9435.jpg)](/assets/uploads/2016/10/DSC_9435.jpg)
+[](/assets/uploads/2016/10/DSC_9435.jpg)
+
+![Mathri - Step 10](/assets/uploads/2016/10/DSC_9435.jpg)
 
 Step 10
 9. Heat the vegetable oil to a low to medium temperature and fry it till it turns golden brown.
    
-  [![Mathri - Step 11](/assets/uploads/2016/10/DSC_9438.jpg)](/assets/uploads/2016/10/DSC_9438.jpg)
+[](/assets/uploads/2016/10/DSC_9438.jpg)
+
+![Mathri - Step 11](/assets/uploads/2016/10/DSC_9438.jpg)
 
 Step 11
    
    
    
-  [![Mathri - Step 12](/assets/uploads/2016/10/DSC_9441.jpg)](/assets/uploads/2016/10/DSC_9441.jpg)
+[](/assets/uploads/2016/10/DSC_9441.jpg)
+
+![Mathri - Step 12](/assets/uploads/2016/10/DSC_9441.jpg)
 
 Step 12
 

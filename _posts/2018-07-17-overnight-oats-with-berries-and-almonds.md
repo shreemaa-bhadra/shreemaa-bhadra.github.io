@@ -10,6 +10,7 @@ image: "/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg"
 listing_summary: "Overnight Oats with Berries and almonds are perfect creamy breakfast bowls to add goodness to your summer breakfast"
 listing_image: "/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg"
 ---
+
 ![overnight-oats-with-berries-and-almonds image](/assets/uploads/2018/07/IMG_0160-e1536561150294.jpg)
 
 Summers are refreshing with so many fruits and berries to choose from. Ever since we moved to the States, berries have gotten a special place in the pantry. Summers are bright and all you want are refreshing cool delights. I eat Oats in the form of Oats chilla, the Indian way or overnight oats with Berries and Almonds. And what better when you can have your summer breakfast in no time with all your favorite berries.

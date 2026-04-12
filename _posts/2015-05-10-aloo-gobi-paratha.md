@@ -16,6 +16,7 @@ image: "/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg"
 listing_summary: "Aloo Gobi Paratha is a north Indian delicacy. It's a form of Indian bread stuffed with spiced cauliflower and Potatoes. The crispy bread is amazing to eat."
 listing_image: "/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg"
 ---
+
 ![aloo-gobi-paratha image](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)
 
 A lazy weekend after five days of bone breaking office weekdays, feels like a pure bliss. The work has taken its toll and both of us are having new learnings and crucial product releases this quarter.
@@ -42,7 +43,9 @@ Here goes the Aloo Gobi Paratha recipe:
 12. Salt - according to the taste
 13. Ghee/Vegetable Oil
    
-  [![Aloo Gobi Paratha Ingredient](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Ingredient.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Ingredient.jpg)
+[](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Ingredient.jpg)
+
+![Aloo Gobi Paratha Ingredient](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Ingredient.jpg)
 
 Aloo Gobi Paratha Ingredients
 
@@ -66,18 +69,24 @@ _**Steps of Preparation for Stuffing:**_
 
 1. Make two medium size balls of the wheat dough as shown in the picture.
    
-  [![Aloo Gobi Paratha Recipe: Step 01](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_01.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_01.jpg)
+[](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_01.jpg)
+
+![Aloo Gobi Paratha Recipe: Step 01](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_01.jpg)
 
 Aloo Gobi Paratha Recipe: Step 01
 2. Roll the two small balls into two small circles (as much we do for Puri's).
 3. Place one small rolled Puri and add the stuffing of 2 tbsp and cover it up with another Puri shaped roll.
    
-  [![Aloo Gobi Paratha Recipe: Step 02](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_02.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_02.jpg)
+[](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_02.jpg)
+
+![Aloo Gobi Paratha Recipe: Step 02](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_02.jpg)
 
 Aloo Gobi Paratha Recipe: Step 02
 4. Close it firmly, so that it is evenly stuffed and then roll it to round shape.
    
-  [![Aloo Gobi Paratha Rolling : Step 03 ](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_03.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_03.jpg)
+[](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_03.jpg)
+
+![Aloo Gobi Paratha Rolling : Step 03 ](/assets/uploads/2015/05/Aloo_Gobi_Paratha_Roll_03.jpg)
 
 Aloo Gobi Paratha Rolling : Step 03
 5. Heat a griddle (tawa), place the rolled paratha.
@@ -87,7 +96,9 @@ Aloo Gobi Paratha Rolling : Step 03
 9. Heat the paratha till it is golden brown.
 10. Serve the yummy paratha's with curd or top it with butter.
    
-  [![Aloo Gobi Paratha](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)
+[](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)
+
+![Aloo Gobi Paratha](/assets/uploads/2015/05/Aloo_Gobi_Paratha.jpg)
 
 Aloo Gobi Paratha
 

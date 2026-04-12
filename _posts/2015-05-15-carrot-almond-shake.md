@@ -16,6 +16,7 @@ image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
 listing_summary: "Carrot Almond Shake is a beautiful juice. It is too cool in taste and assures 100% skin glow and amazing nutrition."
 listing_image: "/assets/uploads/2015/05/Carrot-Almond.jpg"
 ---
+
 ![carrot-almond-shake image](/assets/uploads/2015/05/Carrot-Almond.jpg)
 
 Dates fixed!! Finally the dates are fixed... I am about to marry.. And the timeline seems stricter than any project release.
@@ -45,7 +46,9 @@ The Carrot almond shake recipe goes like this:
 
  
 
-[![Carrot Almond Shake Ingredient](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)
+[](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)
+
+![Carrot Almond Shake Ingredient](/assets/uploads/2015/05/Carrot-Almond-Shake-Ingredient.jpg)
 
 Carrot Almond Shake Ingredient
 
@@ -65,7 +68,9 @@ Carrot Almond Shake Ingredient
 4. Add the sugar and ice cubes and grind it for 1-2 mins.
 5. Then shake would come in lighter orange color.
 
-[![Carrot Almond Shake](/assets/uploads/2015/05/Carrot-Almond.jpg)](/assets/uploads/2015/05/Carrot-Almond.jpg)
+[](/assets/uploads/2015/05/Carrot-Almond.jpg)
+
+![Carrot Almond Shake](/assets/uploads/2015/05/Carrot-Almond.jpg)
 
 Carrot Almond Shake
 

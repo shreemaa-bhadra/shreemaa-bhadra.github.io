@@ -13,6 +13,7 @@ image: "/assets/uploads/2015/06/DSC_3537.jpg"
 listing_summary: "Aloo Baingan Bharta is lightly spiced comfort food which is made out of limited spices and healthy Eggplant. It's a great accomplishment to Chapatis."
 listing_image: "/assets/uploads/2015/06/DSC_3537.jpg"
 ---
+
 ![aloo-baingan-bharta image](/assets/uploads/2015/06/DSC_3537.jpg)
 
 Aloo Baingan Bharta/Mashed Potato - Brinjal
@@ -37,7 +38,9 @@ The Aloo - Baingan Bharta recipe goes like this:
 12. Coriander Powder - 1 tsp
 13. Red chili Powder - 1 tsp
 
-[![Aloo Baingan Bharta Ingredients](/assets/uploads/2015/06/DSC_3518.jpg)](/assets/uploads/2015/06/DSC_3518.jpg)
+[](/assets/uploads/2015/06/DSC_3518.jpg)
+
+![Aloo Baingan Bharta Ingredients](/assets/uploads/2015/06/DSC_3518.jpg)
 
 Aloo Baingan Bharta Ingredients
 
@@ -45,12 +48,16 @@ Aloo Baingan Bharta Ingredients
 
 1. Roast the Eggplant on the gas stove.
    
-  [![Roasting of Eggplant](/assets/uploads/2015/06/DSC_3487.jpg)](/assets/uploads/2015/06/DSC_3487.jpg)
+[](/assets/uploads/2015/06/DSC_3487.jpg)
+
+![Roasting of Eggplant](/assets/uploads/2015/06/DSC_3487.jpg)
 
 Roasting of Eggplant
 2. Peel off the Eggplant once it cools down.
    
-  [![Smoky Eggplant and Boiled Potatoes](/assets/uploads/2015/06/DSC_3500.jpg)](/assets/uploads/2015/06/DSC_3500.jpg)
+[](/assets/uploads/2015/06/DSC_3500.jpg)
+
+![Smoky Eggplant and Boiled Potatoes](/assets/uploads/2015/06/DSC_3500.jpg)
 
 Smoked Eggplant and Boiled Potatoes
 3. Mash the Smoky roasted Eggplant and the potatoes.
@@ -60,12 +67,16 @@ Smoked Eggplant and Boiled Potatoes
 7. Then add the tomatoes and powdered spices (cumin powder, coriander powder, red chili powder) and saute it till the tomatoes are cooked and spices releases oil.
 8. Add the mashed Potato and Eggplant and mix it well with the spices.
    
-  [![Aloo Baingan Bharta](/assets/uploads/2015/06/DSC_3537.jpg)](/assets/uploads/2015/06/DSC_3537.jpg)
+[](/assets/uploads/2015/06/DSC_3537.jpg)
+
+![Aloo Baingan Bharta](/assets/uploads/2015/06/DSC_3537.jpg)
 
 Aloo Baingan Bharta
 9. Cook it for 2-3 minutes and serve it hot with Chapati
 
-[![Aloo Baingan Bharta served with hot Chapatis](/assets/uploads/2015/06/DSC_3551.jpg)](/assets/uploads/2015/06/DSC_3551.jpg)
+[](/assets/uploads/2015/06/DSC_3551.jpg)
+
+![Aloo Baingan Bharta served with hot Chapatis](/assets/uploads/2015/06/DSC_3551.jpg)
 
 Aloo Baingan Bharta served with hot Chapatis
 

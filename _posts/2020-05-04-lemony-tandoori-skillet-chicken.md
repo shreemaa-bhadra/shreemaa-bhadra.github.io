@@ -15,6 +15,7 @@ image: "/assets/uploads/2020/05/DSC_9105-scaled.jpg"
 listing_summary: "Lemony Tandoori Chicken is a light and flavorful chicken is cooked on a skillet for a quick meal served alongside a crunchy salad."
 listing_image: "/assets/uploads/2020/05/DSC_9105-scaled.jpg"
 ---
+
 ![lemony-tandoori-skillet-chicken image](/assets/uploads/2020/05/DSC_9105-scaled.jpg)
 
 Lemony Tandoori Skillet [Chicken](https://cookspan.com/category/non-vegeterian/chicken/) is super easy and they are such a great asset during meal planning. Some days I serve it as a topping to my salad, some times as a primary filling to my wraps, tortillas. Other times I serve it with fresh salads or with roasted veggies. There are even days when I put it the Indian way with Pulao and raita. It also goes well the plain Dal and Rice as a side dish. It can be even be served solely as a main dish
@@ -39,14 +40,14 @@ Here goes the simple recipe:
 
 1. Marinate the chicken with all the ingredients other than the oil listed in the above steps. Marinate for 15 mins.
    
-  ![Marination of the Chicken](/assets/uploads/2020/05/699F0609-96A4-49D5-9092-D15D8784F7A7-scaled.jpg "Marination of chicken")
+![Marination of the Chicken](/assets/uploads/2020/05/699F0609-96A4-49D5-9092-D15D8784F7A7-scaled.jpg "Marination of chicken")
 
 Marination of the Chicken
 2. Take a wide-bottomed skillet, heat it in medium to high flame.
 3. Add the oil.
 4. Cook the chicken for 2-3 mins on each side until it is golden brown from both the sides.
    
-  ![Adding the Chicken to the Skillet](/assets/uploads/2020/05/9FD7B394-B3E8-49DE-9B3A-493985009AAD-scaled.jpg)
+![Adding the Chicken to the Skillet](/assets/uploads/2020/05/9FD7B394-B3E8-49DE-9B3A-493985009AAD-scaled.jpg)
 
 Adding the Chicken to the Skillet
 

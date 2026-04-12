@@ -15,6 +15,7 @@ image: "/assets/uploads/2020/06/IMG_3088-scaled.jpg"
 listing_summary: "Kaju Katli is the Cashew nut fudge, a popular Indian sweet. This is generally available in all Indian sweet shops and traditionally relished during Diwali."
 listing_image: "/assets/uploads/2020/06/IMG_3088-scaled.jpg"
 ---
+
 ![kaju-katli image](/assets/uploads/2020/06/IMG_3088-scaled.jpg)
 
 Kaju Katli or the Cashew Fudge is one of those simplest recipes, which taught me cooking is a perfect amalgamation of science and art. Generally, with my knowledge of taste, I keep thinking at times I can recreate recipes in my first try. But this sweet disappointed me. It disappointed me for not only one time, but three times. I caught it right on the fourth attempt. It taught me the beauty of patience and tasted the fruit of success after multiple failures.
@@ -43,7 +44,9 @@ I tried it and to my surprise, the texture was just right this time. Not too har
 7. Grease a plate with the ghee and transfer the dough and let it cool.
 8. After the dough is kneadable but still warm knead it for few mins.
 9. Roll the dough in between parchment paper to avoid sticking.
-10. Cut the sweets into diamond shapes to retain the traditional shape.![](/assets/uploads/2020/06/IMG_3088-scaled.jpg)
+10. Cut the sweets into diamond shapes to retain the traditional shape.
+
+![](/assets/uploads/2020/06/IMG_3088-scaled.jpg)
 
 The beauty of the sweet is definitely no additional flavors it's only the cashew that speaks loud in this. Do try this beautiful recipe for festivals like Holi and Diwali and sometimes to treat your near and dear ones.
 
