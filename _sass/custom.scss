@@ -167,19 +167,6 @@ body {
   font-family: $system-font-stack;
 }
 
-/* Logo styling */
-.site-logo {
-  height: 50px;
-  width: auto;
-  display: block;
-  margin-right: 1.5rem;
-}
-
-.site-title {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
 /* Remove decorations for visited links */
 a,
 a:visited {
@@ -315,11 +302,11 @@ a:focus {
   line-height: 1.6;
 }
 
-/* Site header logo and title */
-.site-title-wrapper {
-  display: flex;
+/* Site header logo link */
+.site-logo-link {
+  display: inline-flex;
   align-items: center;
-  gap: 1rem;
+  text-decoration: none;
 }
 
 .site-logo {
@@ -327,6 +314,11 @@ a:focus {
   width: auto;
   max-width: 100%;
   display: block;
+  transition: opacity 0.2s ease;
+}
+
+.site-logo-link:hover .site-logo {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 640px) {
