@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Masala Mathri | Indian Spiced Fried Savoury Crackers
-date: '2016-10-26 00:00:00 +0000'
+date: "2016-10-26 00:00:00 +0000"
 categories:
-- snacks
+  - snacks
 tags:
-- diwali
-- prep-more-60mins
+  - diwali
+  - prep-more-60mins
 image: "/assets/uploads/2016/10/DSC_9459.jpg"
 listing_summary: "Mathri is a crispy fried snack served during Diwali or at tea time or on a rainy day. This can be enjoyed dipped with some spicy Indian pickle too."
 listing_image: "/assets/uploads/2016/10/DSC_9459.jpg"
 ---
-
 
 ### How to make Masala Mathri/Indian Spiced Fried Savoury Crackers  step wise:
 
@@ -29,7 +28,7 @@ So here is what I have for my Diwali and Halloween:
 
  
 
-#### \[the\_ad id="355"\]
+####
 
  
 
@@ -53,89 +52,81 @@ So here is what I have for my Diwali and Halloween:
 #### Steps of Preparation:
 
 1. Sieve the flours (all purpose flour, wheat flour, chickpea flour) in the mixing bowl.
-   
+
 [](/assets/uploads/2016/10/DSC_9398.jpg)
 
 ![Matri - Step 1](/assets/uploads/2016/10/DSC_9398.jpg)
 
-Step 1
-2. Crush the dry spices in a mortar pestle or a dry grinder, coarsely and add to the sieved dry flours.
-   
+Step 1 2. Crush the dry spices in a mortar pestle or a dry grinder, coarsely and add to the sieved dry flours.
+
 [](/assets/uploads/2016/10/DSC_9400.jpg)
 
 ![Mathri - Step 2](/assets/uploads/2016/10/DSC_9400.jpg)
 
-Step 2
-3. Add the 1/4 cup of the vegetable oil to the dry ingredients and start mixing using your hands so that no lump is created.
-   
+Step 2 3. Add the 1/4 cup of the vegetable oil to the dry ingredients and start mixing using your hands so that no lump is created.
+
 [](/assets/uploads/2016/10/DSC_9403.jpg)
 
 ![Mathri - Step 3](/assets/uploads/2016/10/DSC_9403.jpg)
 
 Step 3
-   
-   
-   
+
+ 
+
 [](/assets/uploads/2016/10/DSC_9418.jpg)
 
 ![Mathri - Step 4](/assets/uploads/2016/10/DSC_9418.jpg)
 
-Step 4
-4. Then add water slowly and knead the dough to make one of a firm consistency.
-   
+Step 4 4. Then add water slowly and knead the dough to make one of a firm consistency.
+
 [](/assets/uploads/2016/10/DSC_9421.jpg)
 
 ![Mathri - Step 5](/assets/uploads/2016/10/DSC_9421.jpg)
 
-Step 5
-5. After the dough is made, cover it and let it rest for around 20 mins.
-6. Then divide the entire dough to around 4 - 5 medium sized balls.
-   
+Step 5 5. After the dough is made, cover it and let it rest for around 20 mins. 6. Then divide the entire dough to around 4 - 5 medium sized balls.
+
 [](/assets/uploads/2016/10/DSC_9422.jpg)
 
 ![Mathri - Step 6](/assets/uploads/2016/10/DSC_9422.jpg)
 
-Step 6
-7. Roll those balls of dough to thick disc or Chapati. Using the cookie cutter scoop out the rolled shapes. You can use any cookie cutter of your choice. Traditionally it's made in a round shape or a flattened conical shape.
-   
+Step 6 7. Roll those balls of dough to thick disc or Chapati. Using the cookie cutter scoop out the rolled shapes. You can use any cookie cutter of your choice. Traditionally it's made in a round shape or a flattened conical shape.
+
 [](/assets/uploads/2016/10/DSC_9423.jpg)
 
 ![Mathri - Step 7](/assets/uploads/2016/10/DSC_9423.jpg)
 
 Step 7
-   
-   
-   
+
+ 
+
 [](/assets/uploads/2016/10/DSC_9424.jpg)
 
 ![Mathri - Step 8](/assets/uploads/2016/10/DSC_9424.jpg)
 
-Step 8
-8. After the cutting in the desired shape, prick with a fork to avoid puffing like a poori.
-   
+Step 8 8. After the cutting in the desired shape, prick with a fork to avoid puffing like a poori.
+
 [](/assets/uploads/2016/10/DSC_9432.jpg)
 
 ![Mathri - Step 9](/assets/uploads/2016/10/DSC_9432.jpg)
 
 Step 9
-   
-   
-   
+
+ 
+
 [](/assets/uploads/2016/10/DSC_9435.jpg)
 
 ![Mathri - Step 10](/assets/uploads/2016/10/DSC_9435.jpg)
 
-Step 10
-9. Heat the vegetable oil to a low to medium temperature and fry it till it turns golden brown.
-   
+Step 10 9. Heat the vegetable oil to a low to medium temperature and fry it till it turns golden brown.
+
 [](/assets/uploads/2016/10/DSC_9438.jpg)
 
 ![Mathri - Step 11](/assets/uploads/2016/10/DSC_9438.jpg)
 
 Step 11
-   
-   
-   
+
+ 
+
 [](/assets/uploads/2016/10/DSC_9441.jpg)
 
 ![Mathri - Step 12](/assets/uploads/2016/10/DSC_9441.jpg)
@@ -149,4 +140,3 @@ Step 12
   <p><strong>Total time:</strong> 1 hour 30 mins</p>
   <p><strong>Serves:</strong> 10</p>
 </div>
-

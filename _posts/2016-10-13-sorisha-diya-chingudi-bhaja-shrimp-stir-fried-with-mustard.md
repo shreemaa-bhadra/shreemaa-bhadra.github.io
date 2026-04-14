@@ -1,21 +1,20 @@
 ---
 layout: post
 title: Sorisha Diya Chingudi Bhaja | Shrimp/prawn Stir Fried with Mustard
-date: '2016-10-13 00:00:00 +0000'
+date: "2016-10-13 00:00:00 +0000"
 categories:
-- non-vegeterian
-- shrimp
+  - non-vegeterian
+  - shrimp
 tags:
-- easy
-- mustard
-- prep-less-60-mins
-- savoury
-- shrimp
+  - easy
+  - mustard
+  - prep-less-60-mins
+  - savoury
+  - shrimp
 image: "/assets/uploads/2016/10/DSC_9012-1.jpg"
 listing_summary: "It's an easy dry Shirmp recipe, that can be done in no time and goes well as a starter and as a perfect accompaniment to a non-vegetarian Indian Thali."
 listing_image: "/assets/uploads/2016/10/DSC_9012-1.jpg"
 ---
-
 
 How to prepare Chingudi Bhaja or Shrimp stir fried with mustard.
 
@@ -43,8 +42,6 @@ The recipe goes like this:
 6. Salt as per taste
 7. Mustard Oil - 2 tbsp
 
-\[the\_ad id="355"\]
-
 **Steps of preparation:**
 
 1. Prepare the mustard paste. The recipe for the same can be found [here](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/).
@@ -52,28 +49,25 @@ The recipe goes like this:
 3. Marinate it with turmeric and salt and keep it for 30 mins.
 4. Heat a pan and drizzle the mustard oil on the pan.
 5. Temper the oil with chopped green chillies and chopped garlic. Ah! That adds the aroma. Saute it till garlic infuses into the oil.
-   
+
 [](/assets/uploads/2016/10/DSC_8971-1.jpg)
 
 ![Chingudi Besara Bhaja Step 05](/assets/uploads/2016/10/DSC_8971-1.jpg)
 
-Chingudi Besara Bhaja Step 05
-6. To this add the marinated shrimps and cook.
-7. After the shrimps are half done and almost a golden color is visible add the [mustard paste](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) and sprinkle drops of water.
-   
+Chingudi Besara Bhaja Step 05 6. To this add the marinated shrimps and cook. 7. After the shrimps are half done and almost a golden color is visible add the [mustard paste](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) and sprinkle drops of water.
+
 [](/assets/uploads/2016/10/DSC_8979-1.jpg)
 
 ![Chingudi Besara Bhaja Step 07](/assets/uploads/2016/10/DSC_8979-1.jpg)
 
 Chingudi Besara Bhaja Step 07
-   
+
 [](/assets/uploads/2016/10/DSC_8991-1.jpg)
 
 ![Chingudi Besara Bhaja Step 07](/assets/uploads/2016/10/DSC_8991-1.jpg)
 
-Chingudi Besara Bhaja Step 07
-8. Fry these till golden brown and serve it hot!!
-   
+Chingudi Besara Bhaja Step 07 8. Fry these till golden brown and serve it hot!!
+
 [](/assets/uploads/2016/10/DSC_9018-1.jpg)
 
 ![Chingudi Besara Bhaja 02](/assets/uploads/2016/10/DSC_9018-1.jpg)
@@ -87,4 +81,3 @@ Chingudi Besara Bhaja 02
   <p><strong>Total time:</strong> 25 mins</p>
   <p><strong>Serves:</strong> 2</p>
 </div>
-

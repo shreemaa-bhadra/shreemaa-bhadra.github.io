@@ -1,24 +1,23 @@
 ---
 layout: post
 title: Buta Daali Bara or Channa Dal Vada
-date: '2017-04-28 00:00:00 +0000'
+date: "2017-04-28 00:00:00 +0000"
 categories:
-- fritters
-- odia
-- snacks
-- south-indian
-- street-food
-- vegeterian
+  - fritters
+  - odia
+  - snacks
+  - south-indian
+  - street-food
+  - vegeterian
 tags:
-- bengal-gram
-- easy
-- prep-less-60-mins
-- vada
+  - bengal-gram
+  - easy
+  - prep-less-60-mins
+  - vada
 image: "/assets/uploads/2017/04/DSC_1550.jpg"
 listing_summary: "Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time snack."
 listing_image: "/assets/uploads/2017/04/DSC_1550.jpg"
 ---
-
 
 Winter has descended along with its blues and darkness, leaving behind sparkling sunny days of Spring. But something I always miss about winter is the cozy bed, warm quilt and the amazing warm foods. But Spring has its own advantages, tons of sunny days to uplift one's mood.  Colorful flowers and the amazing spring collections that come with floral prints and you girls there can go sleeveless and wear shorts too.
 
@@ -46,29 +45,25 @@ The recipe of the Buta Dali Bara or Chana Dal Vada goes like this:
 
 1. Soak the Split Bengal Gram for 30 mins.
 2. Then in a blender, grind coarsely Split Bengal Gram, Ginger, Garlic and Green Chilies.
-   
+
 [](/assets/uploads/2017/04/DSC_1536.jpg)
 
 ![Batter : Channa Dal, Green Chillies, Ginger, Garlic coarsely ground](/assets/uploads/2017/04/DSC_1536.jpg)
 
-Channa Dal, Green Chilies, Ginger, Garlic coarsely ground
-3. Add salt and turmeric to the grounded mixture.
-4. Then heat the oil in a wide bottomed pan.
-5. Keep the heat to a medium level. After the oil is heated, add small quantities of the mixture in a rounded shape and deep fry them.
-   
+Channa Dal, Green Chilies, Ginger, Garlic coarsely ground 3. Add salt and turmeric to the grounded mixture. 4. Then heat the oil in a wide bottomed pan. 5. Keep the heat to a medium level. After the oil is heated, add small quantities of the mixture in a rounded shape and deep fry them.
+
 [](/assets/uploads/2017/04/DSC_1540.jpg)
 
 ![Making of the roundels before frying](/assets/uploads/2017/04/DSC_1540.jpg)
 
 Making of the roundels before frying
-   
+
 [](/assets/uploads/2017/04/DSC_1542.jpg)
 
 ![Frying the Vada](/assets/uploads/2017/04/DSC_1542.jpg)
 
-Frying the Vada
-6. After the roundels turn golden brown, strain the excess oil and keep the fritters in the paper towel.
-   
+Frying the Vada 6. After the roundels turn golden brown, strain the excess oil and keep the fritters in the paper towel.
+
 [](/assets/uploads/2017/04/DSC_1543.jpg)
 
 ![The hot Golden Brown Vada](/assets/uploads/2017/04/DSC_1543.jpg)
@@ -76,8 +71,6 @@ Frying the Vada
 The hot Golden Brown Vada
 
  
-
-\[the\_ad id="355"\]
 
  
 
@@ -94,4 +87,3 @@ Vada dunked in Chutney
   <p><strong>Total time:</strong> 50 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

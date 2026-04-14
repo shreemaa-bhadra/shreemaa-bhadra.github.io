@@ -1,23 +1,22 @@
 ---
 layout: post
 title: Crunchy Apple Smoothie
-date: '2015-05-01 00:00:00 +0000'
+date: "2015-05-01 00:00:00 +0000"
 categories:
-- juices
-- milkshakes
-- smoothie
+  - juices
+  - milkshakes
+  - smoothie
 tags:
-- apple
-- cashew-nuts
-- corn-flakes
-- milk
-- prep-10-mins
-- refresher
+  - apple
+  - cashew-nuts
+  - corn-flakes
+  - milk
+  - prep-10-mins
+  - refresher
 image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 listing_summary: "The Crunchy apple smoothie is a refresher and a relief drink during summers. The creamy blend of apple, milk and cashew nuts feels like heaven."
 listing_image: "/assets/uploads/2015/05/Crunchy_Apple_Smoothie_02.jpg"
 ---
-
 
 Summer !! Summer !!
 
@@ -35,8 +34,6 @@ An apple a day keeps the doctor away !! But if the doctor is handsome throw it
 Huh !! No option to take a glance at the doc when your husband is on the way !!
 
 All these mischiefs and fun lead to the amazing discovery of Crunchy Apple Smoothie. Eureka !!
-
-\[the\_ad id="355"\]
 
 The Crunchy Apple Recipe goes like this:
 
@@ -59,9 +56,9 @@ Ingredients of Crunchy Apple Smoothie
 
 ## Steps of Preparation:
 
-1. Peel off the apple and cut into medium sized cubes.
-2.  In the juicer grind the apple, cold milk, cashew nuts, sugar and ice-cubes till it's mixed properly into a thick smoothie.
-3. Serve the smoothie topping it with the corn flakes.
+1.  Peel off the apple and cut into medium sized cubes.
+2.   In the juicer grind the apple, cold milk, cashew nuts, sugar and ice-cubes till it's mixed properly into a thick smoothie.
+3.  Serve the smoothie topping it with the corn flakes.
 
  The corn flakes/meusli will give the crunchiness and would make you summer morning delightful.
 
@@ -79,4 +76,3 @@ Refreshing Crunchy Apple Smoothie
   <p><strong>Total time:</strong> 10 mins</p>
   <p><strong>Serves:</strong> 2</p>
 </div>
-

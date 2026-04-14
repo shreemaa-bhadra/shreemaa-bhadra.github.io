@@ -1,23 +1,22 @@
 ---
 layout: post
 title: Egg and Veggie Omelette Muffins
-date: '2017-07-25 00:00:00 +0000'
+date: "2017-07-25 00:00:00 +0000"
 categories:
-- baking
-- breakfast
-- egg
-- kid
-- muffins
+  - baking
+  - breakfast
+  - egg
+  - kid
+  - muffins
 tags:
-- easy
-- healthy-home-recipes
-- prep-less-60-mins
-- savory
+  - easy
+  - healthy-home-recipes
+  - prep-less-60-mins
+  - savory
 image: "/assets/uploads/2017/07/DSC_1855.jpg"
 listing_summary: "It's a hassle free and health loaded savory muffins. Which are breakfast favorites and can be packed up for lunch and one of best for toddlers."
 listing_image: "/assets/uploads/2017/07/DSC_1855.jpg"
 ---
-
 
 Hola!!
 
@@ -50,35 +49,30 @@ The super easy savory Egg and Veggie Omelette Muffins Recipe:
 9. Black Pepper - 1 tsp
 10. Mozzarella Cheese - 1/4 cup, grated
 
-\[the\_ad id="355"\]
-
 ####  Steps of Preparation:
 
 1. Before starting to chop the vegetables, preheat the oven to 350 F or 180 deg Celsius.
 2. Mix all the vegetables. \[gallery columns="2" size="medium" ids="1180,1182,1181,1183"\]
 3. Beat the eggs and oats together and season with salt and pepper.
-   
+
 [](/assets/uploads/2017/07/DSC_1846.jpg)
 
 ![Oats and Egg](/assets/uploads/2017/07/DSC_1846.jpg)
 
-Oats and Egg
-4. Grease the muffin pans, equally serve the veggies on the mold.
-   
+Oats and Egg 4. Grease the muffin pans, equally serve the veggies on the mold.
+
 [](/assets/uploads/2017/07/DSC_1849.jpg)
 
 ![Egg and Veggie mixture on the tray](/assets/uploads/2017/07/DSC_1849.jpg)
 
-Egg and Veggie mixture on the tray
-5. Pour the beaten egg mixture and top with the grated cheese.
-   
+Egg and Veggie mixture on the tray 5. Pour the beaten egg mixture and top with the grated cheese.
+
 [](/assets/uploads/2017/07/DSC_1852.jpg)
 
 ![Cheese topped and ready to be baked](/assets/uploads/2017/07/DSC_1852.jpg)
 
-Cheese topped and ready to be baked
-6. Bake the omelette muffins for 25 mins.
-   
+Cheese topped and ready to be baked 6. Bake the omelette muffins for 25 mins.
+
 [](/assets/uploads/2017/07/DSC_1864.jpg)
 
 ![Omelette Muffin with veggies](/assets/uploads/2017/07/DSC_1864.jpg)
@@ -92,4 +86,3 @@ Omelette Muffin
   <p><strong>Total time:</strong> 35 mins</p>
   <p><strong>Serves:</strong> 2</p>
 </div>
-
