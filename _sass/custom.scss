@@ -180,17 +180,18 @@ a:focus {
   text-decoration: underline;
 }
 
-/* Post content links should appear clickable */
+/* Post content links should appear clickable - override Minima defaults */
 .post-content a,
+.post-content a:link,
 .post-content a:visited {
-  text-decoration: underline;
-  color: #e6a117;
+  text-decoration: underline !important;
+  color: #e6a117 !important;
 }
 
 .post-content a:hover,
 .post-content a:focus {
-  text-decoration: underline;
-  color: #c88a0f;
+  text-decoration: underline !important;
+  color: #c88a0f !important;
 }
 
 /* Mobile navigation z-index to stay above search box */
