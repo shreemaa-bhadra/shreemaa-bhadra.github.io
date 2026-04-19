@@ -23,7 +23,7 @@ listing_image: "/assets/uploads/2016/10/DSC_9386.jpg"
 
 ### How to make an Eggless Whole Wheat Banana Bread step wise
 
-When today I was sitting and mashing the ripe bananas to feed my 8 month old baby, I was caught amongst the memories of Bangalore days. The group of friends I have are definitely for a lifetime. But the memory that was drawing me was the loaf of banana bread, which we relished with a cup of tea sitting near the tea stall while we chattered with all possible gossips, news and fun. Oh, I miss them! Who? Friends or the Bread? Ah! Both! All I can do to recreate the memory is; Go and bake a really fresh one and then call these friends of mine.
+When today I was sitting and mashing the ripe bananas to feed my 8 month old baby, I was caught amongst the memories of Bangalore days. The group of friends I have are definitely for a lifetime. But the memory that was drawing me was the loaf of banana bread, which we relished with a cup of tea sitting near the tea stall while we chattered with all possible gossips, news and fun. Oh, I miss them! Who? Friends or the Bread? Ah! Both! All I can do to recreate the memory is; Go and [bake](/categories/baking/) a really fresh one and then call these friends of mine.
 
 Truly, food connects people. When you are a foodie, you can associate all your favorite food to some memories. And this Bangalore group of mine is a real foodie. What not we do, to not miss a food event. We utilize every small opportunity to gorge on any delicacy of near by restaurant. May it be a real lavish exotic restaurant or the small stalls of Golgappas or Samosa or Momos. That was our true love for food. We bonded, life changed, but the feelings we carry are intact and hopefully that stays for years to come.
 

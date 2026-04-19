@@ -17,7 +17,7 @@ listing_image: "/assets/uploads/2019/10/DSC_8150.jpg"
 
 ![khiri-or-rice-kheer image](/assets/uploads/2019/10/DSC_8150.jpg)
 
-This is the longest break I took from blogging. I joined back work, Baby D is now an active Preschooler and engaging me with ever rising curiosity. Above all, we'd yet another move, we moved back to Dallas. So many stories, so many adventures but I was never away from kitchen, not a single day. Cooking makes me happy, even on busiest days I never miss to cook. It's just I didn't have much time or patience to capture or document it. After moving to Dallas, I met with [Richa](https://www.instagram.com/thehungrytaurean/), who motivated me for coming back to blogging. The occasion of Durga Puja got me into the Dessert mode. And my son cleared all doubts asking me : "Can we have Khiri?".
+This is the longest break I took from blogging. I joined back work, Baby D is now an active Preschooler and engaging me with ever rising curiosity. Above all, we'd yet another move, we moved back to Dallas. So many stories, so many adventures but I was never away from kitchen, not a single day. Cooking makes me happy, even on busiest days I never miss to cook. It's just I didn't have much time or patience to capture or document it. After moving to Dallas, I met with [Richa](https://www.instagram.com/thehungrytaurean/), who motivated me for coming back to blogging. The occasion of Durga Puja got me into the [Dessert](/categories/dessert/) mode. And my son cleared all doubts asking me : "Can we have Khiri?".
 
 > Khiri or Kheer is the sweetened rice pudding, where the rice is slow cooked with milk, sweetened with Sugar, flavored with cardamom and garnished with nuts and dry fruits .
 
@@ -59,7 +59,7 @@ Here goes the simple yet classic recipe of Kheer or Khiri:
 - Take a small frying pan, add more 2 tbsp of ghee and add the nuts and dry fruits to toast it.
 - Then add the nuts and dry fruits for garnish.
 
-Serve the yummy Khiri or Rice Kheer in this festive season as a mandatory dessert. This classic dessert never goes wrong for the festive season.
+Serve the yummy Khiri or Rice Kheer in this festive season as a mandatory [dessert](/categories/dessert/). This classic dessert never goes wrong for the festive season.
 
 <figure>
 

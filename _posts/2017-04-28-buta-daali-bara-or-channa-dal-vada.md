@@ -15,13 +15,13 @@ tags:
   - prep-less-60-mins
   - vada
 image: "/assets/uploads/2017/04/DSC_1550.jpg"
-listing_summary: "Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time snack."
+listing_summary: "Buta Dali Bara or Channa Dal Vada is a spiced savory fritter made up of Bengal Gram Lentil and seasoned with Ginger and Garlic. It's amazing tea time [snack](/categories/snacks/)."
 listing_image: "/assets/uploads/2017/04/DSC_1550.jpg"
 ---
 
 Winter has descended along with its blues and darkness, leaving behind sparkling sunny days of Spring. But something I always miss about winter is the cozy bed, warm quilt and the amazing warm foods. But Spring has its own advantages, tons of sunny days to uplift one's mood.  Colorful flowers and the amazing spring collections that come with floral prints and you girls there can go sleeveless and wear shorts too.
 
-All these days, I have been busy cooking with so many new ingredients in my kitchen, but alas I didn't post a single. I was thinking to cook something cool and refreshing to match with the season and mood, when the uncertain rain plunged me to cook these crispy and quick fritters made out of Split Bengal Gram or Channa Dal which we call in Odia as Buta Dali Bara. These are spicy, crispy and you can enjoy them with Tea and Coffee over an amazing rainy afternoon or on a sunny spring. I remember as a kid, I could munch unlimited of these. Now being a sensitive adult, I put so much constraints on the amount of consumption that later I regret of not going off the limit.
+All these days, I have been busy cooking with so many new ingredients in my kitchen, but alas I didn't post a single. I was thinking to cook something cool and refreshing to match with the season and mood, when the uncertain rain plunged me to cook these crispy and quick fritters made out of Split Bengal Gram or Channa Dal which we call in [Odia](/categories/odia/) as Buta Dali Bara. These are spicy, crispy and you can enjoy them with Tea and Coffee over an amazing rainy afternoon or on a sunny spring. I remember as a kid, I could munch unlimited of these. Now being a sensitive adult, I put so much constraints on the amount of consumption that later I regret of not going off the limit.
 
 [](/assets/uploads/2017/04/DSC_1550.jpg)
 
