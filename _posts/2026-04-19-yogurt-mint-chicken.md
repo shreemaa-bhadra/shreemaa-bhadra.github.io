@@ -25,10 +25,6 @@ The marinade does most of the work here, infusing the chicken with layers of fla
 
 Whether you're looking for a simple weeknight dinner or something special for guests, this recipe delivers. Serve it with some warm naan, a side of cucumber raita, and perhaps a fresh salad for a complete meal that everyone will love.
 
-![chicken marinating](/assets/uploads/2026/04/marination.jpg)
-
-_Chicken pieces happily marinating in the yogurt-mint mixture_
-
 ## Ingredients for Yogurt Mint Chicken:
 
 1. Chicken drumsticks or thighs - 6-8 pieces (about 1.5 lbs)
@@ -42,7 +38,7 @@ _Chicken pieces happily marinating in the yogurt-mint mixture_
 
 ## Steps of Preparation:
 
-_Preparation Time: 15 mins | Marinating Time: 45 mins | Cooking Time: 60 mins_
+Preparation Time: 15 mins | Marinating Time: 45 mins | Cooking Time: 60 mins
 
 1. **Prepare the marinade paste:** In a blender or food processor, grind together fresh mint leaves, green chillies, ginger-garlic paste, and a pinch of salt into a smooth paste. Add a splash of water if needed to help blend.
 
