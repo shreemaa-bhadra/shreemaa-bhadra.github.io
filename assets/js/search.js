@@ -5,6 +5,7 @@
   let searchIndex = [];
 
   const searchInput = document.getElementById("search-input");
+  const searchSection = document.querySelector(".search-section");
   const searchResultsContainer = document.getElementById(
     "search-results-container",
   );
@@ -63,11 +64,13 @@
     if (allPosts) allPosts.style.display = "grid";
     if (latestPostsHeading) latestPostsHeading.style.display = "block";
     searchClearBtn.style.display = "none";
+    if (searchSection) searchSection.classList.remove("has-search");
   }
 
   // Display search results using the same card layout as posts
   function displayResults(results, query) {
     searchClearBtn.style.display = "block";
+    if (searchSection) searchSection.classList.add("has-search");
 
     if (results.length === 0) {
       searchResults.innerHTML =
