@@ -1,0 +1,111 @@
+#!/bin/bash
+
+# PRE-COMMIT SKILL: Service Worker Cache Auditor
+# This hook ensures the service worker always caches all required assets
+# and busts the cache when any content changes.
+#
+# INSTALLATION:
+#   cp .github/hooks/pre-commit .git/hooks/pre-commit
+#   chmod +x .git/hooks/pre-commit
+#
+# Or run: make install-hooks (if Makefile is set up)
+
+set -e
+
+SW_FILE="service-worker.js"
+STAGED_FILES=$(git diff --cached --name-only)
+
+echo "🔍 Running Service Worker Cache Audit..."
+
+# Track if we need to update the service worker
+NEED_UPDATE=false
+UPDATE_REASON=""
+
+# Check if service worker itself was modified
+if echo "$STAGED_FILES" | grep -q "^${SW_FILE}$"; then
+    echo "  ✓ Service worker file modified"
+fi
+
+# Get current CACHE_VERSION
+CURRENT_VERSION=$(grep 'const CACHE_VERSION' "$SW_FILE" | sed 's/.*cookspan-v\([0-9]*\).*/\1/' | head -1)
+NEW_VERSION=$((CURRENT_VERSION + 1))
+
+# Define all critical assets that must be cached
+CRITICAL_ASSETS=(
+    "/"
+    "/index.html"
+    "/assets/main.css"
+    "/feed.xml"
+    "/search.json"
+    "/articles.json"
+)
+
+# Check for new/changed asset files
+ASSET_FILES=$(echo "$STAGED_FILES" | grep -E '^assets/' || true)
+JS_FILES=$(echo "$STAGED_FILES" | grep -E '^assets/.*\.js$' || true)
+CSS_FILES=$(echo "$STAGED_FILES" | grep -E '^assets/.*\.css$' || true)
+IMG_FILES=$(echo "$STAGED_FILES" | grep -E '^assets/.*\.(png|jpg|jpeg|gif|webp|svg)$' || true)
+
+# Check content files that affect rendered output
+CONTENT_FILES=$(echo "$STAGED_FILES" | grep -E '^(_posts/|_drafts/|_layouts/|_includes/|_sass/|_config.yml)' || true)
+
+# Determine if cache needs busting
+if [ -n "$CONTENT_FILES" ]; then
+    NEED_UPDATE=true
+    UPDATE_REASON="Content files changed (posts, layouts, includes, or styles)"
+fi
+
+if [ -n "$ASSET_FILES" ]; then
+    NEED_UPDATE=true
+    UPDATE_REASON="Asset files modified"
+fi
+
+if [ -n "$JS_FILES" ]; then
+    NEED_UPDATE=true
+    UPDATE_REASON="JavaScript files modified (including search.js)"
+fi
+
+# Verify all critical assets exist
+echo ""
+echo "📋 Checking critical cached assets..."
+for asset in "${CRITICAL_ASSETS[@]}"; do
+    if [ -f "${asset#/}" ] || [ "$asset" = "/" ]; then
+        echo "  ✓ $asset"
+    else
+        echo "  ⚠ $asset not found in repo root"
+    fi
+done
+
+# Verify search.json is in CACHE_URLS
+if ! grep -q "/search.json" "$SW_FILE"; then
+    echo ""
+    echo "⚠️  WARNING: /search.json not found in CACHE_URLS!"
+    echo "   Search will not work offline."
+fi
+
+# Update service worker if needed
+if [ "$NEED_UPDATE" = true ]; then
+    echo ""
+    echo "📝 $UPDATE_REASON"
+    echo "🔄 Busting cache: cookspan-v${CURRENT_VERSION} → cookspan-v${NEW_VERSION}"
+
+    # Update CACHE_VERSION
+    sed -i '' "s/const CACHE_VERSION = \"cookspan-v[0-9]*\"/const CACHE_VERSION = \"cookspan-v${NEW_VERSION}\"/" "$SW_FILE"
+
+    # Stage the updated service worker
+    git add "$SW_FILE"
+
+    echo ""
+    echo "✅ Service worker updated and staged:"
+    echo "   - Cache version: v${NEW_VERSION}"
+    echo "   - All assets will be refreshed on next page load"
+    echo "   - Users will get latest content automatically"
+else
+    echo ""
+    echo "✅ No cache-busting needed"
+    echo "   Service worker version remains: v${CURRENT_VERSION}"
+fi
+
+echo ""
+echo "🎯 Cache Audit Complete"
+echo ""
