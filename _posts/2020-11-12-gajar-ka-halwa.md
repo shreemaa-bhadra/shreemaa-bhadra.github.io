@@ -1,25 +1,24 @@
 ---
 layout: post
 title: Gajar Ka Halwa
-date: '2020-11-12 00:00:00 +0000'
+date: "2020-11-12 00:00:00 +0000"
 categories:
-- dessert
-- indian-sweets
-- north-indian
-- vegeterian
+  - dessert
+  - indian-sweets
+  - north-indian
+  - vegeterian
 tags:
-- carrots
-- diwali
-- easy
-- festival
-- prep-less-60-mins
+  - carrots
+  - diwali
+  - easy
+  - festival
+  - prep-less-60-mins
 image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
 listing_summary: "Gajar ka Halwa or Carrot halwa is a sweet pudding made of carrots, clarified butter, and sugar. It's seasoned with cardamom and topped with cashew nuts and almonds."
 listing_image: "/assets/uploads/2020/11/IMG_9707-1-scaled.jpg"
 ---
 
-
-Halwa is the most common form of Indian [dessert](https://cookspan.com/category/dessert/indian-sweets/), cooking with ghee (clarified butter) and sugar. The basic form of Halwa's is flour-based loaded with ghee and sugar. But this is not a flour-based. Gajar ka Halwa is primarily made of shredded carrots (gajar). Often it's made with milk solids (khoya) but I tweaked the recipe using some condensed milk.
+Halwa is the most common form of Indian [dessert](/categories/indian-sweets/), cooking with ghee (clarified butter) and sugar. The basic form of Halwa's is flour-based loaded with ghee and sugar. But this is not a flour-based. Gajar ka Halwa is primarily made of shredded carrots (gajar). Often it's made with milk solids (khoya) but I tweaked the recipe using some condensed milk.
 
 Every year, I make Gajar ka Halwa either on Diwali day or I make it on new year's eve. As carrots were earlier a winter veggie in India, it's kind of entwined to my winter memories. So just like every other year, I made this wonderful dish for my Diwali feast and served with loads of love.
 
@@ -51,4 +50,3 @@ Every year, I make Gajar ka Halwa either on Diwali day or I make it on new year'
   <p><strong>Total time:</strong> 45 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

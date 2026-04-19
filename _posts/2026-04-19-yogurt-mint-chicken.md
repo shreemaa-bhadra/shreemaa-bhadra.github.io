@@ -5,13 +5,9 @@ date: "2026-04-19 00:00:00 +0000"
 categories:
   - chicken
   - non-vegeterian
-  - baking
 tags:
   - easy
   - marinated
-  - baked
-  - dinner
-  - indian
 image: "/assets/uploads/2026/04/out from oven.jpg"
 listing_summary: "Yogurt Mint Chicken is a flavorful, easy baked chicken dish marinated in a refreshing blend of fresh mint, green chillies, yogurt, and aromatic spices. Perfect for weeknight dinners!"
 listing_image: "/assets/uploads/2026/04/final.jpg"
@@ -68,10 +64,10 @@ _Serve this beautiful dish with your favorite sides_
 
 ## Serving Suggestions:
 
-- Enjoy with warm [naan](https://www.cookspan.com/naan/) or flaky [parathas](https://www.cookspan.com/paratha/)
-- Pair with a cooling [cucumber raita](https://www.cookspan.com/raita/) to balance the flavors
+- Enjoy with warm naan or flaky parathas
+- Pair with a cooling [cucumber raita](/categories/raita/) to balance the flavors
 - Serve alongside a simple onion-cucumber salad with lemon dressing
-- Great with [jeera rice](https://www.cookspan.com/jeera-rice/) or plain steamed basmati rice
+- Great with [jeera rice](/categories/rice/) or plain steamed basmati rice
 
 > "The secret ingredient is always love... and a good marinade!"
 

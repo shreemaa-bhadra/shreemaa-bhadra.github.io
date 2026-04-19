@@ -1,21 +1,20 @@
 ---
 layout: post
 title: Odia Mutton Jhola
-date: '2017-01-27 00:00:00 +0000'
+date: "2017-01-27 00:00:00 +0000"
 categories:
-- mutton
-- non-vegeterian
-- odia
+  - mutton
+  - non-vegeterian
+  - odia
 tags:
-- easy
-- prep-more-60mins
+  - easy
+  - prep-more-60mins
 image: "/assets/uploads/2017/01/DSC_0196.jpg"
 listing_summary: "Mutton Jhola is a spicy thick gravy mutton curry which goes very well with rice, rotis or naans. The dish is made up of minimal spice."
 listing_image: "/assets/uploads/2017/01/DSC_0196.jpg"
 ---
 
-
-After many days, the Sun appeared. Yes!! A bright, lovely sunny day. Like our Bangalore home, the apartment we have leased in Plano is blessed with lovely light and sunshine. We didn't want to miss any of this. So, we planned for a lovely patio lunch. I and hubby love non-vegetarian food, unlike our parents who are vegetarians. But, going by the family way, [non-veg](https://cookspan.com/category/non-vegeterian/) has never become our everyday ritual. Forget every day, it's not even a part of our weekly ritual too. We still follow the family norm to go and pick the seasonal veggies and cook them with dal, rice, and Chapati.
+After many days, the Sun appeared. Yes!! A bright, lovely sunny day. Like our Bangalore home, the apartment we have leased in Plano is blessed with lovely light and sunshine. We didn't want to miss any of this. So, we planned for a lovely patio lunch. I and hubby love non-vegetarian food, unlike our parents who are vegetarians. But, going by the family way, non-veg has never become our everyday ritual. Forget every day, it's not even a part of our weekly ritual too. We still follow the family norm to go and pick the seasonal veggies and cook them with dal, rice, and Chapati.
 
 This day, we made plans for a mutton special. Darsheel, my 11-month-old infant was cranky staying enclosed for winter. So, I wanted to give more of my time to him so that he enjoyed the sunny day with Mommy and Daddy. I just wanted some special stuff with less effort. Therefore, I prepared a simple pressure cooker mutton jhola with minimal spice and effort.
 
@@ -29,15 +28,15 @@ The recipe goes like this:
 
 ### Ingredients:
 
-1.  Mutton - 1 lb (454 gms)
-2. Onions - 2 medium-sized
-3. Cumin seeds- 1 tbsp
-4. Ginger- 1 inch
-5. Garlic - 10 - 12 big cloves
-6. Kashmiri red chilies - 4-5
-7. Red chilies for tempering - 2
-8. Coriander powder - 2 tsp
-9. Cinnamon powder - 1 pinch
+1.   Mutton - 1 lb (454 gms)
+2.  Onions - 2 medium-sized
+3.  Cumin seeds- 1 tbsp
+4.  Ginger- 1 inch
+5.  Garlic - 10 - 12 big cloves
+6.  Kashmiri red chilies - 4-5
+7.  Red chilies for tempering - 2
+8.  Coriander powder - 2 tsp
+9.  Cinnamon powder - 1 pinch
 10. Garam masala - 2 tsp
 11. Coriander leaves for garnishing
 12. Turmeric powder - 1 tsp
@@ -81,4 +80,3 @@ Serve the gorgeous mutton curry with rice or rotis and munch with a side salad. 
   <p><strong>Total time:</strong> 1 hour 45 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

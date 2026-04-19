@@ -23,7 +23,7 @@ listing_image: "/assets/uploads/2020/11/DSC0003-scaled.jpg"
 
 Smashed potato chaat was something unconventional, but it was a hit in our family.
 
-[Chaats](https://cookspan.com/category/snacks/chaats/) are absolute love for me. It's a perfect amalgamation of the flavor, taste, and texture. A single bite of chaat gives a platter full of tastes. A perfect chaat is one with a filling base, a pea or chickpea topping, with amazing chutneys which is the heart and soul of chaat (one sour n spicy and the other sweet and sour), and some chickpea crips (namkeens or sev) and veggies (cucumber, tomatoes, and onions) for toppings.
+[Chaats](/categories/chaats/) are absolute love for me. It's a perfect amalgamation of the flavor, taste, and texture. A single bite of chaat gives a platter full of tastes. A perfect chaat is one with a filling base, a pea or chickpea topping, with amazing chutneys which is the heart and soul of chaat (one sour n spicy and the other sweet and sour), and some chickpea crips (namkeens or sev) and veggies (cucumber, tomatoes, and onions) for toppings.
 
 ![Crispy Smashed Potatoes Served in a Chaat](/assets/uploads/2020/11/DSC0024-scaled.jpg)
 
@@ -50,7 +50,7 @@ Here goes the Recipe for the Smashed Potato Chaat:
 1. Chickpea - 1.5 cups boiled
 2. Cucumber - 1, finely chopped
 3. Red Onions - 1/4 finely chopped
-4. [Green Chutney](https://cookspan.com/chutneydip/dhania-chutney-or-coriander-chutney/1634/) - 2 tbsp
+4. Green Chutney - 2 tbsp
 5. Sweet Tamarind Chutney - 2 tbsp
 6. Thin Sev - for topping
 

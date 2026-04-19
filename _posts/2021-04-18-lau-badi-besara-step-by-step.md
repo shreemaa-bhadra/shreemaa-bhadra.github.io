@@ -15,11 +15,11 @@ listing_summary: "Lau Badi Besara is an Odia dish cooked with bottle gourd in a 
 listing_image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 ---
 
-If there is one food that I inherited that I adore, it is unquestionably besara. Besara is a garlicky mustard paste that improves the flavor of a number of dishes. It's cooked with seafood, a wide range of leafy greens, vegetables, and mushrooms to spike and elevate the flavors with the pungency of mustard. One of them is Lau Badi Besara. Lau refers to the bottle gourd, and Badi is a sun-dried lentil dumpling used in many [Odia](https://cookspan.com/category/odia/) dishes to add crunch and flavor to the gravy.
+If there is one food that I inherited that I adore, it is unquestionably besara. Besara is a garlicky mustard paste that improves the flavor of a number of dishes. It's cooked with seafood, a wide range of leafy greens, vegetables, and mushrooms to spike and elevate the flavors with the pungency of mustard. One of them is Lau Badi Besara. Lau refers to the bottle gourd, and Badi is a sun-dried lentil dumpling used in many [Odia](/categories/odia/) dishes to add crunch and flavor to the gravy.
 
 ![](/assets/uploads/2015/05/IMG_2318-scaled.jpeg)
 
-Here are few recipes made up of  [besara.](https://cookspan.com/tag/mustard/)
+Here are few recipes made up of besara.
 
 Let's get cooking and get into the details of this everyday comfort Odia recipe "Lau Badi Besara".
 
@@ -27,7 +27,7 @@ Let's get cooking and get into the details of this everyday comfort Odia recipe 
 
 1. Bottle Gourd (Lau) - 1 long sized, weighing around 2 lb
 2. Taro Root (Arbi / Saru) - 4 medium sized ones
-3. Besara Paste - 2 tbsp ([Recipe](https://cookspan.com/odia/sorisha-batta-mustard-paste/58/))
+3. Besara Paste - 2 tbsp
 4. Turmeric - 1tsp
 5. Garlic cloves - 4-5, crushed
 6. Red chili - 2

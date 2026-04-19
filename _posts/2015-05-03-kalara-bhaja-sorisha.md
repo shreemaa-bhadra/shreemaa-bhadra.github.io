@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Kalara Bhaja in Sorisha Batta
-date: '2015-05-03 00:00:00 +0000'
+date: "2015-05-03 00:00:00 +0000"
 categories:
-- odia
-- vegeterian
+  - odia
+  - vegeterian
 tags:
-- bitter-gourd
-- easy
-- mustard
-- prep-less-60-mins
+  - bitter-gourd
+  - easy
+  - mustard
+  - prep-less-60-mins
 image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
 listing_summary: "Kalara Bhaja tempered in sorisha batta. The beauty of this is bitterness of bitter gourd is gelling absolutely with the pungent flavor of mustard."
 listing_image: "/assets/uploads/2015/05/Kalachorchori_02.jpg"
 ---
-
 
 **Kalara Bhaja in Sorisha Batta/ Karela Sarson Fry /Bitter gourd in cooked mustard sauce**
 
@@ -30,14 +29,14 @@ The mustard flavored kalara bhaja goes like this:
 
 1. Bitter Gourd - 2 medium sized
 2. Potato - 1 medium sized
-3. [Mustard Paste](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) - 2 tbsp
+3. Mustard Paste - 2 tbsp
 4. Garlic - 2 cloves
 5. Panch Phoron or Phutan - 2 tsp
 6. Salt - according to the taste
 7. Turmeric Powder - 1 tsp
 8. Badi or Sun dried Urad daal dumplings - 2-3 medium pieces
 9. Vegetable oil - 3 tbsp
-   
+
 [](/assets/uploads/2015/05/Kalachorchori_01.jpg)
 
 ![Kalara Bhaja Ingredients](/assets/uploads/2015/05/Kalachorchori_01.jpg)
@@ -57,7 +56,7 @@ Kalara Bhaja Ingredients
 9. Fry it till the veggies are half cooked. Add the mustard paste and mix the veggies and cover back the lid.
 10. After the veggies are properly cooked in the mustard falvor. Crush the badis and add to veggies.
 11. After a minute you can serve the Kalara Sorisha Bhaja with Pakhala or rice platter.
-   
+
 [](/assets/uploads/2015/05/Kalachorchori_02.jpg)
 
 ![Kalara Bhaja flavored in Mustard Paste](/assets/uploads/2015/05/Kalachorchori_02.jpg)
@@ -73,4 +72,3 @@ _It's bitter but has nutrients that will make you feel better !_
   <p><strong>Total time:</strong> 25 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

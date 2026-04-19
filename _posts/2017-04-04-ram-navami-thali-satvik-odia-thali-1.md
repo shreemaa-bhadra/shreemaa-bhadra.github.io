@@ -14,7 +14,7 @@ It's Ram Navami in India, a very happy and auspicious day to all of you. Last ye
 
 ### In the platter:
 
-Garam Arua Bhata (hot and steamy raw rice, we had Basmati rice in the platter), Pansa Katha Dalma (a special Odia delicacy made of lentils and veggies cooked together and this had raw Jackfruit), Saga Bhaja (greens stir fry), Amba Khatta (sweet and sour raw mango chutney), Baigani (fried spiced Gram flour coated Eggplant) served with a slice of ripe Mango and usual accompaniment of an [Odia](http://cookspan.com/odia/)
+Garam Arua Bhata (hot and steamy raw rice, we had Basmati rice in the platter), Pansa Katha Dalma (a special Odia delicacy made of lentils and veggies cooked together and this had raw Jackfruit), Saga Bhaja (greens stir fry), Amba Khatta (sweet and sour raw mango chutney), Baigani (fried spiced Gram flour coated Eggplant) served with a slice of ripe Mango and usual accompaniment of an Odia
 
 Thali lime, green chili and salt.
 

@@ -20,9 +20,9 @@ How to prepare Chingudi Bhaja or Shrimp stir fried with mustard.
 
 Shrimp is something, which is really admired in my house. Me and my husband have no choice to throw when it comes to shrimp, we love it in any possible form. Be it savory fried or a thick to thin curried gravy or simply tossed with a burst of spices or a crunchy salad. Probably this helps us never to put extra effort on cooking and we simply use the in-house pantry stuff and get it cooked along.
 
-This recipe of mine is no major invention or a wide long traditional Indian recipe, it's something done at an easy go. Born in the east of India, I have certain inclinations to the core ingredients used in our native kitchen. One such is the mustard paste. There are many [recipes](http://cookspan.com/tag/mustard/) in the blog and many are on the way which is cooked using mustard paste and this one is one of them. They truly say fishes and seafood get along with mustard as a perfect affair. Mustard's pungent taste simply adores the fishy world. My words fall too short cause I am an ardent fish lover and a mustard too.
+This recipe of mine is no major invention or a wide long traditional Indian recipe, it's something done at an easy go. Born in the east of India, I have certain inclinations to the core ingredients used in our native kitchen. One such is the mustard paste. There are many recipes in the blog and many are on the way which is cooked using mustard paste and this one is one of them. They truly say fishes and seafood get along with mustard as a perfect affair. Mustard's pungent taste simply adores the fishy world. My words fall too short cause I am an ardent fish lover and a mustard too.
 
-We planned for a simple [besara or mustard curry](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) of shrimps, however, I had dal (lentil soup) in my kitchen. Therefore, I was in no mood of a gravy and I felt like to simply flavor the Shrimps and pan fry them. This I could enjoy it with my steaming hot Dal and Rice. This is a dry Shrimp or Chingudi Bhaja recipe can be enjoyed with Odia Pakhala Bhata or relished as a starter or be savored as in my case with Dal and Rice.
+We planned for a simple besara or mustard curry of shrimps, however, I had dal (lentil soup) in my kitchen. Therefore, I was in no mood of a gravy and I felt like to simply flavor the Shrimps and pan fry them. This I could enjoy it with my steaming hot Dal and Rice. This is a dry Shrimp or Chingudi Bhaja recipe can be enjoyed with Odia Pakhala Bhata or relished as a starter or be savored as in my case with Dal and Rice.
 
 [](/assets/uploads/2016/10/DSC_9012-1.jpg)
 
@@ -44,7 +44,7 @@ The recipe goes like this:
 
 **Steps of preparation:**
 
-1. Prepare the mustard paste. The recipe for the same can be found [here](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/).
+1. Prepare the mustard paste.
 2. Clean the shrimp and pat dry.
 3. Marinate it with turmeric and salt and keep it for 30 mins.
 4. Heat a pan and drizzle the mustard oil on the pan.
@@ -54,7 +54,7 @@ The recipe goes like this:
 
 ![Chingudi Besara Bhaja Step 05](/assets/uploads/2016/10/DSC_8971-1.jpg)
 
-Chingudi Besara Bhaja Step 05 6. To this add the marinated shrimps and cook. 7. After the shrimps are half done and almost a golden color is visible add the [mustard paste](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) and sprinkle drops of water.
+Chingudi Besara Bhaja Step 05 6. To this add the marinated shrimps and cook. 7. After the shrimps are half done and almost a golden color is visible add the mustard paste and sprinkle drops of water.
 
 [](/assets/uploads/2016/10/DSC_8979-1.jpg)
 

@@ -1,27 +1,26 @@
 ---
 layout: post
 title: Egg Wrap Stuffed with Sweet Peppers and Beans
-date: '2020-10-28 00:00:00 +0000'
+date: "2020-10-28 00:00:00 +0000"
 categories:
-- breakfast
-- egg
-- salads
-- starters
-- wraps
+  - breakfast
+  - egg
+  - salads
+  - starters
+  - wraps
 tags:
-- easy
-- healthy-home-recipes
-- prep-less-60-mins
-- sweet-peppers
+  - easy
+  - healthy-home-recipes
+  - prep-less-60-mins
+  - sweet-peppers
 image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
 listing_summary: "Egg Wrap Stuffed with Peppers and Beans are a yummy Flour-based wrap stuffed with an easy salad made up of Sweet Peppers and boiled beans. The wrap has an amazing combination of texture and flavors and is wholesome and easy to make."
 listing_image: "/assets/uploads/2020/10/IMG_9236-scaled.jpg"
 ---
 
-
 What did I have for my Sunday Breakfast? It's the **_Egg Wrap stuffed with Sweet Peppers and Beans_** !!
 
-Sweet Peppers are always a delight. I absolutely love them, sometimes I munch them just as it is. Sometimes I bake them with potatoes or with cheese stuffed within them. I also love my omelets. Some morning [breakfast](https://cookspan.com/category/breakfast/) is Omletes with plain salt and pepper and fruit on the side. But weekends when we plan for a hike or long trail walk we definitely ensure we have a roti attached to the Omelet (Common !! don't laugh at my language, it's something my 4 years old coined). So this weekend, when we were gearing up for our morning breakfast, I found a handful of sweet mini peppers lying in the fridge and also some boiled red kidney beans. That moment I planned for this stuffed wrap for a wholesome heavy breakfast.
+Sweet Peppers are always a delight. I absolutely love them, sometimes I munch them just as it is. Sometimes I bake them with potatoes or with cheese stuffed within them. I also love my omelets. Some morning breakfast is Omletes with plain salt and pepper and fruit on the side. But weekends when we plan for a hike or long trail walk we definitely ensure we have a roti attached to the Omelet (Common !! don't laugh at my language, it's something my 4 years old coined). So this weekend, when we were gearing up for our morning breakfast, I found a handful of sweet mini peppers lying in the fridge and also some boiled red kidney beans. That moment I planned for this stuffed wrap for a wholesome heavy breakfast.
 
 ## Ingredients for Egg Wrap:
 
@@ -57,4 +56,3 @@ Egg Wrap Stuffed with Sweet Peppers and Beans
   <p><strong>Total time:</strong> 20 mins</p>
   <p><strong>Serves:</strong> 2</p>
 </div>
-

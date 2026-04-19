@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chocolate Crinkle Cookies
-date: '2019-12-25 00:00:00 +0000'
+date: "2019-12-25 00:00:00 +0000"
 categories:
-- baking
-- cookies
+  - baking
+  - cookies
 image: "/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg"
 listing_summary: "Chocolate Crinkle cookies are shiny crinkle cookies which has the texture of chocolate fudge and is coated with sugar for the shine visuals."
 listing_image: "/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg"
@@ -12,7 +12,7 @@ listing_image: "/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-sca
 
 ![chocolate-crinkle-cookies image](/assets/uploads/2019/12/539C804B-D9C5-4C72-8F36-D2FCAE2ECB20-scaled.jpg)
 
-Baking is one of my favorite hobby, and with the holiday season, baking is all in the air. The little man all geared for holidays is helping me mould those beautiful Christmas [cookies](https://cookspan.com/category/baking/cookies/). Though I baked a few of them, something I absolutely loved is this fudgey and gooey Chocolate Crinkle Cookies.
+Baking is one of my favorite hobby, and with the holiday season, baking is all in the air. The little man all geared for holidays is helping me mould those beautiful Christmas [cookies](/categories/cookies/). Though I baked a few of them, something I absolutely loved is this fudgey and gooey Chocolate Crinkle Cookies.
 
 This Cookies, is rich in chocolate and the shape and appearance is like a dream to me. Anytime I lay them on the baking sheet before baking, I simply have this feeling these are my precious snowballs going into the oven. And the heat make random cracks to make sure to let the brown visible and that's what I call, 'It's like a dream!!'.
 
@@ -56,4 +56,3 @@ Chocolate Crinkle Cookies Balls
   <p><strong>Total time:</strong> 2 hours 12 mins</p>
   <p><strong>Serves:</strong> 10</p>
 </div>
-

@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Dahi Manja or Banana Stem Kadhi or Banana Stem Cooked in Mustard Flavored Yogurt
-date: '2017-03-23 00:00:00 +0000'
+date: "2017-03-23 00:00:00 +0000"
 categories:
-- dal-and-kadhi
-- odia
-- raita
-- vegeterian
+  - dal-and-kadhi
+  - odia
+  - raita
+  - vegeterian
 tags:
-- banana-stem
-- curd
-- easy
-- mustard
-- prep-less-60-mins
+  - banana-stem
+  - curd
+  - easy
+  - mustard
+  - prep-less-60-mins
 image: "/assets/uploads/2017/03/DSC_7561.jpg"
 listing_summary: "How to make step by step dahi manja. The recipe is a delicacy from Odisha and is served with Plain rice or a rice platter."
 listing_image: "/assets/uploads/2017/03/DSC_7561.jpg"
@@ -38,7 +38,7 @@ Dahi Manja Ingredients
 2. Green chillies - 3-4 pieces
 3. Curd  - 500 gm
 4. Chickpea Flour or Besan - 1 tbsp
-5. [Mustard Paste](http://cookspan.com/odiya/sorisha-batta-mustard-paste/58/) - 1 tbsp (It looks more red in the picture due to use of Kashmiri Red chillies)
+5. Mustard Paste - 1 tbsp (It looks more red in the picture due to use of Kashmiri Red chillies)
 6. Garlic Cloves - 8-10 crushed
 7. Curry Leaves - 1-2 sprig
 8. Mustard Seeds - 1 tsp
@@ -51,92 +51,85 @@ Dahi Manja Ingredients
 
 1. Peel the banana stem in vertical manner and then cut into horizontal round slices. While cutting each slice pull the fibrous strings and throw it.
 2. Then cut the slices into small cubes and keep it soaked in water, else it would lead to browning or blackening of the banana stem cubes.
-   
+
 [](/assets/uploads/2016/05/DSC_7519.jpg)
 
 ![Size of Banana Stem after cutting](/assets/uploads/2016/05/DSC_7519.jpg)
 
-Small cubes of Banana Stem
-3. In a wide bottomed vessel, add two cup of water and a pinch of turmeric powder, salt according to the taste and the banana stem cubes and let it boil for 10mins in a medium flame.
-   
+Small cubes of Banana Stem 3. In a wide bottomed vessel, add two cup of water and a pinch of turmeric powder, salt according to the taste and the banana stem cubes and let it boil for 10mins in a medium flame.
+
 [](/assets/uploads/2016/05/DSC_7523.jpg)
 
 ![Adding water to the Vessel](/assets/uploads/2016/05/DSC_7523.jpg)
 
-Banana Stem Kadhi Step\_3\_a
-   
+Banana Stem Kadhi Step_3_a
+
 [](/assets/uploads/2016/05/DSC_7525.jpg)
 
 ![Adding a pinch of turmeric ](/assets/uploads/2016/05/DSC_7525.jpg)
 
-Banana Stem Kadhi Step\_3\_b
-   
+Banana Stem Kadhi Step_3_b
+
 [](/assets/uploads/2016/05/DSC_7526.jpg)
 
 ![Adding Salt](/assets/uploads/2016/05/DSC_7526.jpg)
 
-Banana Stem Kadhi Step\_3\_c
-   
+Banana Stem Kadhi Step_3_c
+
 [](/assets/uploads/2016/05/DSC_7530.jpg)
 
 ![Adding Banana Stem to the boiling water](/assets/uploads/2016/05/DSC_7530.jpg)
 
-Banana Stem Kadhi Step\_3\_d
-4. In the mean time, take a bowl add curd to it. To the curd put chickpea flour (besan) and mustard paste and mix it to bring to an uniform consistency.
-   
+Banana Stem Kadhi Step_3_d 4. In the mean time, take a bowl add curd to it. To the curd put chickpea flour (besan) and mustard paste and mix it to bring to an uniform consistency.
+
 [](/assets/uploads/2016/05/DSC_7535.jpg)
 
 ![Adding Chickpea Flour to curd](/assets/uploads/2016/05/DSC_7535.jpg)
 
 Adding Chickpea Flour to curd
-   
+
 [](/assets/uploads/2016/05/DSC_7538.jpg)
 
 ![Adding mustard paste to the curd mixture](/assets/uploads/2016/05/DSC_7538.jpg)
 
-Adding mustard paste to the curd mixture
-5. Add the bowl of mixture to the boiling banana stem. And let the gravy get cooked for 5-10 mins.
-   
+Adding mustard paste to the curd mixture 5. Add the bowl of mixture to the boiling banana stem. And let the gravy get cooked for 5-10 mins.
+
 [](/assets/uploads/2016/05/DSC_7542.jpg)
 
 ![Pouring the curd mixture to boiling Veggies](/assets/uploads/2016/05/DSC_7542.jpg)
 
 Pouring the curd mixture to boiling Veggies
-   
+
 [](/assets/uploads/2016/05/DSC_7545.jpg)
 
 ![Mixing it properly](/assets/uploads/2016/05/DSC_7545.jpg)
 
-Mixing it properly
-6. After mixture is properly cooked. Take off the vessel from the flame and put a small pan for tempering.
-   
+Mixing it properly 6. After mixture is properly cooked. Take off the vessel from the flame and put a small pan for tempering.
+
 [](/assets/uploads/2016/05/DSC_7549.jpg)
 
 ![Boiled Banana Stem Kadhi](/assets/uploads/2016/05/DSC_7549.jpg)
 
-Boiled Banana Stem Kadhi
-7. Heat the pan, once done, add 1 tbsp of mustard oil.
-   
+Boiled Banana Stem Kadhi 7. Heat the pan, once done, add 1 tbsp of mustard oil.
+
 [](/assets/uploads/2016/05/DSC_7550.jpg)
 
 ![Tempering](/assets/uploads/2016/05/DSC_7550.jpg)
 
-Adding Mustard Seeds to the hot oil in the pan
-8. Once it's heated properly, add the mustard seeds and let it crackle. Once its cooked add the curry leaves, slitted green chillies and crushed garlic cloves and saute it for 2 minutes.
-   
+Adding Mustard Seeds to the hot oil in the pan 8. Once it's heated properly, add the mustard seeds and let it crackle. Once its cooked add the curry leaves, slitted green chillies and crushed garlic cloves and saute it for 2 minutes.
+
 [](/assets/uploads/2016/05/DSC_7552.jpg)
 
 ![Tempering](/assets/uploads/2016/05/DSC_7552.jpg)
 
 Adding the Curry Leaves and Green Chillies
-   
+
 [](/assets/uploads/2016/05/DSC_7553.jpg)
 
 ![Tempering](/assets/uploads/2016/05/DSC_7553.jpg)
 
-Adding crushed Garlic
-9. Then add the tempering to the cooked gravy.
-   
+Adding crushed Garlic 9. Then add the tempering to the cooked gravy.
+
 [](/assets/uploads/2016/05/DSC_7556.jpg)
 
 ![Adding the tempering to the Banana Stem Kadhi](/assets/uploads/2016/05/DSC_7556.jpg)
@@ -154,4 +147,3 @@ Adding the tempering to the Banana Stem Kadhi
   <p><strong>Total time:</strong> 35 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

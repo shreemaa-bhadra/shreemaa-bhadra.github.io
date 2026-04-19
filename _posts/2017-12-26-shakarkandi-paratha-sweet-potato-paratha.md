@@ -1,26 +1,25 @@
 ---
 layout: post
 title: Shakarkandi Paratha or Sweet Potato Paratha - No Onion no Garlic
-date: '2017-12-26 00:00:00 +0000'
+date: "2017-12-26 00:00:00 +0000"
 categories:
-- bread
-- breakfast
-- north-indian
-- vegan
-- vegeterian
+  - bread
+  - breakfast
+  - north-indian
+  - vegan
+  - vegeterian
 tags:
-- easy
-- no-onion-no-garlic
-- prep-less-60-mins
-- sweet-potato
-- wheat
+  - easy
+  - no-onion-no-garlic
+  - prep-less-60-mins
+  - sweet-potato
+  - wheat
 image: "/assets/uploads/2017/12/DSC_3793.jpg"
 listing_summary: "Sweet Potato Paratha is an Indian spiced Flat bread with a wonderful medley of sweet and spiced taste. This paratha has a proper balance of taste and goodness of health. It can be enjoyed simply with a cup of tea or coffee."
 listing_image: "/assets/uploads/2017/12/DSC_3793.jpg"
 ---
 
-
-Sweet potatoes were never regular into the family menus until last year when the little one started taking solid food. It soon became his favorite along with carrots. But as he grew from a nicer infant to a terrible toddler, he got picky with lots of options and started ignoring the baked or boiled sweet potato pieces. However, upon experimentation, I've found his liking for Sweet Potato pancakes or Sweet Potato Paratha. This one is [no onion no garlic](http://cookspan.com/tag/no-onion-no-garlic/) recipe.
+Sweet potatoes were never regular into the family menus until last year when the little one started taking solid food. It soon became his favorite along with carrots. But as he grew from a nicer infant to a terrible toddler, he got picky with lots of options and started ignoring the baked or boiled sweet potato pieces. However, upon experimentation, I've found his liking for Sweet Potato pancakes or Sweet Potato Paratha. This one is no onion no garlic recipe.
 
 [](/assets/uploads/2017/12/DSC_3787.jpg)
 
@@ -53,95 +52,85 @@ Here goes the recipe of Shakarkandi Parathas or Sweet Potato Parathas:
 ## Steps of Preparation for Sweet Potato Paratha:
 
 1. In a large mixing bowl take all the spices (Cumin Powder, Carom seeds, Coriander Powder, Red Chili Powder, Turmeric Powder, Salt).
-   
+
 [](/assets/uploads/2017/12/DSC_3757.jpg)
 
 ![Powdered spices](/assets/uploads/2017/12/DSC_3757.jpg)
 
-Powdered spices
-2. In another bowl, peel off the sweet potatoes and mash it.
-   
+Powdered spices 2. In another bowl, peel off the sweet potatoes and mash it.
+
 [](/assets/uploads/2017/12/DSC_3758.jpg)
 
 ![Boiled Sweet Potato](/assets/uploads/2017/12/DSC_3758.jpg)
 
 Boiled Sweet Potato
-   
+
 [](/assets/uploads/2017/12/DSC_3761.jpg)
 
 ![Mashed Sweet Potato](/assets/uploads/2017/12/DSC_3761.jpg)
 
-Mashed Sweet Potato
-3. Add the Whole Wheat Flour to the spices and add 2 tbsp of clarified butter or ghee.
-   
+Mashed Sweet Potato 3. Add the Whole Wheat Flour to the spices and add 2 tbsp of clarified butter or ghee.
+
 [](/assets/uploads/2017/12/DSC_3763.jpg)
 
 ![Wheat Flour and Ghee Added ](/assets/uploads/2017/12/DSC_3763.jpg)
 
-Wheat Flour and Ghee Added
-4. To the Flour and spices add the mashed sweet potato.
-   
+Wheat Flour and Ghee Added 4. To the Flour and spices add the mashed sweet potato.
+
 [](/assets/uploads/2017/12/DSC_3764.jpg)
 
 ![Mashed Sweet Potato Added ](/assets/uploads/2017/12/DSC_3764.jpg)
 
-Mashed Sweet Potato Added
-5. Slowly mix the dough and knead it to form a soft smooth dough.
-   
+Mashed Sweet Potato Added 5. Slowly mix the dough and knead it to form a soft smooth dough.
+
 [](/assets/uploads/2017/12/DSC_3765.jpg)
 
 ![Kneading the Dough](/assets/uploads/2017/12/DSC_3765.jpg)
 
 Kneading the Dough
-   
+
 [](/assets/uploads/2017/12/DSC_3766.jpg)
 
 ![Dough](/assets/uploads/2017/12/DSC_3766.jpg)
 
-Dough
-6. Pinch out small portions to make small spheres.
-   
+Dough 6. Pinch out small portions to make small spheres.
+
 [](/assets/uploads/2017/12/DSC_3768.jpg)
 
 ![Small round portions of Dough](/assets/uploads/2017/12/DSC_3768.jpg)
 
-Small round portions of Dough
-7. Dust the small portion of dough with dry flour and roll to make a flat bread of round shape.
-   
+Small round portions of Dough 7. Dust the small portion of dough with dry flour and roll to make a flat bread of round shape.
+
 [](/assets/uploads/2017/12/DSC_3770.jpg)
 
 ![Dough all set to be rolled](/assets/uploads/2017/12/DSC_3770.jpg)
 
 Dough all set to be rolled
-   
+
 [](/assets/uploads/2017/12/DSC_3771.jpg)
 
 ![Rolled Paratha](/assets/uploads/2017/12/DSC_3771.jpg)
 
-Rolled Paratha
-8. Heat an iron griddle, add the flat bread. Flip it once bubbles appear on the surface.
-   
+Rolled Paratha 8. Heat an iron griddle, add the flat bread. Flip it once bubbles appear on the surface.
+
 [](/assets/uploads/2017/12/DSC_3773.jpg)
 
 ![Paratha on the Griddle](/assets/uploads/2017/12/DSC_3773.jpg)
 
-Paratha on the Griddle
-9. Cook the other side, till you see golden brown spots.
-10. Add 1 tsp of ghee and brush it on the surface facing upwards.
-   
+Paratha on the Griddle 9. Cook the other side, till you see golden brown spots. 10. Add 1 tsp of ghee and brush it on the surface facing upwards.
+
 [](/assets/uploads/2017/12/DSC_3776.jpg)
 
 ![Brushing with Clarified Butter](/assets/uploads/2017/12/DSC_3776.jpg)
 
 Brushing with Clarified Butter
-   
+
 [](/assets/uploads/2017/12/DSC_3777.jpg)
 
 ![Almost done Sweet Potato Paratha](/assets/uploads/2017/12/DSC_3777.jpg)
 
-Almost done Sweet Potato Paratha
-11. Flip the Paratha and repeat the previous step.
-   
+Almost done Sweet Potato Paratha 11. Flip the Paratha and repeat the previous step.
+
 [](/assets/uploads/2017/12/DSC_3781.jpg)
 
 ![Toddler's Choice ](/assets/uploads/2017/12/DSC_3781.jpg)
@@ -163,4 +152,3 @@ Decked up Paratha
   <p><strong>Total time:</strong> 30 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

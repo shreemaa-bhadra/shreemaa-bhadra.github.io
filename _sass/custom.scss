@@ -180,6 +180,28 @@ a:focus {
   text-decoration: underline;
 }
 
+/* Post content links should appear clickable */
+.post-content a,
+.post-content a:visited {
+  text-decoration: underline;
+  color: #e6a117;
+}
+
+.post-content a:hover,
+.post-content a:focus {
+  text-decoration: underline;
+  color: #c88a0f;
+}
+
+/* Mobile navigation z-index to stay above search box */
+.site-nav {
+  z-index: 100;
+}
+
+.nav-trigger:checked ~ .trigger {
+  z-index: 101;
+}
+
 /* Blog posts - narrow width centered */
 .post-content {
   max-width: 740px;

@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Mitha Khechudi or Sweet Khichdi
-date: '2018-01-24 00:00:00 +0000'
+date: "2018-01-24 00:00:00 +0000"
 categories:
-- odia
-- rice
-- vegan
-- vegeterian
+  - odia
+  - rice
+  - vegan
+  - vegeterian
 tags:
-- easy
-- no-onion-no-garlic
-- prep-10-mins
+  - easy
+  - no-onion-no-garlic
+  - prep-10-mins
 image: "/assets/uploads/2018/01/DSC_4231.jpg"
 listing_summary: "Mitha Khechudi is a quintessential Odia Khichdi. This dish is cooked almost in every household during the festivities and is paired with Dalma and served hot. It's gently sweet and perfect for all kinds of celebration platter."
 listing_image: "/assets/uploads/2018/01/DSC_4231.jpg"
@@ -18,7 +18,7 @@ listing_image: "/assets/uploads/2018/01/DSC_4231.jpg"
 
 ![mitha-khechudi image](/assets/uploads/2018/01/DSC_4231.jpg)
 
-Khichdi or famously known as Khechudi in [Odisha](http://cookspan.com/category/odia/) is very regular in my kitchen. The version for the winters is Masala (spiced) loaded winter vegetables with variations of lentils and rice. The summer always has a plain version with cumin tampering along with the variety of lentils and rice. But irrespective of the season, I make Khichdi once or even twice a week. But during celebrations or festivities, I cook the sweeter version the very Odia way, Mitha Khechudi or Sweet Khichdi with loads of ghee and grated coconut.
+Khichdi or famously known as Khechudi in [Odisha](/categories/odia/) is very regular in my kitchen. The version for the winters is Masala ( spiced) loaded winter vegetables with variations of lentils and rice. The summer always has a plain version with cumin tampering along with the variety of lentils and rice. But irrespective of the season, I make Khichdi once or even twice a week. But during celebrations or festivities, I cook the sweeter version the very Odia way, Mitha Khechudi or Sweet Khichdi with loads of ghee and grated coconut.
 
 [](/assets/uploads/2018/01/DSC_4240.jpg)
 
@@ -41,4 +41,3 @@ Mitha Khechudi
   <p><strong>Total time:</strong> 25 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

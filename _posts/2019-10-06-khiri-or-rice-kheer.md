@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Khiri or Rice Kheer or Indian Rice Pudding
-date: '2019-10-06 00:00:00 +0000'
+date: "2019-10-06 00:00:00 +0000"
 categories:
-- dessert
-- indian-sweets
+  - dessert
+  - indian-sweets
 tags:
-- festival
-- milk
-- prep-more-60mins
-- sweet-dish
+  - festival
+  - milk
+  - prep-more-60mins
+  - sweet-dish
 image: "/assets/uploads/2019/10/DSC_8150.jpg"
 listing_summary: "Khiri or Kheer is the sweetened rice pudding, where the rice is slow cooked with milk, sweetened with Sugar, flavored with cardamom and garnished with nuts and dry fruits ."
 listing_image: "/assets/uploads/2019/10/DSC_8150.jpg"
@@ -59,7 +59,7 @@ Here goes the simple yet classic recipe of Kheer or Khiri:
 - Take a small frying pan, add more 2 tbsp of ghee and add the nuts and dry fruits to toast it.
 - Then add the nuts and dry fruits for garnish.
 
-Serve the yummy Khiri or Rice Kheer in this [festive season](https://cookspan.com/tag/festival/) as a mandatory dessert. This classic dessert never goes wrong for the festive season.
+Serve the yummy Khiri or Rice Kheer in this festive season as a mandatory dessert. This classic dessert never goes wrong for the festive season.
 
 <figure>
 
@@ -80,4 +80,3 @@ Khiri or Rice Kheer
   <p><strong>Total time:</strong> 2 hours 10 mins</p>
   <p><strong>Serves:</strong> 10</p>
 </div>
-
