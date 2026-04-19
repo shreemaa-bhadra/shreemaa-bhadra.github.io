@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="home">
-  <div class="home-intro">
-    {{ content }}
-  </div>
+  {%- include search.html -%}
+
+  <h2 class="section-heading" id="latest-posts-heading">Latest Recipes</h2>
 
   {%- if site.posts.size > 0 -%}
-  <div class="post-previews" role="feed" aria-label="Recipe posts">
+  <div id="all-posts" class="post-previews" role="feed" aria-label="Recipe posts">
     {%- for post in site.posts -%}
     <article class="post-preview">
       {%- if post.listing_image -%}
