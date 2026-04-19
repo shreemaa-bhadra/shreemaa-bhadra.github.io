@@ -1,5 +1,11 @@
-const CACHE_VERSION = "cookspan-v1";
-const CACHE_URLS = ["/", "/index.html", "/assets/main.css", "/feed.xml"];
+const CACHE_VERSION = "cookspan-v2";
+const CACHE_URLS = [
+  "/",
+  "/index.html",
+  "/assets/main.css",
+  "/feed.xml",
+  "/search.json",
+];
 
 // Install event - cache essential files and all articles
 self.addEventListener("install", (event) => {
