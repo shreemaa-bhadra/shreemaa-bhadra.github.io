@@ -1,21 +1,19 @@
 ---
 layout: post
 title: Lau Badi Besara | Step by Step
-date: '2021-04-18 00:00:00 +0000'
+date: "2021-04-18 00:00:00 +0000"
 categories:
-- odia
+  - odia
 tags:
-- easy
-- lauki
-- mustard
-- prep-10-mins
-- summer
+  - easy
+  - lauki
+  - mustard
+  - prep-10-mins
+  - summer
 image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 listing_summary: "Lau Badi Besara is an Odia dish cooked with bottle gourd in a pungent mustard gravy, topped with crunchy badis (sun dried lentil dumpling)."
 listing_image: "/assets/uploads/2021/04/IMG_2318-scaled.jpeg"
 ---
-
-![lau-badi-besara-step-by-step image](/assets/uploads/2021/04/IMG_2318-scaled.jpeg)
 
 If there is one food that I inherited that I adore, it is unquestionably besara. Besara is a garlicky mustard paste that improves the flavor of a number of dishes. It's cooked with seafood, a wide range of leafy greens, vegetables, and mushrooms to spike and elevate the flavors with the pungency of mustard. One of them is Lau Badi Besara. Lau refers to the bottle gourd, and Badi is a sun-dried lentil dumpling used in many [Odia](https://cookspan.com/category/odia/) dishes to add crunch and flavor to the gravy.
 
@@ -72,4 +70,3 @@ Let's get cooking and get into the details of this everyday comfort Odia recipe 
   <p><strong>Total time:</strong> 40 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-
