@@ -1,8 +1,9 @@
 title: Cook's Pan
 description: >-
-  Recipes, notes, and stories from the Shreemaa's Kitchen.
+  Recipes, notes, and stories from Shreemaa's Kitchen. Discover authentic Indian and fusion recipes with step-by-step instructions.
 baseurl: ""
 url: "https://cookspan.github.io/cookspan"
+lang: en
 
 author:
   name: Shreemaa Bhadra
@@ -14,6 +15,22 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+jekyll_seo_tag:
+  type: WebSite
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Shreemaa Bhadra"
+  - scope:
+      path: ""
+    values:
+      image: /assets/logo.png
 
 markdown: kramdown
 permalink: pretty

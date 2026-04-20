@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cookspan.github.io/cookspan/sitemap.xml
+
+# Optimize crawling
+Crawl-delay: 1
+
+# Disallow admin/pattern paths (none currently)
+# Disallow: /admin/
+# Disallow: /drafts/

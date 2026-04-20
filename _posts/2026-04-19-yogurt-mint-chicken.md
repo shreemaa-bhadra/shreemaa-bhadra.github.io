@@ -8,9 +8,25 @@ categories:
 tags:
   - easy
   - marinated
+cuisine: Indian
+keywords: "yogurt mint chicken, baked chicken recipe, Indian chicken recipe, mint marinade, easy dinner"
 image: "/assets/uploads/2026/04/out from oven.jpg"
 listing_summary: "Yogurt Mint Chicken is a flavorful, easy baked chicken dish marinated in a refreshing blend of fresh mint, green chillies, yogurt, and aromatic spices. Perfect for weeknight dinners!"
 listing_image: "/assets/uploads/2026/04/final.jpg"
+prep_time: "PT15M"
+cook_time: "PT60M"
+total_time: "PT2H"
+recipe_yield: "4-6 servings"
+diet: "NonVegetarian"
+ingredients:
+  - "6-8 chicken drumsticks or thighs (about 1.5 lbs)"
+  - "1 cup fresh mint leaves, tightly packed"
+  - "2-3 green chillies"
+  - "1 tbsp ginger-garlic paste"
+  - "1/2 cup thick yogurt (curd)"
+  - "1 tsp black pepper powder"
+  - "Salt to taste"
+  - "1 tbsp mustard oil"
 ---
 
 There's something magical about the combination of cool, creamy yogurt and fresh, fragrant mint. When paired with tender chicken and baked to golden perfection, it creates a dish that's both comforting and refreshing. This Yogurt Mint Chicken has become a favorite in our home - it's incredibly easy to prepare, requires minimal hands-on time, and the results are always impressive.

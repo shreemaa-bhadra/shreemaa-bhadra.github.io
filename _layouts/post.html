@@ -35,6 +35,42 @@ layout: default
     <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+{% if page.image %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": {{ page.title | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author.name | jsonify }}
+  },
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "description": {{ page.listing_summary | default: page.excerpt | strip_html | truncate: 160 | jsonify }},
+  "image": {{ page.image | absolute_url | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  {% if page.prep_time %}"prepTime": {{ page.prep_time | jsonify }},{% endif %}
+  {% if page.cook_time %}"cookTime": {{ page.cook_time | jsonify }},{% endif %}
+  {% if page.total_time %}"totalTime": {{ page.total_time | jsonify }},{% endif %}
+  {% if page.recipe_yield %}"recipeYield": {{ page.recipe_yield | jsonify }},
+  "suitableForDiet": "https://schema.org/{{ page.diet | default: 'RegularDiet' }}",{% endif %}
+  "recipeCategory": {{ page.categories | first | default: 'Main Course' | jsonify }},
+  "recipeCuisine": {{ page.cuisine | default: 'Indian' | jsonify }},
+  {% if page.keywords %}"keywords": {{ page.keywords | jsonify }},{% endif %}
+  {% if page.ingredients %}"recipeIngredient": {{ page.ingredients | jsonify }},{% endif %}
+  {% if page.rating %}"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": {{ page.rating | jsonify }},
+    "reviewCount": {{ page.review_count | default: 1 | jsonify }}
+  },{% endif %}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  }
+}
+</script>
+{% endif %}
+
 <style>
     .post-footer {
         margin-top: 2rem;
