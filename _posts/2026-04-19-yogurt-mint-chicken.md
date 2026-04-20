@@ -36,27 +36,27 @@ Whether you're looking for a simple weeknight dinner or something special for gu
 
 Preparation Time: 15 mins | Marinating Time: 45 mins | Cooking Time: 60 mins
 
-1. **Prepare the marinade paste:** In a blender or food processor, grind together fresh mint leaves, green chillies, ginger-garlic paste, and a pinch of salt into a smooth paste. Add a splash of water if needed to help blend.
+- **Prepare the marinade paste:** In a blender or food processor, grind together fresh mint leaves, green chillies, ginger-garlic paste, and a pinch of salt into a smooth paste. Add a splash of water if needed to help blend.
 
-2. **Mix the marinade:** In a large bowl, combine the mint paste with thick yogurt, black pepper powder, salt, and mustard oil. Whisk until well combined into a smooth, vibrant green marinade.
+- **Mix the marinade:** In a large bowl, combine the mint paste with thick yogurt, black pepper powder, salt, and mustard oil. Whisk until well combined into a smooth, vibrant green marinade.
 
-3. **Marinate the chicken:** Add the chicken pieces to the bowl and coat them thoroughly with the marinade. Make sure every piece is well covered. Cover the bowl and let it marinate in the refrigerator for at least 45 minutes.
+- **Marinate the chicken:** Add the chicken pieces to the bowl and coat them thoroughly with the marinade. Make sure every piece is well covered. Cover the bowl and let it marinate in the refrigerator for at least 45 minutes.
 
 ![marinated chicken ready for oven](/assets/uploads/2026/04/marination.jpg)
 
 _The chicken after marinating, ready to go into the oven_
 
-4. **Preheat the oven:** Preheat your oven to 400°F (200°C). Line a baking sheet with foil and place a wire rack on top (this helps the chicken cook evenly and get crispy).
+- **Preheat the oven:** Preheat your oven to 400°F (200°C). Line a baking sheet with foil and place a wire rack on top (this helps the chicken cook evenly and get crispy).
 
-5. **First bake:** Arrange the marinated chicken pieces on the wire rack, leaving some space between them. Bake for 25 minutes.
+- **Bake the chicken:**First bake:\*\* Arrange the marinated chicken pieces on the wire rack, leaving some space between them. Bake for 25 minutes.
 
-6. **Flip and continue baking:** Remove the chicken from the oven, carefully flip each piece, and return to the oven. Bake for another 35 minutes until the chicken is cooked through and golden on the outside. The internal temperature should reach 165°F (74°C).
+- **Flip and continue baking:** Remove the chicken from the oven, carefully flip each piece, and return to the oven. Bake for another 35 minutes until the chicken is cooked through and golden on the outside. The internal temperature should reach 165°F (74°C).
 
 ![baked yogurt mint chicken on wire rack](/assets/uploads/2026/04/out from oven.jpg)
 
 _Freshly baked yogurt mint chicken, golden and fragrant_
 
-7. **Rest and serve:** Let the chicken rest for 5 minutes before serving. This helps the juices redistribute and keeps the meat tender.
+- **Rest and serve:** Let the chicken rest for 5 minutes before serving. This helps the juices redistribute and keeps the meat tender.
 
 ![yogurt-mint-chicken-plated image](/assets/uploads/2026/04/final.jpg)
 
