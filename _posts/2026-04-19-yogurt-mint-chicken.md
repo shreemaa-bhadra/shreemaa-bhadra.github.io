@@ -81,9 +81,9 @@ _Serve this beautiful dish with your favorite sides_
 ## Serving Suggestions:
 
 - Enjoy with warm naan or flaky parathas
-- Pair with a cooling [cucumber raita](/categories/raita/) to balance the flavors
+- Pair with a cooling cucumber raita to balance the flavors
 - Serve alongside a simple onion-cucumber salad with lemon dressing
-- Great with [jeera rice](/categories/rice/) or plain steamed basmati rice
+- Great with jeera rice or plain steamed basmati rice
 
 > "The secret ingredient is always love... and a good marinade!"
 

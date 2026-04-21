@@ -1,4 +1,4 @@
-const CACHE_VERSION = "cookspan-v10";
+const CACHE_VERSION = "cookspan-v11";
 const CACHE_URLS = [
   "/",
   "/index.html",
