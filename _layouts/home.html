@@ -5,8 +5,6 @@ layout: default
 <div class="home">
   {%- include search.html -%}
 
-  <h2 class="section-heading" id="latest-posts-heading">Latest Recipes</h2>
-
   {%- if site.posts.size > 0 -%}
   <div id="all-posts" class="post-previews" role="feed" aria-label="Recipe posts">
     {%- for post in site.posts -%}
