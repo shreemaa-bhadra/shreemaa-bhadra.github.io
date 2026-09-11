@@ -23,6 +23,35 @@ Here goes the recipe of Dhania Chutney:
 
 Ingredients
 
+## Ingredients for Dhania Chutney:
+
+1. Coriander or Dhania Leaves - 1 bunch
+2. Cumin Seeds - 1 tsp
+3. Garlic cloves - 2
+4. Green Chilies - 2
+5. Tamarind - 1 small ball (you can vary the amount according to your taste)
+6. Salt - according to the taste
+7. Black Salt - a sprinkle to enhance the taste
+
+## Steps of Preparation for Dhania Chutney:
+
+1. Clean and pat dry the dhania / coriander leaves and the green chilies.
+2. Put all the ingredients together in the blender and make a smooth paste.
+
+[](/assets/uploads/2018/02/DSC_4421.jpg)
+
+![Ready to grind](/assets/uploads/2018/02/DSC_4421.jpg)
+
+Ready to grind
+
+And serve it fresh with anything and everything and don't forget to sprinkle a hint of black salt to give it that chatore wala zing.
+
+[](/assets/uploads/2018/02/DSC_4422.jpg)
+
+![Coriander Chutney](/assets/uploads/2018/02/DSC_4422.jpg)
+
+Dhania Chutney
+
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Condiment</p>
   <p><strong>Cuisine:</strong> Indian</p>
@@ -30,4 +59,3 @@ Ingredients
   <p><strong>Total time:</strong> 2 mins</p>
   <p><strong>Serves:</strong> 4</p>
 </div>
-

@@ -47,6 +47,9 @@ Here goes a simple Granola Recipe:
 4. Keep baking and turn the mixture every 10-15 mins, ensuring the mixture is not burnt.
 5. Keep doing this for 30 mins. Then add the toppings and then spread uniformly.
 6. Bake the mixture for more 10mins.
+7. Cool the Granola for 1-2 hrs and store it in an airtight container.
+
+This granola is a great lifesaver and goes well for at least a month without getting spoiled.
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Breakfast</p>

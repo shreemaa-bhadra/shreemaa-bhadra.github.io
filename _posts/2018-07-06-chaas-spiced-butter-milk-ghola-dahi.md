@@ -31,6 +31,7 @@ This is my first summer in Pacific North West and so far the summer had eluded t
 
 1. Take all the fresh ingredients and wash thoroughly.
 2. Take the blender and blend all the ingredients with one cup of water until all the whole pieces are ground.
+3. Add water and mix uniformly. Then refrigerate for 2-3 hrs.
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Drinks</p>

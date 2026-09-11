@@ -28,6 +28,38 @@ Jeera Rice is easily available in restaurants as it is fast to cook. But the am
 
 Jeera Rice Ingredient
 
+## Ingredients for Jeera Rice:
+
+1. Basmati Rice or Long Grained Rice - 1 cup
+2. Cumin seeds - 1 tbsp
+3. Coriander leaves - Finely chopped
+4. Green chilies - 1 piece
+5. Ghee or Clarified Butter - 1 tbsp
+6. Bay leaves - 1 piece
+7. Cloves - 2 pieces
+8. Cardamom - 2 pieces
+9. Cinnamon - 1 medium stick
+10. Salt - according to the taste
+
+## Steps of Preparation for Jeera Rice:
+
+1. Soak the rice for 15 mins in water. The process will make the rice elongated.
+2. In a pot, add the water and let it come to a boil.
+3. Add the soaked rice to a boil, add the flavorings like cinnamon, cardamom, cloves, bay leaves and salt to the boiling rice.
+4. Check the rice is properly cooked, by pressing some grains of rice.
+5. Once it's cooked properly, drain the excess water.
+6. Heat another pan, add ghee or clarified butter to the pan.
+7. In the pan, add cumin seeds, finely chopped green chilies and coriander leaves.
+8. After the tempering is done, add the tempering to the rice bowl and mix well.
+
+[](/assets/uploads/2015/05/Jeera-Rice.jpg)
+
+![Jeera Rice](/assets/uploads/2015/05/Jeera-Rice.jpg)
+
+Jeera Rice
+
+"Jeera Rice" is amazing subtle flavored rice. Serve it with any side dish of your choice.
+
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>
   <p><strong>Cuisine:</strong> Indian</p>

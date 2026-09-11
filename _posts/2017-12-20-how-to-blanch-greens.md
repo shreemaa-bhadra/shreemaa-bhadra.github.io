@@ -44,6 +44,8 @@ Grinding the greens
 **Tips to avoid the discoloration:**
 
 1. Don't add turmeric to these green gravies, that impact the dark green color.
+2. Avoid using tomatoes in these curry base. For sourness rather use curd.
+3. Excess use of milk or cream also lightens the green color of the gravy.
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Gravy Base</p>

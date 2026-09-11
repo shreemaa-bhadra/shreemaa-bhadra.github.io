@@ -34,6 +34,8 @@ Overnight Oats with Berries and almonds
 ### Steps of Preparation of Overnight Oats with Berries and Almonds:
 
 1. Mix the Old fashioned rolled Oats, Yogurt and Milk in a bowl or mason Jar and store in the refrigerator for over night. It can be stored for 2-3 days.
+2. Next morning, top the soaked creamy oats with berries and nuts.
+3. Finally, add 1 tbsp honey on top of each serving.
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Breakfast</p>

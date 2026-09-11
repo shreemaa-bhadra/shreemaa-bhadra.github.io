@@ -62,6 +62,9 @@ Dahi Baingan Ingredient
 6. In a pan, heat the oil. Then splutter the mustard seeds.
 7. After the spluttering of the mustard seeds add the green chilies with a small slit, crushed garlic cloves and curry leaves.
 8. Add the tadka/tempering to the mustard flavored curd and Eggplant.
+9. Garnish the dish with the chopped coriander leaves, it adds to the taste and color of the dish.
+
+The Dahi Baingan can be served with a proper meal or individually with rice.
 
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>

@@ -34,6 +34,123 @@ Last weekend was Makar Sankranti, my house was loaded with all the Chikkis and J
 
 Mitha Khechudi
 
+Here goes the recipe for Mitha Khechudi:
+
+## Ingredients for Mitha Khechudi:
+
+1. Yellow Split Moong Dal - 1/2 cup
+2. Small Grained Rice - 3/4 cup (I used the raw Sona Masoori)
+3. Bay Leaves - 2
+4. Grated Ginger - 2 tsp
+5. Salt - According to taste
+6. Turmeric - 1 tsp
+7. Sugar - 3 tbsp
+8. Grated Coconut - 1/4 cup and 2 tbsp for garnishing
+9. Water - 3 cups
+10. Ghee or Clarified Butter - 2 tbsp
+
+## Steps of Preparation for Mitha Khechudi:
+
+1. First of all roast the yellow Split Moong Dal in low to medium heat until the grains are golden.
+
+[](/assets/uploads/2018/01/DSC_4137.jpg)
+
+![Roasting the Yellow Split Moong Dal](/assets/uploads/2018/01/DSC_4137.jpg)
+
+Roasting the Yellow Split Moong Dal
+
+2. Heat the pressure cooker, and add the ghee.
+
+[](/assets/uploads/2018/01/DSC_4148.jpg)
+
+![Ghee melting in the pressure cooker](/assets/uploads/2018/01/DSC_4148.jpg)
+
+Ghee melting in the pressure cooker
+
+3. Then add the Bay Leaves to the ghee and saute till the flavor gets into the ghee.
+
+[](/assets/uploads/2018/01/DSC_4150.jpg)
+
+![Bay Leaves](/assets/uploads/2018/01/DSC_4150.jpg)
+
+Bay Leaves
+
+4. Add the Moong Dal and Rice and saute for 1 min.
+
+[](/assets/uploads/2018/01/DSC_4151.jpg)
+
+![Adding the Moong Dal](/assets/uploads/2018/01/DSC_4151.jpg)
+
+Adding the Moong Dal
+
+[](/assets/uploads/2018/01/DSC_4152.jpg)
+
+![Addition of washed Rice](/assets/uploads/2018/01/DSC_4152.jpg)
+
+Addition of washed Rice
+
+5. Then into the mixture, add grated ginger, turmeric, salt and sugar and mix gently.
+
+[](/assets/uploads/2018/01/DSC_4159.jpg)
+
+![Grated ginger added](/assets/uploads/2018/01/DSC_4159.jpg)
+
+Grated ginger added
+
+[](/assets/uploads/2018/01/DSC_4161.jpg)
+
+![Turmeric is added](/assets/uploads/2018/01/DSC_4161.jpg)
+
+Turmeric is added
+
+[](/assets/uploads/2018/01/DSC_4162.jpg)
+
+![Adding Salt](/assets/uploads/2018/01/DSC_4162.jpg)
+
+Adding Salt
+
+[](/assets/uploads/2018/01/DSC_4164.jpg)
+
+![Adding Sugar](/assets/uploads/2018/01/DSC_4164.jpg)
+
+Adding Sugar
+
+[](/assets/uploads/2018/01/DSC_4166.jpg)
+
+![Gently mixing all the Ingredients](/assets/uploads/2018/01/DSC_4166.jpg)
+
+Gently mixing all the Ingredients
+
+6. Thereafter add 3 cups of water and the grated coconut.
+
+[](/assets/uploads/2018/01/DSC_4170.jpg)
+
+![Adding Water](/assets/uploads/2018/01/DSC_4170.jpg)
+
+Adding Water
+
+[](/assets/uploads/2018/01/DSC_4171.jpg)
+
+![Adding the grated coconut](/assets/uploads/2018/01/DSC_4171.jpg)
+
+Adding the grated coconut
+
+7. Cover the lid and let it cook for 1 whistle.
+
+[](/assets/uploads/2018/01/DSC_4176.jpg)
+
+![Cooking it for 1 whistle](/assets/uploads/2018/01/DSC_4176.jpg)
+
+Cooking it for 1 whistle
+
+Finally, garnish the Mitha Khechudi with the remaining Grated Coconut and serve it hot with piping hot Dalma or Spicy Aloo Dum.
+
+[](/assets/uploads/2018/01/DSC_4231.jpg)
+
+![Mitha Khechudi](/assets/uploads/2018/01/DSC_4231.jpg)
+
+Mitha Khechudi
+
 <div class="recipe-meta">
   <p><strong>Recipe Type:</strong> Main</p>
   <p><strong>Cuisine:</strong> Indian</p>
