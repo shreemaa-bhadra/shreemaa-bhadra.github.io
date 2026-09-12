@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cookspan.github.io/cookspan/sitemap.xml
+Sitemap: https://cookspan.com/sitemap.xml
 
 # Optimize crawling
 Crawl-delay: 1

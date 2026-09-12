@@ -58,7 +58,12 @@ Before writing, ask about anything unclear:
 
 ### 5. Generate the Post Content
 
-Based on the user's input, write the post following this structure:
+Based on the user's input, write the post following this structure.
+
+> **SEO fields are required** — always fill in every field in the `# --- SEO fields ---` section. Do not leave them as placeholders. Use the information gathered in steps 1–4 to generate:
+> - `description`: ≤160 chars, includes dish name + key appeal, used as the `<meta name="description">` and Open Graph description.
+> - `keywords`: 5–8 comma-separated search terms the recipe would rank for.
+> - `cuisine`, `diet`, timing fields, `recipe_yield`, `ingredients` list: power the Schema.org Recipe structured data that enables Google's rich recipe results.
 
 **Frontmatter:**
 
@@ -74,8 +79,27 @@ tags:
   - [tag1]
   - [tag2]
 image: "/assets/uploads/YYYY/MM/filename.jpg"
-listing_summary: "[Brief 1-2 sentence description]"
+listing_summary: "[Brief 1-2 sentence description for cards/listings]"
 listing_image: "/assets/uploads/YYYY/MM/filename.jpg"
+
+# --- SEO fields ---
+# description: used by jekyll-seo-tag for <meta name="description"> and OG description.
+#   Write 1-2 sentences (≤160 chars) highlighting the dish, key flavors, and a hook.
+description: "[SEO meta description: 1-2 sentences, ≤160 chars, include the dish name and main appeal]"
+# keywords: comma-separated search terms someone might type to find this recipe.
+keywords: "[dish name], [cuisine] recipe, [key ingredient] recipe, [occasion/difficulty], [descriptors]"
+# cuisine / diet: used in Schema.org Recipe structured data
+cuisine: "[Indian / Odia / Bengali / etc.]"
+diet: "[Vegetarian / NonVegetarian / Vegan / Eggless — must be a valid Schema.org DietRestriction]"
+# timing: ISO 8601 duration format (PT15M = 15 min, PT1H30M = 1h30m)
+prep_time: "PT[X]M"
+cook_time: "PT[X]M"
+total_time: "PT[X]M"
+recipe_yield: "[X servings]"
+# ingredients: machine-readable list for Schema.org (mirrors the Ingredients section below)
+ingredients:
+  - "[quantity + unit + ingredient name]"
+  - "[quantity + unit + ingredient name]"
 ---
 ```
 

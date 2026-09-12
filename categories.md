@@ -2,6 +2,7 @@
 layout: page
 title: Categories
 permalink: /categories/
+description: "Browse all recipe categories on Cook's Pan — from Odia and Indian classics to baking, snacks, beverages and more."
 ---
 
 <div class="tags-categories-section">
