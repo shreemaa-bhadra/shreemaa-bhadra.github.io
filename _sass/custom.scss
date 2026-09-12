@@ -5,15 +5,29 @@ $preview-rule: #e8e8e8;
 $preview-thumb-bg: #f0f0f0;
 $theme-color: #e6a117;
 
-/* Modern, polished font stack */
-$system-font-stack:
-  -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial,
-  sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+/* Modern food blog typography */
+$font-heading: "Shippori Mincho", Georgia, Cambria, "Times New Roman", serif;
+$font-body: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 
 body {
-  font-family: $system-font-stack;
+  font-family: $font-body;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.post-title,
+.page-heading,
+.page-title,
+.section-heading,
+.post-preview__title,
+.tags-section h2,
+.tags-categories-section h2,
+.category-section h3,
+.tag-section h3,
+.search-results-heading {
+  font-family: $font-heading;
 }
 
 .wrapper {
@@ -38,7 +52,7 @@ body {
 
 .home-intro {
   margin-bottom: 1.75rem;
-  font-family: $system-font-stack;
+  font-family: $font-body;
 }
 
 .post-previews {
@@ -143,19 +157,19 @@ body {
 
 .post-preview__title {
   margin: 0.25rem 0 0.5rem;
-  font-size: 1.1rem;
-  line-height: 1.25;
+  font-size: 1.2rem;
+  line-height: 1.3;
   font-weight: 600;
-  font-family: $system-font-stack;
-  letter-spacing: -0.2px;
+  font-family: $font-heading;
+  letter-spacing: -0.01em;
 }
 
 .post-preview__summary {
   margin: 0.5rem 0 0;
-  font-size: 0.9rem;
-  line-height: 1.5;
+  font-size: 0.92rem;
+  line-height: 1.55;
   color: $preview-muted;
-  font-family: $system-font-stack;
+  font-family: $font-body;
   font-weight: 400;
   flex-grow: 1;
 }
@@ -165,7 +179,7 @@ body {
   margin: 0 0 0.5rem 0;
   font-size: 0.8rem;
   color: $preview-muted;
-  font-family: $system-font-stack;
+  font-family: $font-body;
 }
 
 /* Remove decorations for visited links */
@@ -196,6 +210,8 @@ a:focus {
 
 /* Mobile navigation z-index to stay above search box */
 .site-nav {
+  font-family: $font-body;
+  font-weight: 500;
   z-index: 100;
 }
 
@@ -208,6 +224,31 @@ a:focus {
   max-width: 740px;
   margin-left: auto;
   margin-right: auto;
+  font-family: $font-body;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #2b2b2b;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $font-heading;
+    color: #1a1a1a;
+    font-weight: 600;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-top: 2.25rem;
+    margin-bottom: 0.85rem;
+    line-height: 1.3;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid $preview-rule;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+  }
 }
 
 /* Post title aligned with content */
@@ -216,6 +257,9 @@ a:focus {
   max-width: 740px;
   margin-left: auto;
   margin-right: auto;
+  font-family: $font-heading;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
 }
 
 /* Post date/header aligned with content */
@@ -224,6 +268,7 @@ a:focus {
   max-width: 740px;
   margin-left: auto;
   margin-right: auto;
+  font-family: $font-body;
 }
 
 /* Tags and Categories page styling */
@@ -241,7 +286,7 @@ a:focus {
 .tags-section h2 {
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
-  font-family: $system-font-stack;
+  font-family: $font-heading;
 }
 
 .tag-list {
@@ -259,7 +304,7 @@ a:focus {
   text-decoration: none;
   color: #333;
   font-size: 0.9rem;
-  font-family: $system-font-stack;
+  font-family: $font-body;
   transition: all 0.2s ease;
 }
 
@@ -280,7 +325,7 @@ a:focus {
 .tags-categories-section h2 {
   font-size: 1.8rem;
   margin-bottom: 1.5rem;
-  font-family: $system-font-stack;
+  font-family: $font-heading;
   font-weight: 700;
 }
 
@@ -302,7 +347,7 @@ a:focus {
 .tag-section h3 {
   font-size: 1.3rem;
   margin-bottom: 1.5rem;
-  font-family: $system-font-stack;
+  font-family: $font-heading;
   scroll-margin-top: 5rem;
 }
 
@@ -322,7 +367,7 @@ a:focus {
   margin: 0;
   font-size: 0.9rem;
   color: $preview-muted;
-  font-family: $system-font-stack;
+  font-family: $font-body;
   line-height: 1.6;
 }
 
@@ -363,7 +408,7 @@ a:focus {
   font-weight: 600;
   margin: 2.5rem 0 1.5rem;
   color: #333;
-  font-family: $system-font-stack;
+  font-family: $font-heading;
 }
 
 /* Search Section - Minimal by default, expands when active */
@@ -396,7 +441,7 @@ a:focus {
   width: 100%;
   padding: 1rem 3rem 1rem 1.25rem;
   font-size: 1.1rem;
-  font-family: $system-font-stack;
+  font-family: $font-body;
   border: 2px solid #ddd;
   border-radius: 50px;
   background: white;
@@ -462,7 +507,7 @@ a:focus {
   font-weight: 600;
   margin: 0 0 1.5rem;
   color: #333;
-  font-family: $system-font-stack;
+  font-family: $font-heading;
 
   span {
     color: #767676;
@@ -540,7 +585,7 @@ a:focus {
   border: none;
   border-radius: 20px;
   font-size: 0.95rem;
-  font-family: $system-font-stack;
+  font-family: $font-body;
   cursor: pointer;
   transition: all 0.2s ease;
 
@@ -595,7 +640,7 @@ a:focus {
     font-size: 0.95rem;
     line-height: 1.5;
     color: #495057;
-    font-family: $system-font-stack;
+    font-family: $font-body;
 
     &:first-child {
       margin-top: 0;
