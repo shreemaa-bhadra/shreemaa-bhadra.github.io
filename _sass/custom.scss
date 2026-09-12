@@ -658,3 +658,167 @@ a:focus {
     }
   }
 }
+
+/* ============================================================
+   Print Styles — clean, clutter-free article printing
+   ============================================================ */
+
+@media print {
+  /* Page margins */
+  @page {
+    margin: 1.5cm 1.8cm;
+  }
+
+  /* --- Hide site chrome --- */
+  .site-header,
+  .site-footer,
+  .post-footer,
+  .post-print-btn,
+  .search-section,
+  .search-box-wrapper,
+  .search-results-section,
+  .nav-trigger,
+  .menu-icon,
+  .site-nav,
+  .site-logo-link,
+  noscript,
+  script {
+    display: none !important;
+  }
+
+  /* --- Reset page layout --- */
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 11pt;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Remove wrapper width constraints for print */
+  .wrapper,
+  .page-content,
+  main {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Expand article to full width */
+  article.post {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Post header — title and meta */
+  .post-header {
+    max-width: 100% !important;
+    margin: 0 0 1.5em 0 !important;
+    padding-bottom: 0.75em;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .post-meta-container {
+    max-width: 100% !important;
+    flex-wrap: wrap;
+  }
+
+  .post-title,
+  .page-heading {
+    max-width: 100% !important;
+    font-size: 22pt;
+    margin: 0 0 0.3em 0 !important;
+    color: #000 !important;
+    line-height: 1.25;
+  }
+
+  .post-meta {
+    font-size: 9pt;
+    color: #555 !important;
+    margin: 0 !important;
+  }
+
+  /* Post content — full width, readable */
+  .post-content {
+    max-width: 100% !important;
+    font-size: 11pt;
+    line-height: 1.65;
+    color: #000 !important;
+
+    h1, h2, h3, h4, h5, h6 {
+      color: #000 !important;
+      break-after: avoid;
+      page-break-after: avoid;
+    }
+
+    h2 {
+      font-size: 15pt;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.2em;
+      margin-top: 1.5em;
+    }
+
+    h3 {
+      font-size: 13pt;
+    }
+
+    p, ul, ol, li {
+      orphans: 3;
+      widows: 3;
+    }
+
+    img {
+      max-width: 100% !important;
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    ul, ol {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+  }
+
+  /* Recipe meta card — keep together on one page */
+  .recipe-meta {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border: 1pt solid #bbb !important;
+    border-left: 3pt solid #888 !important;
+    background: #f9f9f9 !important;
+    box-shadow: none !important;
+
+    p strong {
+      color: #333 !important;
+    }
+  }
+
+  /* --- Suppress link decoration --- */
+  a,
+  a:link,
+  a:visited {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  /* Do NOT print link URLs after text */
+  a[href]:after {
+    content: none !important;
+  }
+
+  /* Post content links: show as normal text, not highlighted */
+  .post-content a,
+  .post-content a:link,
+  .post-content a:visited {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+
+  .post-content a:after {
+    content: none !important;
+  }
+}

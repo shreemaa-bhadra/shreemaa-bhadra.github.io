@@ -4,16 +4,26 @@ layout: default
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-meta">
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {%- assign _df = site.minima.date_format | default: "%b %-d, %Y" -%}
-                {{ page.date | date: _df }}
-            </time>
-            {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span class="p-author h-card"
-                    itemprop="name">{{ page.author | escape }}</span></span>
-            {%- endif -%}
-        </p>
+        <div class="post-meta-container">
+            <p class="post-meta">
+                <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                    {%- assign _df = site.minima.date_format | default: "%b %-d, %Y" -%}
+                    {{ page.date | date: _df }}
+                </time>
+                {%- if page.author -%}
+                • <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span class="p-author h-card"
+                        itemprop="name">{{ page.author | escape }}</span></span>
+                {%- endif -%}
+            </p>
+            <button class="post-print-btn" onclick="window.print()" aria-label="Print this {% if page.ingredients %}recipe{% else %}article{% endif %}">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                    <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                    <rect x="6" y="14" width="12" height="8"></rect>
+                </svg>
+                Print {% if page.ingredients %}Recipe{% else %}Article{% endif %}
+            </button>
+        </div>
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">
@@ -72,6 +82,61 @@ layout: default
 {% endif %}
 
 <style>
+    .post-meta-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        max-width: 740px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .post-meta-container .post-meta {
+        margin: 0 !important;
+        text-align: left !important;
+        font-size: 0.875rem;
+        color: #767676;
+        flex-grow: 1;
+    }
+
+    .post-print-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        padding: 0.4rem 1rem;
+        background: transparent;
+        border: 1.5px solid #d4b37a;
+        border-radius: 50px;
+        color: #9a7040;
+        font-size: 0.82rem;
+        font-family: inherit;
+        font-weight: 500;
+        cursor: pointer;
+        text-decoration: none;
+        transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+        white-space: nowrap;
+        letter-spacing: 0.01em;
+    }
+
+    .post-print-btn:hover,
+    .post-print-btn:focus {
+        background-color: #fdf5e8;
+        border-color: #b8892a;
+        color: #7a5520;
+        outline: none;
+    }
+
+    .post-print-btn:focus-visible {
+        outline: 2px solid #e6a117;
+        outline-offset: 2px;
+    }
+
+    .post-print-btn svg {
+        flex-shrink: 0;
+    }
+
     .post-footer {
         margin-top: 2rem;
         padding-top: 1.5rem;
