@@ -124,6 +124,7 @@ ingredients:
 - Format steps as numbered list with clear, actionable instructions
 - Include `_Preparation Time: X mins_ _Cooking Time: Y mins_` before steps when relevant
 - Reference other related posts on the blog where applicable (e.g., "This pairs well with [Mango Chutney](link)")
+- Avoid using em dashes (—) in recipe content; use spaces or hyphens instead.
 
 ### 6. Create the File
 
